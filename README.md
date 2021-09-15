@@ -1,13 +1,16 @@
 ## Parlay betting model
+
 The goal of this model is to see the correlation between props hitting in any given football game
 With the end result being a framework that bets the most likely outcomes in the form of parlay combinations. Initial thoughts being a framework that bets both underdog and favorite correlation props.
--------
 
 
-i.e. If team A's QB hits the over on passing yards, how likely is it that the WR1, WR2, WR3 are hitting the over on receiving stats such as yards, receptions, etc as well on team A?
-... and what does that mean for team B, are their QB and WRs also hitting the over on their props as they try and catch up to team A's passing attack who are hitting the over on their props?
+------
 
-Other examples include: If team A's RB hits the over on rushing yards, does team B's RB hit the under on rushing yards also while team B's QB hit the over on pass attempts, WR1 over on receptions, etc because they are needing to catch up while Team A is running the clock (and potentially covering the spread)?
+Example: If team A's QB hits the over on passing yards, how likely is it that the WR1, WR2, WR3 are hitting the over on receiving stats such as yards, receptions, etc as well on team A?
+
+What does that mean for team B, are their QB and WRs also hitting the over on their props as they try and catch up to team A's passing attack who are hitting the over on their props?
+
+Other example: If team A's RB hits the over on rushing yards, does team B's RB hit the under on rushing yards also while team B's QB hit the over on pass attempts, WR1 over on receptions, etc because they are needing to catch up while Team A is running the clock (and potentially covering the spread)?
 
 -------
 
