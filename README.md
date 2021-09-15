@@ -3,10 +3,10 @@ The goal of this model is to see the correlation between props hitting in any gi
 With the end result being a framework that bets the most likely outcomes in the form of parlay combinations. Initial thoughts being a framework that bets both underdog and favorite correlation props.
 
 
-i.e. If the team A's QB hits the over on passing yards, how likely is it that the WR1, WR2, WR3 are hitting the over on receiving stats such as yards, receptions, etc as well on team A?
-... and what does that mean for team B, is their QB and WRs also hitting the over on their props as they try and catch up to team A's passing attack who are hitting the over on their props?
+i.e. If team A's QB hits the over on passing yards, how likely is it that the WR1, WR2, WR3 are hitting the over on receiving stats such as yards, receptions, etc as well on team A?
+... and what does that mean for team B, are their QB and WRs also hitting the over on their props as they try and catch up to team A's passing attack who are hitting the over on their props?
 
-Other examples include: If the team A's RB hits the over on rushing yards, does team B's RB hit the under on rushing yards, while team B's QB hit the over on pass attempts, WR1 over on receptions, etc because they are needing to catch up while Team A is running the clock?
+Other examples include: If team A's RB hits the over on rushing yards, does team B's RB hit the under on rushing yards also while team B's QB hit the over on pass attempts, WR1 over on receptions, etc because they are needing to catch up while Team A is running the clock (and potentially covering the spread)?
 
 As there is a lot of variance in interceptions, TDs, and even length of reception/passing completion
 the model will be focusing primarily on yards, completions/attempts, receptions, over/under, favorite/underdog covering
