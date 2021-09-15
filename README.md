@@ -22,10 +22,10 @@ Different column for both. i.e. UND_RB_YDS and FAV_RB_YDS
 
 The dataset will have the following columns, and be placed in Parlay_DATA.CSV
 FAV_QB_YDS, FAV_QB_ATT, FAV_RB_ATT, FAV_RB_YDS, 
-FAV_WR1_REC, FAV_WR1_YDS, FAV_WR2_REC, FAV_WR2_YDS, FAV_WR3_REC, FAV_WR3_YDS, OVER, UNDER, FAV_COVER, UND_COVER, UND_QB_YDS, UND_QB_ATT, UND_RB_YDS, UND_RB_ATT, UND_WR1_YDS, UND_WR1_REC,
-UND_WR2_YDS, UND_WR2_REC, UND_WR3_YDS, UND_WR3_REC
+FAV_WR1_REC, FAV_WR1_YDS, FAV_WR2_REC, FAV_WR2_YDS, OVER, UNDER, FAV_COVER, UND_COVER, UND_QB_YDS, UND_QB_ATT, UND_RB_YDS, UND_RB_ATT, UND_WR1_YDS, UND_WR1_REC,
+UND_WR2_YDS, UND_WR2_REC
 
-24 columns in total
+20 columns in total
 
 Rows will be the games these parlays occur in, and each game will be formatted as follows:
 Chiefs 49 vs Buccanneers 17 in week 1. Chiefs were the favorite so they will be listed first. In the row, the game will show as "KC49_TB17_W1"
