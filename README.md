@@ -50,6 +50,8 @@ So, an example row of data for this dataset will be as follows:
 
 ![image](https://user-images.githubusercontent.com/58530177/133520021-9b5fc69b-b49a-4f9b-9def-dd776175de6f.png)
  
- (Game value should be: KAN49_TAM17_W1_2021) (Needed to use 3 letter abbrev for universal formatting)
+
+
+esketit
 
 
