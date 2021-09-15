@@ -48,7 +48,7 @@ I am not sure at this moment how else to do that, but I am open to changing that
 
 So, an example row of data for this dataset will be as follows:
 
- ![image](https://user-images.githubusercontent.com/58530177/133473234-b3ce0791-9b26-4ca0-8677-829b7d2ad266.png)
+![image](https://user-images.githubusercontent.com/58530177/133520021-9b5fc69b-b49a-4f9b-9def-dd776175de6f.png)
  
  (Game value should be: KAN49_TAM17_W1_2021) (Needed to use 3 letter abbrev for universal formatting)
 
