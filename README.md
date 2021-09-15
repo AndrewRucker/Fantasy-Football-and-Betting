@@ -8,10 +8,14 @@ i.e. If team A's QB hits the over on passing yards, how likely is it that the WR
 
 Other examples include: If team A's RB hits the over on rushing yards, does team B's RB hit the under on rushing yards also while team B's QB hit the over on pass attempts, WR1 over on receptions, etc because they are needing to catch up while Team A is running the clock (and potentially covering the spread)?
 
+-------
+
 As there is a lot of variance in interceptions, TDs, and even length of reception/passing completion
 the model will be focusing primarily on yards, completions/attempts, receptions, over/under, favorite/underdog covering
 
 At the high end, this would leave potential for 6-7 leg parlays?
+
+-------
 
 How will the dataset to track the test parlays look?
 Binary flags. Did the over hit? Yes, 1. Did the under hit? Yes, 0. 
@@ -29,6 +33,8 @@ FAV_WR1_REC, FAV_WR1_YDS, FAV_WR2_REC, FAV_WR2_YDS, OVER_HIT, UNDER_HIT, FAV_COV
 UND_WR2_YDS, UND_WR2_REC
 
 23 columns in total
+
+--------
 
 Rows will be the games these parlays occur in, and each game will be formatted as follows:
 Chiefs 49 vs Buccanneers 17 in week 1 2021. Chiefs were the favorite so they will be listed first. In the row, the game will show as "KC49_TB17_W1_2021"
