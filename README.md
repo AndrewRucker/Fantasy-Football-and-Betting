@@ -36,3 +36,6 @@ I am not sure at this moment how else to do that, but I am open to changing that
 So, an example row of data for this dataset will be as follows:
 
  ![image](https://user-images.githubusercontent.com/58530177/133473234-b3ce0791-9b26-4ca0-8677-829b7d2ad266.png)
+ 
+ (Game value should be: KC49_TB17_W1_2021)
+
