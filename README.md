@@ -35,5 +35,4 @@ I am not sure at this moment how else to do that, but I am open to changing that
 
 So, an example row of data for this dataset will be as follows:
 
- ######           FAV_QB_YDS - FAV_QB_ATT - FAV_RB_ATT - FAV_RB_YDS - FAV_WR1_REC - FAV_WR1_YDS - FAV_WR2_REC - FAV_WR2_YDS - FAV_WR3_REC - FAV_WR3_YDS -  OVER - UNDER...
-   KC49_TB17_W1       1           1           0           0           1               1            1               1            0            1             1     0               
+ ![image](https://user-images.githubusercontent.com/58530177/133473234-b3ce0791-9b26-4ca0-8677-829b7d2ad266.png)
