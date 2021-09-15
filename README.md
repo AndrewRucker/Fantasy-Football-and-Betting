@@ -28,7 +28,7 @@ UND_WR2_YDS, UND_WR2_REC
 20 columns in total
 
 Rows will be the games these parlays occur in, and each game will be formatted as follows:
-Chiefs 49 vs Buccanneers 17 in week 1. Chiefs were the favorite so they will be listed first. In the row, the game will show as "KC49_TB17_W1"
+Chiefs 49 vs Buccanneers 17 in week 1 2021. Chiefs were the favorite so they will be listed first. In the row, the game will show as "KC49_TB17_W1_2021"
 
 I am not sure at this moment how else to do that, but I am open to changing that game format.
 
