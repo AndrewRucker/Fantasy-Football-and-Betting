@@ -35,5 +35,5 @@ I am not sure at this moment how else to do that, but I am open to changing that
 
 So, an example row of data for this dataset will be as follows:
 
-                FAV_QB_YDS - FAV_QB_ATT - FAV_RB_ATT - FAV_RB_YDS - FAV_WR1_REC - FAV_WR1_YDS - FAV_WR2_REC - FAV_WR2_YDS - FAV_WR3_REC - FAV_WR3_YDS -  OVER - UNDER...
+ ######           FAV_QB_YDS - FAV_QB_ATT - FAV_RB_ATT - FAV_RB_YDS - FAV_WR1_REC - FAV_WR1_YDS - FAV_WR2_REC - FAV_WR2_YDS - FAV_WR3_REC - FAV_WR3_YDS -  OVER - UNDER...
    KC49_TB17_W1       1           1           0           0           1               1            1               1            0            1             1     0               
