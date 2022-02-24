@@ -1,6 +1,6 @@
 ## Parlay betting model
 
-The goal of this model is to see the correlation between props hitting in any given football game
+The goal of this project is to see the correlation between props hitting in any given football game
 With the end result being a framework that bets the most likely outcomes in the form of parlay combinations. Initial thoughts being a framework that bets both underdog and favorite correlation props.
 
 
