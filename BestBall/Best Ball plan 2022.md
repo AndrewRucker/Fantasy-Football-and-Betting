@@ -48,4 +48,15 @@ I however plan on maxing both the Puppy 2, and especially the Puppy 3. As those 
 ##### Total Monetary Exposure: $4,850
 
 
+### Drafting Plan
+
+
+#### Draftkings
+
+Last year the mill best ball tournament was released on Draftkings somewhere around **May 12th and May 21st**, with the earlier parts of that timeframe as the more likely outcomes this year after the NFL Draft. That leaves the drafting period for this tournament from *an estimated* May 14th - September 8th (NFL Week 1), or 117 days, to max in equal parts throughout the period I'd need to average 1.28 drafts per day. That will not be my plan to reach the highest EV I can in the contest. I'll be likely doing at max 10-20% of the 150 in the earliest part of the drafting window in May - June. Let's take a data based approach and plan out the exact drafting cadence for this though. 
+
+
+
+
+
 
