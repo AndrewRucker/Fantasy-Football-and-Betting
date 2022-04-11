@@ -39,6 +39,13 @@ I however plan on maxing both the Puppy 2, and especially the Puppy 3. As those 
 - 150 teams in the Millionaire Best Ball Contest on Draftkings. **$20 an entry, $3,000 total.**
 - 150 teams in the Puppy II. **$5 an entry, $750 total.**
 - 150 teams in the Puppy III. **$5 an entry, $750 total.**
+
+- 335 teams on Underdog
+- 150 teams on Draftkings
+- 485 total best ball teams
+
+
 ##### Total Monetary Exposure: $4,850
+
 
 
