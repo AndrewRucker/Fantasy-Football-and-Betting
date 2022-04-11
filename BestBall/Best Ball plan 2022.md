@@ -18,3 +18,17 @@ Throughout the summer, the other large field tournament available will be Best B
 
 *Maybe this changes next year with confirmed edge and profitability, for now it just doesnt make sense considering my bank roll*
 
+The DraftKings tournament will be my highest monetary exposure into a single contest, and while I won't be participating in the best ball mania tournament on Underdog... I will be participating in the lower stakes, less efficient tournaments called 'the Puppy'. Last summer (2021) there were three iterations of the puppy on Underdog. Each tournament was $5 per entry, 150 max entry alike the bigger tournaments. 
+
+The 3 puppies occured during the following dates in 2021:
+
+- The Puppy 1, July 5th - July 15th. 56k total entries.
+- The Puppy 2, August 2nd - August 12th. 111k total entries.
+- The Puppy 3, August 16th - Sept 9th. 223k total entries. 
+
+Assuming a similar schedule for the puppies, if EV is my #1 priority, I don't think participating in the first Puppy is the best idea. As the July puppy will likely have the least favorable drafting conditions. Only the serious (*ish*) best ball players draft before August. On top of that, its a deadzone for information, resulting in a lot of variance. It does not seem like a tournament I want to max out, at $750 it would be **almost a quarter of my total planned exposure**. 
+
+I however plan on maxing both the Puppy 2, and especially the Puppy 3. As those tournaments will have the most information availible, resulting in the least amount of variance, if there are 'average' best ball players it will be more likely they are drafting in the later puppies than the early ones. 
+
+- At $5 an entry, 150 teams in the Puppy 2 and 150 teams in the Puppy 3 will equate to $1,850 of exposure on Underdog (adding in pre draft big board and rookies and sophomores.
+
