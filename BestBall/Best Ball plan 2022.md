@@ -48,7 +48,7 @@ I however plan on maxing both the Puppy 2, and especially the Puppy 3. As those 
 ##### Total Monetary Exposure: $4,850
 
 
-### Drafting Plan
+## Drafting Plan
 
 
 #### Draftkings
