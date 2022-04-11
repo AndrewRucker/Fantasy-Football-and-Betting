@@ -32,3 +32,13 @@ I however plan on maxing both the Puppy 2, and especially the Puppy 3. As those 
 
 - At $5 an entry, 150 teams in the Puppy 2 and 150 teams in the Puppy 3 will equate to $1,850 of exposure on Underdog (adding in pre draft big board and rookies and sophomores.
 
+#### Position sizing summary:
+
+- 25 teams in Big Board pre draft on Underdog. **$10 an entry, $250 total.**
+- 10 teams in Rookies & Sophomores on Underdog. **$10 an entry, $100 total.**
+- 150 teams in the Millionaire Best Ball Contest on Draftkings. **$20 an entry, $3,000 total.**
+- 150 teams in the Puppy II. **$5 an entry, $750 total.**
+- 150 teams in the Puppy III. **$5 an entry, $750 total.**
+##### Total Monetary Exposure: $4,850
+
+
