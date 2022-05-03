@@ -1,9 +1,9 @@
 Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val
-1,WR,Jamar Chase,CIN,1,7,7,0,5/2/2022,0
-1,TE,Mark Andrews,BAL,2,18,18,0,5/2/2022,0
-1,RB,Aaron Jones,GB,3,31,31,0,5/2/2022,0
-1,QB,Lamar Jackson,BAL,4,42,42,0,5/2/2022,0
-1,RB,James Conner,AZ,5,55,55,0,5/2/2022,0
+1,WR,Jamar Chase,CIN,1,7,5.4,1.6,5/2/2022,0
+1,TE,Mark Andrews,BAL,2,18,20,-2,5/2/2022,0
+1,RB,Aaron Jones,GB,3,31,33,-2,5/2/2022,0
+1,QB,Lamar Jackson,BAL,4,42,41.8,0.2,5/2/2022,0
+1,RB,James Conner,AZ,5,55,51.6,3.4,5/2/2022,0
 1,WR,Courtland Sutton,DEN,6,66,66,0,5/2/2022,0
 1,WR,Treylon Burks,TEN,7,79,79,0,5/2/2022,0
 1,RB,Miles Sanders,PHI,8,90,90,0,5/2/2022,0
@@ -143,21 +143,39 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val
 8,WR,James Washington,DAL,16,186,186,0,5/2/2022,
 8,WR,Alec Pierce,IND,17,199,199,0,5/2/2022,
 8,WR,Ihmir Smith-Marsette,MIN,18,210,210,0,5/2/2022,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+9,RB,Christian Mccaffrey,CAR,1,2,2,0,5/2/2022,
+9,WR,Ceedee Lamb,DAL,2,23,23,0,5/2/2022,
+9,RB,Javonte Williams,DEN,3,26,26,0,5/2/2022,
+9,WR,Mike Williams,LAC,4,47,47,0,5/2/2022,
+9,WR,Terry Mclaurin,WAS,5,50,50,0,5/2/2022,
+9,WR,Devonta Smith,PHI,6,71,71,0,5/2/2022,
+9,QB,Jalen Hurts,PHI,7,74,74,0,5/2/2022,
+9,WR,Courtland Sutton,DEN,8,95,95,0,5/2/2022,
+9,RB,Miles Sanders,PHI,9,98,98,0,5/2/2022,
+9,TE,Albert Okwuegbunam,DEN,10,119,119,0,5/2/2022,
+9,WR,Kenny Golladay,NYG,11,122,122,0,5/2/2022,
+9,QB,Daniel Jones,NYG,12,143,143,0,5/2/2022,
+9,RB,Rachaad White,TB,13,146,146,0,5/2/2022,
+9,WR,James Washington,DAL,14,167,167,0,5/2/2022,
+9,TE,Robert Tonyan,GB,15,170,170,0,5/2/2022,
+9,WR,Sterling Shepard,NYG,16,191,191,0,5/2/2022,
+9,WR,Jamison Crowder,BUF,17,194,194,0,5/2/2022,
+9,RB,Kenyan Drake,LV,18,215,215,0,5/2/2022,
+10,RB,Derrick Henry,TEN,1,7,5,2,5/3/2022,
+10,WR,Tyreek Hill,MIA,2,18,13.9,4.1,5/3/2022,
+10,RB,Saquon Barkley,NYG,3,31,27,4,5/3/2022,
+10,WR,DJ Moore,CAR,4,42,41.7,0.3,5/3/2022,
+10,RB,Travis Etienne,JAX,5,55,57.4,-2.4,5/3/2022,
+10,WR,Gabriel Davis,BUF,6,66,66,0,5/3/2022,
+10,WR,Treylon Burks,TEN,7,79,79,0,5/3/2022,
+10,TE,Dallas Goedert,PHI,8,90,80.6,9.4,5/3/2022,
+10,RB,Miles Sanders,PHI,9,103,99.3,3.7,5/3/2022,
+10,QB,Deshaun Watson,CLE,10,114,91.8,22.2,5/3/2022,
+10,QB,Trevor Lawrence,JAX,11,127,124.4,2.6,5/3/2022,
+10,QB,Ryan Tannehill,TEN,12,138,139.1,-1.1,5/3/2022,
+10,WR,DJ Chark,DET,13,151,142.9,8.1,5/3/2022,
+10,WR,Laviska Shenault,JAX,14,162,165.3,-3.3,5/3/2022,
+10,TE,David Njoku,CLE,15,175,173.7,1.3,5/3/2022,
+10,WR,Jamison Crowder,BUF,16,186,185.8,0.2,5/3/2022,
+10,WR,Zay Jones,JAX,17,199,199,0,5/3/2022,
+10,TE,Austin Hooper,TEN,18,210,210,0,5/3/2022,
