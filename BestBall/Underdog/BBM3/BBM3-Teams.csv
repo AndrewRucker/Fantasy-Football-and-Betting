@@ -575,24 +575,24 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 32,WR,KJ Hamler,DEN,16,191,192.8,-1.8,5/12/2022,-19.5,Zero RB,Elite QB
 32,RB,Samaje Perine,CIN,17,194,194,0,5/12/2022,-19.5,Zero RB,Elite QB
 32,RB,Keaontay Ingram,AZ,18,215,215,0,5/12/2022,-19.5,Zero RB,Elite QB
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
+33,WR,Jamar Chase,CIN,1,7,5.2,1.8,5/12/2022,81.5,Anchor RB,Neither
+33,WR,Deebo Samuel,SF,2,18,16.6,1.4,5/12/2022,81.5,Anchor RB,Neither
+33,RB,James Conner,AZ,3,31,30.1,0.9,5/12/2022,81.5,Anchor RB,Neither
+33,WR,Jaylen Waddle,MIA,4,42,32.5,9.5,5/12/2022,81.5,Anchor RB,Neither
+33,WR,Gabriel Davis,BUF,5,55,58.1,-3.1,5/12/2022,81.5,Anchor RB,Neither
+33,RB,Antonio Gibson,WAS,6,66,55.2,10.8,5/12/2022,81.5,Anchor RB,Neither
+33,QB,Russell Wilson,DEN,7,79,76.5,2.5,5/12/2022,81.5,Anchor RB,Neither
+33,WR,Brandon Aiyuk,SF,8,90,81.8,8.2,5/12/2022,81.5,Anchor RB,Neither
+33,QB,Trey Lance,SF,9,103,98.3,4.7,5/12/2022,81.5,Anchor RB,Neither
+33,RB,Devin Singletary,BUF,10,114,104.3,9.7,5/12/2022,81.5,Anchor RB,Neither
+33,RB,Rhamondre Stevenson,NE,11,127,121.8,5.2,5/12/2022,81.5,Anchor RB,Neither
+33,TE,Albert Okwuegbunam,DEN,12,138,135.8,2.2,5/12/2022,81.5,Anchor RB,Neither
+33,TE,Robert Tonyan,GB,13,151,137.9,13.1,5/12/2022,81.5,Anchor RB,Neither
+33,WR,KJ Osborn,MIN,14,162,157.1,4.9,5/12/2022,81.5,Anchor RB,Neither
+33,RB,Tyrion Davis-Price,SF,15,175,175,0,5/12/2022,81.5,Anchor RB,Neither
+33,WR,KJ Hamler,DEN,16,186,192.8,-6.8,5/12/2022,81.5,Anchor RB,Neither
+33,TE,Gerald Everett,LAC,17,199,182.5,16.5,5/12/2022,81.5,Anchor RB,Neither
+33,WR,Isaiah Mckenzie,BUF,18,210,210,0,5/12/2022,81.5,Anchor RB,Neither
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
