@@ -628,37 +628,40 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 35,RB,Kenneth Gainwell,PHI,15,176,165.7,10.3,5/13/2022,45.9,Zero RB,Elite TE
 35,WR,Jalen Tolbert,DAL,16,185,178.7,6.3,5/13/2022,45.9,Zero RB,Elite TE
 35,TE,Trey Mcbride,AZ,17,200,200,0,5/13/2022,45.9,Zero RB,Elite TE
-35,WR,Isaiah Mckenzie,BUF,18,209,209,0,5/13/2022,45.9,Zero RB,Elite TE
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
+36,WR,Isaiah Mckenzie,BUF,18,209,209,0,5/13/2022,45.9,Zero RB,Elite TE
+36,WR,Stefon Diggs,BUF,1,8,11,-3,5/13/2022,7.7,Zero RB,Elite TE
+36,TE,Mark Andrews,BAL,2,17,16.9,0.1,5/13/2022,7.7,Zero RB,Elite TE
+36,WR,DJ Moore,CAR,3,32,36.5,-4.5,5/13/2022,7.7,Zero RB,Elite TE
+36,WR,Mike Williams,LAC,4,41,43.6,-2.6,5/13/2022,7.7,Zero RB,Elite TE
+36,WR,Gabriel Davis,BUF,5,56,57.3,-1.3,5/13/2022,7.7,Zero RB,Elite TE
+36,RB,Elijah Mitchell,SF,6,65,68.4,-3.4,5/13/2022,7.7,Zero RB,Elite TE
+36,WR,Elijah Moore,NYJ,7,80,67,13,5/13/2022,7.7,Zero RB,Elite TE
+36,WR,Garrett Wilson,NYJ,8,89,93.4,-4.4,5/13/2022,7.7,Zero RB,Elite TE
+36,QB,Trey Lance,SF,9,104,98.9,5.1,5/13/2022,7.7,Zero RB,Elite TE
+36,WR,Jameson Williams,DET,10,113,110.7,2.3,5/13/2022,7.7,Zero RB,Elite TE
+36,RB,Rhamondre Stevenson,NE,11,128,122.1,5.9,5/13/2022,7.7,Zero RB,Elite TE
+36,RB,Rachaad White,TB,12,137,132.5,4.5,5/13/2022,7.7,Zero RB,Elite TE
+36,QB,Zach Wilson,NYJ,13,152,153.1,-1.1,5/13/2022,7.7,Zero RB,Elite TE
+36,TE,Noah Fant,SEA,14,161,165.9,-4.9,5/13/2022,7.7,Zero RB,Elite TE
+36,RB,Khalil Herbert,CHI,15,176,173.1,2.9,5/13/2022,7.7,Zero RB,Elite TE
+36,RB,Jamaal Williams,DET,16,185,185.9,-0.9,5/13/2022,7.7,Zero RB,Elite TE
+36,RB,Sony Michel,MIA,17,200,200,0,5/13/2022,7.7,Zero RB,Elite TE
+36,WR,Danny Gray,SF,18,209,209,0,5/13/2022,7.7,Zero RB,Elite TE
+37,RB,Christian Mccaffrey,CAR,1,2,3.3,-1.3,5/13/2022,25.6,Anchor RB,Neither
+37,WR,Mike Evans,TB,2,23,20.7,2.3,5/13/2022,25.6,Anchor RB,Neither
+37,WR,Tee Higgins,CIN,3,26,25.8,0.2,5/13/2022,25.6,Anchor RB,Neither
+37,WR,Courtland Sutton,DEN,4,47,52.4,-5.4,5/13/2022,25.6,Anchor RB,Neither
+37,WR,Gabriel Davis,BUF,5,50,57.3,-7.3,5/13/2022,25.6,Anchor RB,Neither
+37,RB,Elijah Mitchell,SF,6,71,68.4,2.6,5/13/2022,25.6,Anchor RB,Neither
+37,QB,Tom Brady,TB,7,74,72.3,1.7,5/13/2022,25.6,Anchor RB,Neither
+37,WR,Christian Kirk,JAX,8,95,97.7,-2.7,5/13/2022,25.6,Anchor RB,Neither
+37,WR,Garrett Wilson,NYJ,9,98,93.4,4.6,5/13/2022,25.6,Anchor RB,Neither
+37,RB,Melvin Gordon,DEN,10,119,113.7,5.3,5/13/2022,25.6,Anchor RB,Neither
+37,TE,Rob Gronkowski,TB,11,122,126.2,-4.2,5/13/2022,25.6,Anchor RB,Neither
+37,QB,Trevor Lawrence,JAX,12,143,144.5,-1.5,5/13/2022,25.6,Anchor RB,Neither
+37,WR,Jamison Crowder,BUF,13,146,146,0,5/13/2022,25.6,Anchor RB,Neither
+37,RB,Khalil Herbert,CHI,14,167,167,0,5/13/2022,25.6,Anchor RB,Neither
+37,RB,Brian Robinson Jr.,WAS,15,170,170,0,5/13/2022,25.6,Anchor RB,Neither
+37,TE,Logan Thomas,WAS,16,191,176,15,5/13/2022,25.6,Anchor RB,Neither
+37,QB,Carson Wentz,WAS,17,194,194,0,5/13/2022,25.6,Anchor RB,Neither
+37,WR,Nico Collins,HOU,18,215,198.7,16.3,5/13/2022,25.6,Anchor RB,Neither
