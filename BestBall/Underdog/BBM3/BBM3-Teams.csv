@@ -683,3 +683,57 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 38,WR,Sammy Watkins,GB,16,189,172.2,16.8,5/13/2022,131.1,Hyperfragile RB,Elite TE
 38,WR,Robby Anderson,CAR,17,196,184.2,11.8,5/13/2022,131.1,Hyperfragile RB,Elite TE
 38,WR,Velus Jones,CHI,18,213,213,0,5/13/2022,131.1,Hyperfragile RB,Elite TE
+39,WR,Jamar Chase,CIN,1,4,5.2,-1.2,5/13/2022,4.4,Superhero RB,Elite TE
+39,RB,Nick Chubb,CLE,2,21,21.1,-0.1,5/13/2022,4.4,Superhero RB,Elite TE
+39,RB,Saquon Barkley,NYG,3,28,27.3,0.7,5/13/2022,4.4,Superhero RB,Elite TE
+39,TE,George Kittle,SF,4,45,44.9,0.1,5/13/2022,4.4,Superhero RB,Elite TE
+39,WR,Courtland Sutton,DEN,5,52,52.4,-0.4,5/13/2022,4.4,Superhero RB,Elite TE
+39,QB,Joe Burrow,CIN,6,69,63.7,5.3,5/13/2022,4.4,Superhero RB,Elite TE
+39,QB,Russell Wilson,DEN,7,76,76.4,-0.4,5/13/2022,4.4,Superhero RB,Elite TE
+39,TE,Dawson Knox,BUF,8,93,96.2,-3.2,5/13/2022,4.4,Superhero RB,Elite TE
+39,RB,Devin Singletary,BUF,9,100,104.6,-4.6,5/13/2022,4.4,Superhero RB,Elite TE
+39,WR,Tyler Boyd,CIN,10,117,112.5,4.5,5/13/2022,4.4,Superhero RB,Elite TE
+39,RB,Alexander Mattison,MIN,11,124,125.5,-1.5,5/13/2022,4.4,Superhero RB,Elite TE
+39,RB,Tyler Allgeier,ATL,12,141,147.3,-6.3,5/13/2022,4.4,Superhero RB,Elite TE
+39,WR,Jamison Crowder,BUF,13,148,148.5,-0.5,5/13/2022,4.4,Superhero RB,Elite TE
+39,WR,David Bell,CLE,14,165,153.4,11.6,5/13/2022,4.4,Superhero RB,Elite TE
+39,WR,Curtis Samuel,WAS,15,172,172.3,-0.3,5/13/2022,4.4,Superhero RB,Elite TE
+39,WR,Julio Jones,,16,189,188.3,0.7,5/13/2022,4.4,Superhero RB,Elite TE
+39,WR,Wandale Robinson,NYG,17,196,196,0,5/13/2022,4.4,Superhero RB,Elite TE
+39,WR,Romeo Doubs,GB,18,213,213,0,5/13/2022,4.4,Superhero RB,Elite TE
+40,WR,Stefon Diggs,BUF,1,11,11,0,5/13/2022,-10.5,Zero RB,Neither
+40,WR,Ceedee Lamb,DAL,2,14,14.3,-0.3,5/13/2022,-10.5,Zero RB,Neither
+40,WR,DJ Moore,CAR,3,35,36.5,-1.5,5/13/2022,-10.5,Zero RB,Neither
+40,WR,Marquise Brown,AZ,4,38,42.8,-4.8,5/13/2022,-10.5,Zero RB,Neither
+40,WR,Michael Thomas,NO,5,59,55.8,3.2,5/13/2022,-10.5,Zero RB,Neither
+40,QB,Jalen Hurts,PHI,6,62,65.2,-3.2,5/13/2022,-10.5,Zero RB,Neither
+40,QB,Dak Prescott,DAL,7,83,82.8,0.2,5/13/2022,-10.5,Zero RB,Neither
+40,TE,Dalton Schultz,DAL,8,86,80.1,5.9,5/13/2022,-10.5,Zero RB,Neither
+40,TE,Dawson Knox,BUF,9,107,96.2,10.8,5/13/2022,-10.5,Zero RB,Neither
+40,WR,Kadarius Toney,NYG,10,110,109.9,0.1,5/13/2022,-10.5,Zero RB,Neither
+40,RB,Isaiah Spiller,LAC,11,131,138.9,-7.9,5/13/2022,-10.5,Zero RB,Neither
+40,RB,Tyler Allgeier,ATL,12,134,147.3,-13.3,5/13/2022,-10.5,Zero RB,Neither
+40,RB,James Robinson,JAX,13,155,147.9,7.1,5/13/2022,-10.5,Zero RB,Neither
+40,RB,Kenneth Gainwell,PHI,14,158,165.7,-7.7,5/13/2022,-10.5,Zero RB,Neither
+40,RB,Marlon Mack,HOU,15,179,178.1,0.9,5/13/2022,-10.5,Zero RB,Neither
+40,RB,JD Mckissic,WAS,16,182,182,0,5/13/2022,-10.5,Zero RB,Neither
+40,WR,Wandale Robinson,NYG,17,203,203,0,5/13/2022,-10.5,Zero RB,Neither
+40,WR,Quez Watkins,PHI,18,206,206,0,5/13/2022,-10.5,Zero RB,Neither
+41,WR,Jamar Chase,CIN,1,4,5.3,-1.3,5/16/2022,17.8,Zero RB,Elite QB
+41,WR,Tyreek Hill,MIA,2,21,20,1,5/16/2022,17.8,Zero RB,Elite QB
+41,QB,Josh Allen,BUF,3,28,24.2,3.8,5/16/2022,17.8,Zero RB,Elite QB
+41,WR,Chris Godwin,TB,4,45,46,-1,5/16/2022,17.8,Zero RB,Elite QB
+41,RB,Breece Hall,NYJ,5,52,49.2,2.8,5/16/2022,17.8,Zero RB,Elite QB
+41,RB,Elijah Mitchell,SF,6,69,68.1,0.9,5/16/2022,17.8,Zero RB,Elite QB
+41,WR,Devonta Smith,PHI,7,76,73.1,2.9,5/16/2022,17.8,Zero RB,Elite QB
+41,TE,Dawson Knox,BUF,8,93,96.4,-3.4,5/16/2022,17.8,Zero RB,Elite QB
+41,WR,Chris Olave,NO,9,100,92.4,7.6,5/16/2022,17.8,Zero RB,Elite QB
+41,WR,Jameson Williams,DET,10,117,113,4,5/16/2022,17.8,Zero RB,Elite QB
+41,RB,Rachaad White,TB,11,124,132.4,-8.4,5/16/2022,17.8,Zero RB,Elite QB
+41,TE,Hunter Henry,TE,12,141,140.7,0.3,5/16/2022,17.8,Zero RB,Elite QB
+41,WR,Jarvis Landry,NO,13,148,145.1,2.9,5/16/2022,17.8,Zero RB,Elite QB
+41,RB,Kenneth Gainwell,PHI,14,165,162.3,2.7,5/16/2022,17.8,Zero RB,Elite QB
+41,QB,Mac Jones,NE,15,172,172,0,5/16/2022,17.8,Zero RB,Elite QB
+41,WR,Kendrick Bourne,NE,16,189,187.3,1.7,5/16/2022,17.8,Zero RB,Elite QB
+41,RB,Sony Michel,MIA,17,196,196,0,5/16/2022,17.8,Zero RB,Elite QB
+41,RB,James White,NE,18,213,213,0,5/16/2022,17.8,Zero RB,Elite QB
