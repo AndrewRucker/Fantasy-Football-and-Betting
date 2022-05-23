@@ -827,3 +827,75 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 46,RB,JD Mckissic,WAS,16,184,188.9,-4.9,5/20/2022,8.8,Superhero RB,Elite TE
 46,WR,Velus Jones,CHI,17,201,201,0,5/20/2022,8.8,Superhero RB,Elite TE
 46,WR,Antoine Wesley,AZ,18,208,208,0,5/20/2022,8.8,Superhero RB,Elite TE
+47,RB,Austin Ekeler,LAC,1,11,6.9,4.1,5/23/2022,32.4,Superhero RB,Neither
+47,WR,Davante Adams,LV,2,14,11.4,2.6,5/23/2022,32.4,Superhero RB,Neither
+47,RB,Cam Akers,LAR,3,35,36.7,-1.7,5/23/2022,32.4,Superhero RB,Neither
+47,WR,Mike Williams,LAC,4,38,37,1,5/23/2022,32.4,Superhero RB,Neither
+47,WR,Juju Smith-Schuster,KC,5,59,55.6,3.4,5/23/2022,32.4,Superhero RB,Neither
+47,WR,Rashod Bateman,BAL,6,62,61.6,0.4,5/23/2022,32.4,Superhero RB,Neither
+47,RB,Elijah Mitchell,SF,7,83,67.2,15.8,5/23/2022,32.4,Superhero RB,Neither
+47,RB,AJ Dillon,GB,8,86,72,14,5/23/2022,32.4,Superhero RB,Neither
+47,WR,Marquez Valdes-Scantling,KC,9,107,106.4,0.6,5/23/2022,32.4,Superhero RB,Neither
+47,QB,Kirk Cousins,MIN,10,110,120.4,-10.4,5/23/2022,32.4,Superhero RB,Neither
+47,TE,Robert Tonyan,GB,11,131,132.9,-1.9,5/23/2022,32.4,Superhero RB,Neither
+47,TE,Irv Smith,MIN,12,134,139.8,-5.8,5/23/2022,32.4,Superhero RB,Neither
+47,WR,George Pickens,PIT,13,155,148.2,6.8,5/23/2022,32.4,Superhero RB,Neither
+47,QB,Daniel Jones,NYG,14,158,158.7,-0.7,5/23/2022,32.4,Superhero RB,Neither
+47,TE,Gerald Everett,LAC,15,179,174.8,4.2,5/23/2022,32.4,Superhero RB,Neither
+47,WR,Wandale Robinson,NYG,16,182,182,0,5/23/2022,32.4,Superhero RB,Neither
+47,WR,Parris Campbell,IND,17,203,203,0,5/23/2022,32.4,Superhero RB,Neither
+47,WR,Ihmir Smith-Marsette,MIN,18,206,206,0,5/23/2022,32.4,Superhero RB,Neither
+48,RB,Jonathan Taylor,IND,1,1,1.1,-0.1,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,RB,Saquon Barkley,NYG,2,24,26.7,-2.7,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,RB,Javonte Williams,DEN,3,25,23.5,1.5,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,DK Metcalf,SEA,4,48,43,5,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,Chris Godwin,TB,5,49,48.8,0.2,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,QB,Tom Brady,TB,6,72,74,-2,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,TE,TJ Hockenson,DET,7,73,78.1,-5.1,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,Garrett Wilson,NYJ,8,96,95.7,0.3,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,RB,Tony Pollard,DAL,9,97,90.4,6.6,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,TE,Rob Gronkowski,TB,10,120,120.8,-0.8,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,QB,Justin Fields,CHI,11,121,127.6,-6.6,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,George Pickens,PIT,12,144,143.7,0.3,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,Jahan Dotson,WAS,13,145,148.2,-3.2,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,Corey Davis,NYJ,14,168,156.8,11.2,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,KJ Hamler,DEN,15,169,176.9,-7.9,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,Velus Jones,CHI,16,192,192,0,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,Parris Campbell,IND,17,193,193,0,5/23/2022,-3.3,Hyperfragile RB,Neither
+48,WR,Terrace Marshall,CAR,18,216,216,0,5/23/2022,-3.3,Hyperfragile RB,Neither
+49,RB,Najee Harris,PIT,1,7,8.2,-1.2,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,RB,Dandre Swift,DET,2,18,17.3,0.7,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,RB,Saquon Barkley,NYG,3,31,26.7,4.3,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,TE,Darren Waller,LV,4,42,41,1,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Terry Mclaurin,WAS,5,55,45.8,9.2,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,QB,Jalen Hurts,PHI,6,66,64.9,1.1,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Brandon Aiyuk,SF,7,79,84.4,-5.4,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Chris Olave,NO,8,90,94.3,-4.3,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,QB,Trey Lance,SF,9,103,101.7,1.3,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,RB,Chase Edmonds,MIA,10,114,107.3,6.7,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,TE,Mike Gesicki,MIA,11,127,126,1,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Jakobi Meyers,NE,12,138,136.3,1.7,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Jahan Dotson,WAS,13,151,143.7,7.3,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Jalen Tolbert,DAL,14,162,161,1,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Sammy Watkins,GB,15,175,171.9,3.1,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Quez Watkins,PHI,16,186,186,0,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Danny Gray,SF,17,199,199,0,5/23/2022,27.5,Hyperfragile RB,Elite TE
+49,WR,Anthony Schwartz,CLE,18,210,210,0,5/23/2022,27.5,Hyperfragile RB,Elite TE
+50,RB,Derrick Henry,TEN,1,8,6.1,1.9,5/23/2022,,Hyperfragile RB,Elite QB
+50,RB,Dandre Swift,DET,2,17,17.3,-0.3,5/23/2022,,Hyperfragile RB,Elite QB
+50,RB,Saquon Barkley,NYG,3,32,26.7,5.3,5/23/2022,,Hyperfragile RB,Elite QB
+50,WR,DJ Moore,CAR,4,41,37,4,5/23/2022,,Hyperfragile RB,Elite QB
+50,QB,Lamar Jackson,BAL,5,56,46.5,9.5,5/23/2022,,Hyperfragile RB,Elite QB
+50,WR,Darnell Mooney,CHI,6,65,65.5,-0.5,5/23/2022,,Hyperfragile RB,Elite QB
+50,QB,Dak Prescott,DAL,7,80,83.9,-3.9,5/23/2022,,Hyperfragile RB,Elite QB
+50,TE,Dallas Goedert,PHI,8,89,91.2,-2.2,5/23/2022,,Hyperfragile RB,Elite QB
+50,WR,Robert Woods,TEN,9,104,104.6,-0.6,5/23/2022,,Hyperfragile RB,Elite QB
+50,WR,Michael Gallup,DAL,10,113,108.2,4.8,5/23/2022,,Hyperfragile RB,Elite QB
+50,TE,Pat Freiermuth,PIT,11,128,121.1,6.9,5/23/2022,,Hyperfragile RB,Elite QB
+50,RB,Michael Carter,NYJ,12,137,138.4,-1.4,5/23/2022,,Hyperfragile RB,Elite QB
+50,WR,George Pickens,PIT,13,152,148.2,3.8,5/23/2022,,Hyperfragile RB,Elite QB
+50,WR,Jalen Tolbert,DAL,14,161,161.9,-0.9,5/23/2022,,Hyperfragile RB,Elite QB
+50,TE,Tyler Higbee,LAR,15,176,158.1,17.9,5/23/2022,,Hyperfragile RB,Elite QB
+50,WR,Devin Duvernay,BAL,16,185,185,0,5/23/2022,,Hyperfragile RB,Elite QB
+50,WR,Jaylen Guyton,LAC,17,200,200,0,5/23/2022,,Hyperfragile RB,Elite QB
+50,WR,James Proche,BAL,18,209,209,0,5/23/2022,,Hyperfragile RB,Elite QB
