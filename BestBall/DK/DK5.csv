@@ -639,23 +639,43 @@
 32,WR,Wandale Robinson,NYG,18,209,202.4,6.6,5/27/2022,51.8,Anchor RB,Elite QB/TE
 32,WR,Tyquan Thorton,NE,19,224,224,0,5/27/2022,51.8,Anchor RB,Elite QB/TE
 32,WR,Romeo Doubs,GB,20,233,233,0,5/27/2022,51.8,Anchor RB,Elite QB/TE
-33,RB,Christian Mccaffrey,CAR,1,2,3.1,-1.1,5/27/2022,,Modified Hyperfragile RB,
-33,RB,Aaron Jones,GB,2,23,19.5,3.5,5/27/2022,,Modified Hyperfragile RB,
-33,WR,AJ Brown,PHI,3,26,27,-1,5/27/2022,,Modified Hyperfragile RB,
-33,TE,George Kittle,SF,4,47,42.9,4.1,5/27/2022,,Modified Hyperfragile RB,
-33,WR,DJ Moore,CAR,5,50,46.2,3.8,5/27/2022,,Modified Hyperfragile RB,
-33,RB,Elijah Mitchell,SF,6,71,66,5,5/27/2022,,Modified Hyperfragile RB,
-33,RB,Cordarrelle Patterson,ATL,7,74,74,0,5/27/2022,,Modified Hyperfragile RB,
-33,QB,Trey Lance,SF,8,95,103,-8,5/27/2022,,Modified Hyperfragile RB,
-33,WR,Brandon Aiyuk,SF,9,98,90.4,7.6,5/27/2022,,Modified Hyperfragile RB,
-33,WR,Kadarius Toney,NYG,10,119,115.6,3.4,5/27/2022,,Modified Hyperfragile RB,
-33,WR,Michael Gallup,DAL,11,122,118,4,5/27/2022,,Modified Hyperfragile RB,
-33,,,,12,143,,,5/27/2022,,Modified Hyperfragile RB,
-33,,,,13,146,,,5/27/2022,,Modified Hyperfragile RB,
-33,,,,14,167,,,5/27/2022,,Modified Hyperfragile RB,
-33,,,,15,170,,,5/27/2022,,Modified Hyperfragile RB,
-33,,,,16,191,,,5/27/2022,,Modified Hyperfragile RB,
-33,,,,17,194,,,5/27/2022,,Modified Hyperfragile RB,
-33,,,,18,215,,,5/27/2022,,Modified Hyperfragile RB,
-33,,,,19,218,,,5/27/2022,,Modified Hyperfragile RB,
-33,,,,20,239,,,5/27/2022,,Modified Hyperfragile RB,
+33,RB,Christian Mccaffrey,CAR,1,2,3.1,-1.1,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,RB,Aaron Jones,GB,2,23,19.5,3.5,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,WR,AJ Brown,PHI,3,26,27,-1,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,TE,George Kittle,SF,4,47,42.9,4.1,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,WR,DJ Moore,CAR,5,50,46.2,3.8,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,RB,Elijah Mitchell,SF,6,71,66,5,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,RB,Cordarrelle Patterson,ATL,7,74,74,0,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,QB,Trey Lance,SF,8,95,103,-8,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,WR,Brandon Aiyuk,SF,9,98,90.4,7.6,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,WR,Kadarius Toney,NYG,10,119,115.6,3.4,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,WR,Michael Gallup,DAL,11,122,118,4,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,TE,Robert Tonyan,GB,12,143,143,0,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,WR,Devante Parker,NE,13,146,145,1,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,QB,Daniel Jones,NYG,14,167,162,5,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,QB,Mac Jones,NE,15,170,166,4,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,RB,Darrel Williams,AZ,16,191,191,0,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,WR,Wandale Robinson,NYG,17,194,194,0,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,WR,Tyquan Thorton,NE,18,215,215,0,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,TE,Jonnu Smith,NE,19,218,218,0,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+33,WR,Darius Slayton,NYG,20,239,239,0,5/27/2022,31.3,Modified Hyperfragile RB,Elite TE
+34,RB,Najee Harris,PIT,1,8,10,-2,5/27/2022,87.6,Anchor RB,Elite TE
+34,WR,Ceedee Lamb,DAL,2,17,14.9,2.1,5/27/2022,87.6,Anchor RB,Elite TE
+34,TE,Kyle Pitts,ATL,3,32,33.2,-1.2,5/27/2022,87.6,Anchor RB,Elite TE
+34,WR,Jaylen Waddle,MIA,4,41,38,3,5/27/2022,87.6,Anchor RB,Elite TE
+34,WR,DJ Moore,CAR,5,56,46.2,9.8,5/27/2022,87.6,Anchor RB,Elite TE
+34,QB,Kyler Murray,AZ,6,65,61,4,5/27/2022,87.6,Anchor RB,Elite TE
+34,WR,Rashod Bateman,BAL,7,80,66.7,13.3,5/27/2022,87.6,Anchor RB,Elite TE
+34,WR,Drake London,ATL,8,89,81.4,7.6,5/27/2022,87.6,Anchor RB,Elite TE
+34,WR,Christian Kirk,JAX,9,104,99,5,5/27/2022,87.6,Anchor RB,Elite TE
+34,WR,Rondale Moore,AZ,10,113,120,-7,5/27/2022,87.6,Anchor RB,Elite TE
+34,RB,Rachaad White,TB,11,128,131,-3,5/27/2022,87.6,Anchor RB,Elite TE
+34,QB,Trevor Lawrence,JAX,12,137,137,0,5/27/2022,87.6,Anchor RB,Elite TE
+34,RB,Kenneth Gainwell,PHI,13,152,152,0,5/27/2022,87.6,Anchor RB,Elite TE
+34,RB,JD Mckissic,WAS,14,161,158,3,5/27/2022,87.6,Anchor RB,Elite TE
+34,TE,Evan Engram,JAX,15,176,175,1,5/27/2022,87.6,Anchor RB,Elite TE
+34,RB,Darrel Williams,AZ,16,185,185,0,5/27/2022,87.6,Anchor RB,Elite TE
+34,RB,Sony Michel,MIA,17,200,200,0,5/27/2022,87.6,Anchor RB,Elite TE
+34,TE,Trey Mcbride,AZ,18,209,207,2,5/27/2022,87.6,Anchor RB,Elite TE
+34,RB,Donta Foreman,CAR,19,224,204,20,5/27/2022,87.6,Anchor RB,Elite TE
+34,WR,Laviska Shenault,JAX,20,233,203,30,5/27/2022,87.6,Anchor RB,Elite TE
