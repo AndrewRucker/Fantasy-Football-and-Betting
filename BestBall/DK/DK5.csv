@@ -600,22 +600,42 @@
 30,TE,Tyler Conklin,NYJ,19,226,226,0,5/25/2022,20.9,Hyperfragile RB,Elite QB
 30,TE,Donald Parham,LAC,20,231,231,0,5/25/2022,20.9,Hyperfragile RB,Elite QB
 31,WR,Cooper Kupp,LAR,1,4,2.3,1.7,5/26/2022,52.6,Anchor RB,Neither
-31,RB,Alvin Kamara,NO,2,21,18.6,2.4,5/26/2022,,Anchor RB,Neither
-31,WR,Keenan Allen,LAC,3,28,27.7,0.3,5/26/2022,,Anchor RB,Neither
-31,WR,DJ Moore,CAR,4,45,45.1,-0.1,5/26/2022,,Anchor RB,Neither
-31,WR,JuJu Smith-Schuster,KC,5,52,51,1,5/26/2022,,Anchor RB,Neither
-31,RB,Josh Jacobs,LV,6,69,54.4,14.6,5/26/2022,,Anchor RB,Neither
-31,QB,Matthew Stafford,LAR,7,77,81.4,-4.4,5/26/2022,,Anchor RB,Neither
-31,QB,Aaron Rodgers,GB,8,93,92.3,0.7,5/26/2022,,Anchor RB,Neither
-31,WR,Christian Kirk,JAX,9,100,100,0,5/26/2022,,Anchor RB,Neither
-31,TE,Zach Ertz,AZ,10,117,99.2,17.8,5/26/2022,,Anchor RB,Neither
-31,RB,Rachaad White,TB,11,124,130.1,-6.1,5/26/2022,,Anchor RB,Neither
-31,TE,Robert Tonyan,GB,12,141,141,0,5/26/2022,,Anchor RB,Neither
-31,RB,Kenneth Gainwell,PHI,13,148,152,-4,5/26/2022,,Anchor RB,Neither
-31,TE,Noah Fant,SEA,14,165,156.2,8.8,5/26/2022,,Anchor RB,Neither
-31,RB,Khalil Herbert,CHI,15,172,169.3,2.7,5/26/2022,,Anchor RB,Neither
-31,WR,Curtis Samuel,WAS,16,189,188,1,5/26/2022,,Anchor RB,Neither
-31,RB,Raheem Mostert,MIA,17,196,179.8,16.2,5/26/2022,,Anchor RB,Neither
-31,WR,Romeo Doubs,GB,18,213,213,0,5/26/2022,,Anchor RB,Neither
-31,QB,Matt Corral,CAR,19,220,220,0,5/26/2022,,Anchor RB,Neither
-31,WR,Terrace Marshall,CAR,20,237,237,0,5/26/2022,,Anchor RB,Neither
+31,RB,Alvin Kamara,NO,2,21,18.6,2.4,5/26/2022,52.6,Anchor RB,Neither
+31,WR,Keenan Allen,LAC,3,28,27.7,0.3,5/26/2022,52.6,Anchor RB,Neither
+31,WR,DJ Moore,CAR,4,45,45.1,-0.1,5/26/2022,52.6,Anchor RB,Neither
+31,WR,JuJu Smith-Schuster,KC,5,52,51,1,5/26/2022,52.6,Anchor RB,Neither
+31,RB,Josh Jacobs,LV,6,69,54.4,14.6,5/26/2022,52.6,Anchor RB,Neither
+31,QB,Matthew Stafford,LAR,7,77,81.4,-4.4,5/26/2022,52.6,Anchor RB,Neither
+31,QB,Aaron Rodgers,GB,8,93,92.3,0.7,5/26/2022,52.6,Anchor RB,Neither
+31,WR,Christian Kirk,JAX,9,100,100,0,5/26/2022,52.6,Anchor RB,Neither
+31,TE,Zach Ertz,AZ,10,117,99.2,17.8,5/26/2022,52.6,Anchor RB,Neither
+31,RB,Rachaad White,TB,11,124,130.1,-6.1,5/26/2022,52.6,Anchor RB,Neither
+31,TE,Robert Tonyan,GB,12,141,141,0,5/26/2022,52.6,Anchor RB,Neither
+31,RB,Kenneth Gainwell,PHI,13,148,152,-4,5/26/2022,52.6,Anchor RB,Neither
+31,TE,Noah Fant,SEA,14,165,156.2,8.8,5/26/2022,52.6,Anchor RB,Neither
+31,RB,Khalil Herbert,CHI,15,172,169.3,2.7,5/26/2022,52.6,Anchor RB,Neither
+31,WR,Curtis Samuel,WAS,16,189,188,1,5/26/2022,52.6,Anchor RB,Neither
+31,RB,Raheem Mostert,MIA,17,196,179.8,16.2,5/26/2022,52.6,Anchor RB,Neither
+31,WR,Romeo Doubs,GB,18,213,213,0,5/26/2022,52.6,Anchor RB,Neither
+31,QB,Matt Corral,CAR,19,220,220,0,5/26/2022,52.6,Anchor RB,Neither
+31,WR,Terrace Marshall,CAR,20,237,237,0,5/26/2022,52.6,Anchor RB,Neither
+32,TE,Travis Kelce,KC,1,8,9.5,-1.5,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,RB,Dandre Swift,DET,2,17,16.5,0.5,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,QB,Patrick Mahomes,KC,3,32,31.9,0.1,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Jaylen Waddle,MIA,4,41,37.5,3.5,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Jerry Jeudy,DEN,5,56,58,-2,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,QB,Kyler Murray,AZ,6,65,61.4,3.6,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Drake London,ATL,7,80,81.5,-1.5,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,RB,Devin Singletary,BUF,8,89,93,-4,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,TE,Zach Ertz,AZ,9,104,98,6,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Mecole Hardman,KC,10,113,119,-6,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Rondale Moore,AZ,11,128,125,3,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,RB,Rachaad White,TB,12,137,131,6,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Jamison Crowder,BUF,13,152,144,8,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,RB,Kenneth Gainwell,PHI,14,161,153.5,7.5,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,RB,Khalil Herbert,CHI,15,176,170,6,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Odell Beckham,,16,185,171,14,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,RB,Brian Robinson,WAS,17,200,198,2,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Wandale Robinson,NYG,18,209,202.4,6.6,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Tyquan Thorton,NE,19,224,224,0,5/27/2022,51.8,Anchor RB,Elite QB/TE
+32,WR,Romeo Doubs,GB,20,233,233,0,5/27/2022,51.8,Anchor RB,Elite QB/TE
