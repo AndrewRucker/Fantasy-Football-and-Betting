@@ -399,26 +399,26 @@
 20,WR,Danny Gray,SF,18,215,215,0,5/20/2022,44,Superhero RB,Neither
 20,RB,James White,NE,19,218,218,0,5/20/2022,44,Superhero RB,Neither
 20,WR,Jauan Jennings,SF,20,239,239,0,5/20/2022,44,Superhero RB,Neither
-21,RB,Christian Mccaffrey,CAR,1,4,3.3,0.7,5/21/2022,41.9,Hyperfragile RB,Neither
-21,RB,Alvin Kamara,NO,2,21,18.5,2.5,5/21/2022,41.9,Hyperfragile RB,Neither
-21,RB,Aaron Jones,GB,3,28,20.5,7.5,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,DJ Moore,CAR,4,45,46.6,-1.6,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,JuJu Smith-Schuster,KC,5,52,52.4,-0.4,5/21/2022,41.9,Hyperfragile RB,Neither
-21,QB,Jalen Hurts,PHI,6,69,65.5,3.5,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,Amon-Ra St. Brown,DET,7,77,62.9,14.1,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,Drake London,ATL,8,93,82.1,10.9,5/21/2022,41.9,Hyperfragile RB,Neither
-21,QB,Trey Lance,SF,9,100,106.7,-6.7,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,Kadarius Toney,NYG,10,117,116.1,0.9,5/21/2022,41.9,Hyperfragile RB,Neither
-21,RB,Rachaad White,TB,11,124,131.1,-7.1,5/21/2022,41.9,Hyperfragile RB,Neither
-21,TE,Irv Smith,MIN,12,141,150.4,-9.4,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,Jameson Williams,DET,13,148,124.9,23.1,5/21/2022,41.9,Hyperfragile RB,Neither
-21,TE,Evan Engram,JAX,14,165,174.9,-9.9,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,Jahan Dotson,WAS,15,172,158.2,13.8,5/21/2022,41.9,Hyperfragile RB,Neither
-21,TE,Brevin Jordan,HOU,16,189,189,0,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,Quez Watkins,PHI,17,196,196,0,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,Danny Gray,SF,18,213,213,0,5/21/2022,41.9,Hyperfragile RB,Neither
-21,WR,Jauan Jennings,SF,19,220,220,0,5/21/2022,41.9,Hyperfragile RB,Neither
-21,TE,Greg Dulcich,DEN,20,237,237,0,5/21/2022,41.9,Hyperfragile RB,Neither
+21,TE,Travis Kelce,KC,1,10,7.5,2.5,5/21/2022,51.4,Superhero RB,Elite TE
+21,RB,Dalvin Cook,MIN,2,15,10.5,4.5,5/21/2022,51.4,Superhero RB,Elite TE
+21,RB,James Conner,AZ,3,34,29.6,4.4,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,DJ Moore,CAR,4,39,46.6,-7.6,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,JuJu Smith-Schuster,KC,5,58,52.4,5.6,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,Gabriel Davis,BUF,6,63,55,8,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,Elijah Moore,NYJ,7,82,80,2,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,Treylon Burks,TEN,8,87,87,0,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,Kadarius Toney,NYG,9,106,115,-9,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,Tyler Boyd,CIN,10,111,113,-2,5/21/2022,51.4,Superhero RB,Elite TE
+21,RB,Rachaad White,TB,11,130,131.1,-1.1,5/21/2022,51.4,Superhero RB,Elite TE
+21,RB,Isaiah Spiller,LAC,12,135,134,1,5/21/2022,51.4,Superhero RB,Elite TE
+21,QB,Ryan Tannehill,TEN,13,154,168,-14,5/21/2022,51.4,Superhero RB,Elite TE
+21,QB,Mac Jones,NE,14,159,158,1,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,Curtis Samuel,WAS,15,178,178,0,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,Will Fuller,,16,183,183,0,5/21/2022,51.4,Superhero RB,Elite TE
+21,RB,James White,NE,17,202,202,0,5/21/2022,51.4,Superhero RB,Elite TE
+21,TE,Jonnu Smith,NE,18,207,207,0,5/21/2022,51.4,Superhero RB,Elite TE
+21,QB,Matt Corral,CAR,19,226,226,0,5/21/2022,51.4,Superhero RB,Elite TE
+21,WR,Odell Beckham,,20,231,174.9,56.1,5/21/2022,51.4,Superhero RB,Elite TE
 22,RB,Christian Mccaffrey,CAR,1,5,3.3,1.7,5/21/2022,17.7,Superhero RB,Elite QB/TE
 22,RB,Aaron Jones,GB,2,20,20.5,-0.5,5/21/2022,17.7,Superhero RB,Elite QB/TE
 22,TE,Kyle Pitts,ATL,3,29,33.1,-4.1,5/21/2022,17.7,Superhero RB,Elite QB/TE
@@ -1019,3 +1019,43 @@
 51,RB,James White,NE,18,210,210,0,5/31/2022,29.8,Zero RB,Elite TE
 51,WR,Velus Jones,CHI,19,223,223,0,5/31/2022,29.8,Zero RB,Elite TE
 51,RB,Chris Evans,CIN,20,234,234,0,5/31/2022,29.8,Zero RB,Elite TE
+52,TE,Travis Kelce,KC,1,8,9.5,-1.5,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,RB,Saquon Barkley,NYG,2,17,25.1,-8.1,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,WR,Tee Higgins,CIN,3,32,29.4,2.6,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,QB,Patrick Mahomes,KC,4,41,32.1,8.9,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,WR,JuJu Smith-Schuster,KC,5,56,53.3,2.7,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,WR,Darnell Mooney,CHI,6,65,64.7,0.3,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,TE,TJ Hockenson,DET,7,80,77,3,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,WR,Drake London,ATL,8,89,82.3,6.7,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,RB,Chase Edmonds,MIA,9,104,104.7,-0.7,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,WR,Kadarius Toney,NYG,10,113,115,-2,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,QB,Justin Fields,CHI,11,128,133,-5,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,RB,Nyheim Hines,IND,12,137,139.2,-2.2,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,RB,Kenneth Gainwell,PHI,13,152,155,-3,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,WR,Jahan Dotson,WAS,14,161,164.4,-3.4,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,RB,Darrel Williams,AZ,15,176,184.6,-8.6,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,WR,Donovan Peoples-Jones,CLE,16,185,186.2,-1.2,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,RB,Kenyan Drake,LV,17,200,199,1,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,WR,Zay Jones,JAX,18,209,209,0,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,RB,Donta Foreman,CAR,19,224,224,0,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+52,WR,Romeo Doubs,GB,20,233,233,0,6/1/2022,-10.5,Anchor RB,Elite QB/TE
+53,RB,Christian Mccaffrey,CAR,1,6,3.3,2.7,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,RB,Alvin Kamara,NO,2,19,16.8,2.2,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,WR,AJ Brown,PHI,3,30,27.1,2.9,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,WR,DJ Moore,CAR,4,43,47,-4,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,WR,Diontae Johnson,PIT,5,54,44,10,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,RB,JK Dobbins,BAL,6,67,57.6,9.4,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,WR,Elijah Moore,NYJ,7,78,80,-2,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,RB,AJ Dillon,GB,8,91,76.1,14.9,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,QB,Trey Lance,SF,9,102,101,1,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,RB,James Cook,BUF,10,115,100,15,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,WR,Kadarius Toney,NYG,11,126,115.4,10.6,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,TE,Albert Okwuegbunam,DEN,12,139,139,0,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,QB,Zach Wilson,NYJ,13,150,154,-4,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,TE,Noah Fant,SEA,14,163,161,2,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,WR,George Pickens,PIT,15,174,166,8,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,TE,Logan Thomas,WAS,16,187,184,3,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,WR,Curtis Samuel,WAS,17,198,191,7,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,WR,Danny Gray,SF,18,211,211,0,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,QB,Matt Corral,CAR,19,222,222,0,6/1/2022,78.7,Modified Hyperfragile RB,Neither
+53,WR,Jauan Jennings,SF,20,235,235,0,6/1/2022,78.7,Modified Hyperfragile RB,Neither
