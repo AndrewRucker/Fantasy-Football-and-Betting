@@ -1061,3 +1061,21 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 59,RB,Jerick Mckinnon,KC,16,187,187,0,6/17/2022,19.6,Hyperfragile RB,Neither
 59,WR,Cedrick Wilson,MIA,17,198,198,0,6/17/2022,19.6,Hyperfragile RB,Neither
 59,TE,Greg Dulcich,DEN,18,211,211,0,6/17/2022,19.6,Hyperfragile RB,Neither
+60,RB,Jonathan Taylor,IND,1,1,1.2,-0.2,6/22/2022,29.1,Superhero RB,Elite TE
+60,RB,Leonard Fournette,TB,2,24,23.1,0.9,6/22/2022,29.1,Superhero RB,Elite TE
+60,WR,Tee Higgins,CIN,3,25,24,1,6/22/2022,29.1,Superhero RB,Elite TE
+60,TE,George Kittle,SF,4,48,49.8,-1.8,6/22/2022,29.1,Superhero RB,Elite TE
+60,WR,Gabriel Davis,BUF,5,49,49.6,-0.6,6/22/2022,29.1,Superhero RB,Elite TE
+60,WR,Drake London,ATL,6,72,69.2,2.8,6/22/2022,29.1,Superhero RB,Elite TE
+60,WR,Treylon Burks,TEN,7,73,78.6,-5.6,6/22/2022,29.1,Superhero RB,Elite TE
+60,QB,Trey Lance,SF,8,96,89.1,6.9,6/22/2022,29.1,Superhero RB,Elite TE
+60,WR,Marquez Valdes-Scantling,KC,9,97,95.5,1.5,6/22/2022,29.1,Superhero RB,Elite TE
+60,WR,Rondale Moore,AZ,10,120,118.8,1.2,6/22/2022,29.1,Superhero RB,Elite TE
+60,WR,Kenny Golladay,NYG,11,121,121.1,-0.1,6/22/2022,29.1,Superhero RB,Elite TE
+60,RB,Darrell Henderson,LAR,12,144,140.2,3.8,6/22/2022,29.1,Superhero RB,Elite TE
+60,RB,Michael Carter,NYJ,13,145,144.3,0.7,6/22/2022,29.1,Superhero RB,Elite TE
+60,TE,Noah Fant,SEA,14,168,172,-4,6/22/2022,29.1,Superhero RB,Elite TE
+60,RB,Darrel Williams,AZ,15,169,157.5,11.5,6/22/2022,29.1,Superhero RB,Elite TE
+60,QB,Ryan Tannehill,TEN,16,192,182.8,9.2,6/22/2022,29.1,Superhero RB,Elite TE
+60,WR,Julio Jones,,17,193,191.2,1.8,6/22/2022,29.1,Superhero RB,Elite TE
+60,QB,Malik Willis,TEN,18,216,215.9,0.1,6/22/2022,29.1,Superhero RB,Elite TE
