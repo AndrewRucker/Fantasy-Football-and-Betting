@@ -857,7 +857,7 @@
 43,WR,Jalen Tolbert,DAL,16,181,178.6,2.4,5/29/2022,31.3,Zero RB,Elite QB/TE
 43,WR,James Washington,DAL,17,204,204,0,5/29/2022,31.3,Zero RB,Elite QB/TE
 43,WR,Cedrick Wilson,MIA,18,205,205,0,5/29/2022,31.3,Zero RB,Elite QB/TE
-43,RB,Damien Hilliard,TEN,19,228,228,0,5/29/2022,31.3,Zero RB,Elite QB/TE
+43,RB,Dontrell Hilliard,TEN,19,228,228,0,5/29/2022,31.3,Zero RB,Elite QB/TE
 43,RB,Justin Jackson,,20,229,229,0,5/29/2022,31.3,Zero RB,Elite QB/TE
 44,RB,Najee Harris,PIT,1,10,8.1,1.9,5/29/2022,6.9,Anchor RB,Elite TE
 44,WR,Ceedee Lamb,DAL,2,15,14.5,0.5,5/29/2022,6.9,Anchor RB,Elite TE
@@ -2119,3 +2119,63 @@
 106,RB,Donta Foreman,CAR,18,205,200,5,7/6/2022,-27,Zero RB,Elite TE
 106,RB,Dernest Johnson,,19,228,220,8,7/6/2022,-27,Zero RB,Elite TE
 106,RB,Kenyan Drake,LV,20,229,216.3,12.7,7/6/2022,-27,Zero RB,Elite TE
+107,RB,Dandre Swift,DET,1,12,16,-4,7/7/2022,19.1,Superhero RB,Neither
+107,RB,Saquon Barkley,NYG,2,13,19.1,-6.1,7/7/2022,19.1,Superhero RB,Neither
+107,WR,DJ Moore,CAR,3,36,44.9,-8.9,7/7/2022,19.1,Superhero RB,Neither
+107,WR,Michael Pittman,IND,4,37,31.3,5.7,7/7/2022,19.1,Superhero RB,Neither
+107,WR,Darnell Mooney,CHI,5,60,60,0,7/7/2022,19.1,Superhero RB,Neither
+107,QB,Kyler Murray,AZ,6,61,60,1,7/7/2022,19.1,Superhero RB,Neither
+107,WR,Deandre Hopkins,AZ,7,84,81.3,2.7,7/7/2022,19.1,Superhero RB,Neither
+107,WR,Drake London,ATL,8,85,84,1,7/7/2022,19.1,Superhero RB,Neither
+107,RB,Kenneth Walker,SEA,9,108,112.2,-4.2,7/7/2022,19.1,Superhero RB,Neither
+107,WR,Garrett Wilson,NYJ,10,109,119.1,-10.1,7/7/2022,19.1,Superhero RB,Neither
+107,RB,Nyheim Hines,IND,11,132,127,5,7/7/2022,19.1,Superhero RB,Neither
+107,WR,Rondale Moore,AZ,12,133,129.3,3.7,7/7/2022,19.1,Superhero RB,Neither
+107,TE,Robert Tonyan,GB,13,156,143.5,12.5,7/7/2022,19.1,Superhero RB,Neither
+107,QB,Zach Wilson,NYJ,14,157,165,-8,7/7/2022,19.1,Superhero RB,Neither
+107,WR,George Pickens,PIT,15,180,180,0,7/7/2022,19.1,Superhero RB,Neither
+107,TE,David Njoku,CLE,16,181,173.5,7.5,7/7/2022,19.1,Superhero RB,Neither
+107,RB,Brian Robinson,WAS,17,204,192.6,11.4,7/7/2022,19.1,Superhero RB,Neither
+107,TE,CJ Uzomah,NYJ,18,205,205,0,7/7/2022,19.1,Superhero RB,Neither
+107,TE,Trey Mcbride,AZ,19,228,228,0,7/7/2022,19.1,Superhero RB,Neither
+107,WR,Cedrick Wilson,MIA,20,229,219.1,9.9,7/7/2022,19.1,Superhero RB,Neither
+108,WR,Cooper Kupp,LAR,1,1,2.5,-1.5,7/7/2022,17.5,Zero RB,Neither
+108,WR,Tee Higgins,CIN,2,24,28.1,-4.1,7/7/2022,17.5,Zero RB,Neither
+108,WR,Mike Williams,LAC,3,25,29.9,-4.9,7/7/2022,17.5,Zero RB,Neither
+108,RB,Breece Hall,NYJ,4,48,48.6,-0.6,7/7/2022,17.5,Zero RB,Neither
+108,WR,Gabriel Davis,BUF,5,49,44.8,4.2,7/7/2022,17.5,Zero RB,Neither
+108,QB,Joe Burrow,CAR,6,72,67.6,4.4,7/7/2022,17.5,Zero RB,Neither
+108,RB,Clyde Edwards-Helaire,KC,7,73,74.9,-1.9,7/7/2022,17.5,Zero RB,Neither
+108,TE,Dawson Knox,BUF,8,96,94.3,1.7,7/7/2022,17.5,Zero RB,Neither
+108,QB,Matthew Stafford,LAR,9,97,87.7,9.3,7/7/2022,17.5,Zero RB,Neither
+108,RB,Alexander Mattison,MIN,10,120,123.4,-3.4,7/7/2022,17.5,Zero RB,Neither
+108,RB,Nyheim Hines,IND,11,121,127,-6,7/7/2022,17.5,Zero RB,Neither
+108,TE,Pat Freiermuth,PIT,12,144,128.5,15.5,7/7/2022,17.5,Zero RB,Neither
+108,TE,Albert Okwuegbunam,DEN,13,145,135.9,9.1,7/7/2022,17.5,Zero RB,Neither
+108,WR,Robbie Anderson,CAR,14,168,170.3,-2.3,7/7/2022,17.5,Zero RB,Neither
+108,WR,David Bell,CLE,15,169,169,0,7/7/2022,17.5,Zero RB,Neither
+108,RB,Donta Foreman,CAR,16,192,200,-8,7/7/2022,17.5,Zero RB,Neither
+108,RB,Chris Evans,CIN,17,193,200,-7,7/7/2022,17.5,Zero RB,Neither
+108,WR,Isaiah Mckenzie,BUF,18,216,210.3,5.7,7/7/2022,17.5,Zero RB,Neither
+108,WR,Will Fuller,,19,217,209.7,7.3,7/7/2022,17.5,Zero RB,Neither
+108,RB,Dernest Johnson,CLE,20,240,240,0,7/7/2022,17.5,Zero RB,Neither
+109,RB,Christian Mccaffrey,CAR,1,1,3.2,-2.2,7/7/2022,44,Superhero RB,Elite QB/TE
+109,TE,Mark Andrews,BAL,2,24,21,3,7/7/2022,44,Superhero RB,Elite QB/TE
+109,RB,Javonte Williams,DEN,3,25,26,-1,7/7/2022,44,Superhero RB,Elite QB/TE
+109,QB,Lamar Jackson,BAL,4,48,48,0,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,Diontae Johnson,PIT,5,49,48,1,7/7/2022,44,Superhero RB,Elite QB/TE
+109,RB,Josh Jacobs,LV,6,72,58.2,13.8,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,Hunter Renfrow,LV,7,73,71,2,7/7/2022,44,Superhero RB,Elite QB/TE
+109,QB,Derek Carr,LV,8,96,100.3,-4.3,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,Brandon Aiyuk,SF,9,97,93.3,3.7,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,Garrett Wilson,NYJ,10,120,119.3,0.7,7/7/2022,44,Superhero RB,Elite QB/TE
+109,RB,Nyheim Hines,IND,11,121,127,-6,7/7/2022,44,Superhero RB,Elite QB/TE
+109,RB,Rachaad White,TB,12,144,137.8,6.2,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,Jahan Dotson,WAS,13,145,138.2,6.8,7/7/2022,44,Superhero RB,Elite QB/TE
+109,TE,Tyler Higbee,LAR,14,168,161.3,6.7,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,Alec Pierce,IND,15,169,170,-1,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,George Pickens,PIT,16,192,182.6,9.4,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,Julio Jones,,17,193,196.8,-3.8,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,Wandale Robinson,NYG,18,216,207,9,7/7/2022,44,Superhero RB,Elite QB/TE
+109,QB,Kenny Pickett,PIT,19,217,217,0,7/7/2022,44,Superhero RB,Elite QB/TE
+109,WR,Jauan Jennings,SF,20,240,240,0,7/7/2022,44,Superhero RB,Elite QB/TE
