@@ -827,24 +827,6 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 46,RB,JD Mckissic,WAS,16,184,188.9,-4.9,5/20/2022,8.8,Superhero RB,Elite TE
 46,WR,Velus Jones,CHI,17,201,201,0,5/20/2022,8.8,Superhero RB,Elite TE
 46,WR,Antoine Wesley,AZ,18,208,208,0,5/20/2022,8.8,Superhero RB,Elite TE
-47,RB,Austin Ekeler,LAC,1,11,6.9,4.1,5/23/2022,32.4,Superhero RB,Neither
-47,WR,Davante Adams,LV,2,14,11.4,2.6,5/23/2022,32.4,Superhero RB,Neither
-47,RB,Cam Akers,LAR,3,35,36.7,-1.7,5/23/2022,32.4,Superhero RB,Neither
-47,WR,Mike Williams,LAC,4,38,37,1,5/23/2022,32.4,Superhero RB,Neither
-47,WR,Juju Smith-Schuster,KC,5,59,55.6,3.4,5/23/2022,32.4,Superhero RB,Neither
-47,WR,Rashod Bateman,BAL,6,62,61.6,0.4,5/23/2022,32.4,Superhero RB,Neither
-47,RB,Elijah Mitchell,SF,7,83,67.2,15.8,5/23/2022,32.4,Superhero RB,Neither
-47,RB,AJ Dillon,GB,8,86,72,14,5/23/2022,32.4,Superhero RB,Neither
-47,WR,Marquez Valdes-Scantling,KC,9,107,106.4,0.6,5/23/2022,32.4,Superhero RB,Neither
-47,QB,Kirk Cousins,MIN,10,110,120.4,-10.4,5/23/2022,32.4,Superhero RB,Neither
-47,TE,Robert Tonyan,GB,11,131,132.9,-1.9,5/23/2022,32.4,Superhero RB,Neither
-47,TE,Irv Smith,MIN,12,134,139.8,-5.8,5/23/2022,32.4,Superhero RB,Neither
-47,WR,George Pickens,PIT,13,155,148.2,6.8,5/23/2022,32.4,Superhero RB,Neither
-47,QB,Daniel Jones,NYG,14,158,158.7,-0.7,5/23/2022,32.4,Superhero RB,Neither
-47,TE,Gerald Everett,LAC,15,179,174.8,4.2,5/23/2022,32.4,Superhero RB,Neither
-47,WR,Wandale Robinson,NYG,16,182,182,0,5/23/2022,32.4,Superhero RB,Neither
-47,WR,Parris Campbell,IND,17,203,203,0,5/23/2022,32.4,Superhero RB,Neither
-47,WR,Ihmir Smith-Marsette,MIN,18,206,206,0,5/23/2022,32.4,Superhero RB,Neither
 48,RB,Jonathan Taylor,IND,1,1,1.1,-0.1,5/23/2022,-3.3,Hyperfragile RB,Neither
 48,RB,Saquon Barkley,NYG,2,24,26.7,-2.7,5/23/2022,-3.3,Hyperfragile RB,Neither
 48,RB,Javonte Williams,DEN,3,25,23.5,1.5,5/23/2022,-3.3,Hyperfragile RB,Neither
