@@ -410,7 +410,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 23,TE,Hunter Henry,NE,13,148,140.6,7.4,5/5/2022,53,Zero RB,Elite QB,25
 23,RB,Gus Edwards,BAL,14,165,157.1,7.9,5/5/2022,53,Zero RB,Elite QB,25
 23,QB,Mac Jones,NE,15,172,158.2,13.8,5/5/2022,53,Zero RB,Elite QB,25
-23,RB,Brian Robinson Jr.,WAS,16,189,185.5,3.5,5/5/2022,53,Zero RB,Elite QB,25
+23,RB,Brian Robinson,WAS,16,189,185.5,3.5,5/5/2022,53,Zero RB,Elite QB,25
 23,TE,Hayden Hurst,CIN,17,196,196,0,5/5/2022,53,Zero RB,Elite QB,25
 23,RB,Tyrion Davis-Price,SF,18,213,213,0,5/5/2022,53,Zero RB,Elite QB,25
 24,RB,Christian Mccaffrey,CAR,1,3,2.9,0.1,5/5/2022,-38,Superhero RB,Neither,25
@@ -427,7 +427,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 24,RB,Isaiah Spiller,LAC,12,142,129.8,12.2,5/5/2022,-38,Superhero RB,Neither,25
 24,RB,Raheem Mostert,MIA,13,147,153.3,-6.3,5/5/2022,-38,Superhero RB,Neither,25
 24,QB,Daniel Jones,NYG,14,166,165.8,0.2,5/5/2022,-38,Superhero RB,Neither,25
-24,RB,Brian Robinson Jr.,WAS,15,171,185.5,-14.5,5/5/2022,-38,Superhero RB,Neither,25
+24,RB,Brian Robinson,WAS,15,171,185.5,-14.5,5/5/2022,-38,Superhero RB,Neither,25
 24,WR,Wandale Robinson,NYG,16,190,190,0,5/5/2022,-38,Superhero RB,Neither,25
 24,TE,Ricky Seals-Jones,NYG,17,195,195,0,5/5/2022,-38,Superhero RB,Neither,25
 24,TE,CJ Uzomah,NYJ,18,214,214,0,5/5/2022,-38,Superhero RB,Neither,25
@@ -462,7 +462,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 26,WR,Kenny Golladay,NYG,11,126,127.7,-1.7,5/6/2022,53.8,Modified Anchor RB,Elite QB/TE,25
 26,TE,Irv Smith,MIN,12,139,146.4,-7.4,5/6/2022,53.8,Modified Anchor RB,Elite QB/TE,25
 26,WR,Will Fuller,,13,150,143.8,6.2,5/6/2022,53.8,Modified Anchor RB,Elite QB/TE,25
-26,RB,Brian Robinson Jr.,WAS,14,163,163,0,5/6/2022,53.8,Modified Anchor RB,Elite QB/TE,25
+26,RB,Brian Robinson,WAS,14,163,163,0,5/6/2022,53.8,Modified Anchor RB,Elite QB/TE,25
 26,WR,Odell Beckham,,15,174,152.4,21.6,5/6/2022,53.8,Modified Anchor RB,Elite QB/TE,25
 26,WR,Romeo Doubs,GB,16,187,187,0,5/6/2022,53.8,Modified Anchor RB,Elite QB/TE,25
 26,WR,Devin Duvernay,BAL,17,198,198,0,5/6/2022,53.8,Modified Anchor RB,Elite QB/TE,25
@@ -661,7 +661,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 37,QB,Trevor Lawrence,JAX,12,143,144.5,-1.5,5/13/2022,25.6,Anchor RB,Neither,25
 37,WR,Jamison Crowder,BUF,13,146,146,0,5/13/2022,25.6,Anchor RB,Neither,25
 37,RB,Khalil Herbert,CHI,14,167,167,0,5/13/2022,25.6,Anchor RB,Neither,25
-37,RB,Brian Robinson Jr.,WAS,15,170,170,0,5/13/2022,25.6,Anchor RB,Neither,25
+37,RB,Brian Robinson,WAS,15,170,170,0,5/13/2022,25.6,Anchor RB,Neither,25
 37,TE,Logan Thomas,WAS,16,191,176,15,5/13/2022,25.6,Anchor RB,Neither,25
 37,QB,Carson Wentz,WAS,17,194,194,0,5/13/2022,25.6,Anchor RB,Neither,25
 37,WR,Nico Collins,HOU,18,215,198.7,16.3,5/13/2022,25.6,Anchor RB,Neither,25
@@ -788,7 +788,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 44,WR,KJ Hamler,DEN,13,156,156,0,5/19/2022,-27.5,Anchor RB,Elite TE,25
 44,RB,Khalil Herbert,CHI,14,157,174.1,-17.1,5/19/2022,-27.5,Anchor RB,Elite TE,25
 44,RB,Jamaal Williams,DET,15,180,198.3,-18.3,5/19/2022,-27.5,Anchor RB,Elite TE,25
-44,RB,Brian Robinson Jr.,WAS,16,181,184,-3,5/19/2022,-27.5,Anchor RB,Elite TE,25
+44,RB,Brian Robinson,WAS,16,181,184,-3,5/19/2022,-27.5,Anchor RB,Elite TE,25
 44,WR,Kendrick Bourne,NE,17,204,199.1,4.9,5/19/2022,-27.5,Anchor RB,Elite TE,25
 44,WR,Velus Jones,CHI,18,205,205,0,5/19/2022,-27.5,Anchor RB,Elite TE,25
 45,RB,Jonathan Taylor,IND,1,1,1.1,-0.1,5/20/2022,-8.7,Hyperfragile RB,Elite TE,25
@@ -968,7 +968,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 55,TE,Albert Okwuegbunam,DEN,13,150,140.2,9.8,5/26/2022,28.6,Zero RB,Elite QB,25
 55,RB,Kenneth Gainwell,PHI,14,163,160.1,2.9,5/26/2022,28.6,Zero RB,Elite QB,25
 55,RB,Jamaal Williams,DET,15,174,174,0,5/26/2022,28.6,Zero RB,Elite QB,25
-55,RB,Brian Robinson Jr.,WAS,16,187,187,0,5/26/2022,28.6,Zero RB,Elite QB,25
+55,RB,Brian Robinson,WAS,16,187,187,0,5/26/2022,28.6,Zero RB,Elite QB,25
 55,QB,Kenny Pickett,PIT,17,198,198,0,5/26/2022,28.6,Zero RB,Elite QB,25
 55,WR,Khalil Shakir,BUF,18,211,211,0,5/26/2022,28.6,Zero RB,Elite QB,25
 56,WR,Cooper Kupp,LAR,1,2,2.7,-0.7,6/16/2022,77,Zero RB,Elite TE,25
