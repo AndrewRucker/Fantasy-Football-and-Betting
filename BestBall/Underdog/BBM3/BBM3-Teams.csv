@@ -22,7 +22,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 2,WR,AJ Brown,PHI,3,25,21.5,3.5,5/2/2022,61.8,Modified Superhero RB,Elite QB
 2,RB,James Conner,AZ,4,48,46.5,1.5,5/2/2022,61.8,Modified Superhero RB,Elite QB
 2,QB,Kyler Murray,AZ,5,49,52.3,-3.3,5/2/2022,61.8,Modified Superhero RB,Elite QB
-2,WR,Juju Smith-Schuster,KC,6,72,77.5,-5.5,5/2/2022,61.8,Modified Superhero RB,Elite QB
+2,WR,JuJu Smith-Schuster,KC,6,72,77.5,-5.5,5/2/2022,61.8,Modified Superhero RB,Elite QB
 2,WR,Courtland Sutton,DEN,7,73,68,5,5/2/2022,61.8,Modified Superhero RB,Elite QB
 2,WR,Kadarius Toney,NYG,8,96,101.4,-5.4,5/2/2022,61.8,Modified Superhero RB,Elite QB
 2,RB,Miles Sanders,PHI,9,97,97,0,5/2/2022,61.8,Modified Superhero RB,Elite QB
@@ -96,7 +96,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 6,WR,Marquise Brown,AZ,5,49,52.8,-3.8,5/2/2022,40.9,Modified Hyperfragile,Neither
 6,QB,Jalen Hurts,PHI,6,72,70.3,1.7,5/2/2022,40.9,Modified Hyperfragile,Neither
 6,TE,Dallas Goedert,PHI,7,73,81.4,-8.4,5/2/2022,40.9,Modified Hyperfragile,Neither
-6,WR,Juju Smith-Schuster,KC,8,96,77.5,18.5,5/2/2022,40.9,Modified Hyperfragile,Neither
+6,WR,JuJu Smith-Schuster,KC,8,96,77.5,18.5,5/2/2022,40.9,Modified Hyperfragile,Neither
 6,WR,Courtland Sutton,DEN,9,97,74.8,22.2,5/2/2022,40.9,Modified Hyperfragile,Neither
 6,WR,Skyy Moore,KC,10,120,114,6,5/2/2022,40.9,Modified Hyperfragile,Neither
 6,WR,Russell Gage,TB,11,121,122,-1,5/2/2022,40.9,Modified Hyperfragile,Neither
@@ -346,7 +346,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 20,WR,AJ Brown,PHI,3,27,21.5,5.5,5/4/2022,11.3,Zero RB,Elite TE
 20,TE,Darren Waller,LV,4,46,38.7,7.3,5/4/2022,11.3,Zero RB,Elite TE
 20,WR,Jerry Jeudy,DEN,5,51,60.1,-9.1,5/4/2022,11.3,Zero RB,Elite TE
-20,WR,Juju Smith-Schuster,KC,6,70,77.5,-7.5,5/4/2022,11.3,Zero RB,Elite TE
+20,WR,JuJu Smith-Schuster,KC,6,70,77.5,-7.5,5/4/2022,11.3,Zero RB,Elite TE
 20,WR,Allen Robinson,LAR,7,75,75.4,-0.4,5/4/2022,11.3,Zero RB,Elite TE
 20,QB,Matthew Stafford,LAR,8,94,87,7,5/4/2022,11.3,Zero RB,Elite TE
 20,RB,Cylde Edwards-Helaire,KC,9,99,92.9,6.1,5/4/2022,11.3,Zero RB,Elite TE
@@ -365,7 +365,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 21,WR,Mike Williams,LAC,4,46,52.8,-6.8,5/4/2022,5.1,Zero RB,Elite QB
 21,WR,Marquise Brown,AZ,5,51,52.8,-1.8,5/4/2022,5.1,Zero RB,Elite QB
 21,RB,Elijah Mitchell,SF,6,70,59.5,10.5,5/4/2022,5.1,Zero RB,Elite QB
-21,WR,Juju Smith-Schuster,KC,7,75,77.5,-2.5,5/4/2022,5.1,Zero RB,Elite QB
+21,WR,JuJu Smith-Schuster,KC,7,75,77.5,-2.5,5/4/2022,5.1,Zero RB,Elite QB
 21,WR,Christian Kirk,JAX,8,94,105,-11,5/4/2022,5.1,Zero RB,Elite QB
 21,RB,Devin Singletary,BUF,9,99,90.1,8.9,5/4/2022,5.1,Zero RB,Elite QB
 21,RB,Rhamondre Stevenson,NE,10,118,119,-1,5/4/2022,5.1,Zero RB,Elite QB
@@ -382,7 +382,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 22,WR,AJ Brown,PHI,3,25,22.8,2.2,5/5/2022,32.3,Anchor RB,Elite QB
 22,TE,Darren Waller,LV,4,48,39.2,8.8,5/5/2022,32.3,Anchor RB,Elite QB
 22,WR,Gabriel Davis,BUF,5,49,62.9,-13.9,5/5/2022,32.3,Anchor RB,Elite QB
-22,WR,Juju Smith-Schuster,KC,6,72,71,1,5/5/2022,32.3,Anchor RB,Elite QB
+22,WR,JuJu Smith-Schuster,KC,6,72,71,1,5/5/2022,32.3,Anchor RB,Elite QB
 22,WR,Allen Robinson,LAR,7,73,70.1,2.9,5/5/2022,32.3,Anchor RB,Elite QB
 22,TE,Dawson Knox,BUF,8,96,92.8,3.2,5/5/2022,32.3,Anchor RB,Elite QB
 22,WR,Jameson Williams,DET,9,97,98.1,-1.1,5/5/2022,32.3,Anchor RB,Elite QB
@@ -436,7 +436,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 25,QB,Patrick Mahomes,KC,3,35,35.1,-0.1,5/6/2022,-44,Zero RB,Elite QB/TE
 25,WR,DK Metcalf,SEA,4,38,35.8,2.2,5/6/2022,-44,Zero RB,Elite QB/TE
 25,WR,Courtland Sutton,DEN,5,59,63.5,-4.5,5/6/2022,-44,Zero RB,Elite QB/TE
-25,WR,Juju Smith-Schuster,KC,6,62,67.1,-5.1,5/6/2022,-44,Zero RB,Elite QB/TE
+25,WR,JuJu Smith-Schuster,KC,6,62,67.1,-5.1,5/6/2022,-44,Zero RB,Elite QB/TE
 25,RB,Miles Sanders,PHI,7,83,90.8,-7.8,5/6/2022,-44,Zero RB,Elite QB/TE
 25,WR,Skyy Moore,KC,8,86,99.4,-13.4,5/6/2022,-44,Zero RB,Elite QB/TE
 25,RB,Kareem Hunt,CLE,9,107,101.5,5.5,5/6/2022,-44,Zero RB,Elite QB/TE
@@ -939,7 +939,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 54,RB,Joe Mixon,CIN,2,14,11.9,2.1,5/26/2022,35.9,Hyperfragile RB,Neither
 54,RB,Cam Akers,LAR,3,35,36.9,-1.9,5/26/2022,35.9,Hyperfragile RB,Neither
 54,WR,Diontae Johnson,PIT,4,38,38.1,-0.1,5/26/2022,35.9,Hyperfragile RB,Neither
-54,WR,Juju Smith-Schuster,KC,5,59,56.2,2.8,5/26/2022,35.9,Hyperfragile RB,Neither
+54,WR,JuJu Smith-Schuster,KC,5,59,56.2,2.8,5/26/2022,35.9,Hyperfragile RB,Neither
 54,QB,Jalen Hurts,PHI,6,62,65.3,-3.3,5/26/2022,35.9,Hyperfragile RB,Neither
 54,TE,Dalton Schultz,DAL,7,83,77.1,5.9,5/26/2022,35.9,Hyperfragile RB,Neither
 54,QB,Dak Prescott,DAL,8,86,84.6,1.4,5/26/2022,35.9,Hyperfragile RB,Neither
