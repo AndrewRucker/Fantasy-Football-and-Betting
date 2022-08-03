@@ -1,201 +1,201 @@
-﻿Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elite Onesie,Capital
-1,QB,Trey Lance,SF,1,10,15.9,-5.9,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,WR,Cooper Kupp,LAR,2,15,11.9,3.1,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,RB,Aaron Jones,GB,3,34,37,-3,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,WR,Deebo Samuel,SF,4,39,37.9,1.1,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,TE,George Kittle,SF,5,58,63,-5,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,QB,Jared Goff,DET,6,63,67.1,-4.1,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,QB,Deshaun Watson,CLE,7,82,104.9,-22.9,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,WR,Amari Cooper,CLE,8,87,96.4,-9.4,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,RB,Miles Sanders,PHI,9,106,95.8,10.2,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,RB,Kenneth Walker,SEA,10,111,111.4,-0.4,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,RB,Kareem Hunt,CLE,11,130,108.9,21.1,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,RB,Rhamondre Stevenson,NE,12,135,121.5,13.5,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,TE,Irv Smith,MIN,13,154,134.9,19.1,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,WR,Jahan Dotson,WAS,14,159,160.8,-1.8,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,TE,Robert Tonyan,GB,15,178,162.9,15.1,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,WR,Curtis Samuel,WAS,16,183,183,0,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,RB,Zamir White,LV,17,202,202,0,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,WR,Donovan Peoples-Jones,,18,207,207,0,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,WR,Byron Pringle,CHI,19,226,226,0,6/23/2022,30.7,Anchor QB,Elite TE,5
-1,WR,James Washington,DAL,20,231,231,0,6/23/2022,30.7,Anchor QB,Elite TE,5
-2,QB,Justin Herbert,LAC,1,4,2.3,1.7,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,RB,Austin Ekeler,LAC,2,21,20.8,0.2,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,TE,Travis Kelce,KC,3,28,21,7,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,WR,Mike Williams,LAC,4,45,51.6,-6.6,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,QB,Trevor Lawrence,JAX,5,52,33.4,18.6,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,RB,Breece Hall,NYJ,6,69,63.9,5.1,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,WR,JuJu Smith-Schuster,KC,7,77,79.4,-2.4,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,QB,Mitch Trubisky,PIT,8,93,93,0,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,WR,Amon-Ra St. Brown,DET,9,100,87,13,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,WR,Kadarius Toney,NYG,10,117,107.5,9.5,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,RB,Devin Singletary,BUF,11,124,116.9,7.1,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,RB,Rhamondre Stevenson,NE,12,141,121.5,19.5,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,WR,Tim Patrick,DEN,13,148,141.4,6.6,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,WR,DJ Chark,DET,14,165,176.1,-11.1,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,TE,David Njkoku,CLE,15,172,169.8,2.2,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,RB,Khalil Herbert,CHI,16,189,167.8,21.2,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,WR,David Bell,CLE,17,196,196,0,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,WR,Parris Campbell,IND,18,213,213,0,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,WR,Zay Jones,JAX,19,220,220,0,6/23/2022,91.6,Anchor QB,Elite TE,5
-2,QB,Tyler Huntley,BAL,20,237,237,0,6/23/2022,91.6,Anchor QB,Elite TE,5
-3,QB,Patrick Mahomes,KC,1,2,3.6,-1.6,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,TE,Travis Kelce,KC,2,23,21,2,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,RB,Dandre Swift,DET,3,26,33.1,-7.1,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,QB,Justin Fields,CHI,4,47,27.7,19.3,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,Courtland Sutton,DEN,5,50,58.4,-8.4,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,Darnell Mooney,CHI,6,71,82.5,-11.5,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,JuJu Smith-Schuster,KC,7,74,79.4,-5.4,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,RB,Miles Sanders,PHI,8,95,95.8,-0.8,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,RB,Kenneth Walker,SEA,9,98,111.4,-13.4,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,QB,Kenny Pickett,PIT,10,119,125.1,-6.1,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,RB,Melvin Gordon,DEN,11,122,121,1,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,RB,Ronald Jones,KC,12,143,141,2,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,Jameson Williams,DET,13,146,155,-9,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,Joshua Palmer,LAC,14,167,164,3,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,KJ Hamler,DEN,15,170,170,0,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,Julio Jones,TB,16,191,177.2,13.8,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,TE,Logan Thomas,WAS,17,194,194,0,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,Byron Pringle,CHI,18,215,215,0,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,Romeo Doubs,GB,19,218,218,0,6/23/2022,-22.2,Anchor QB,Elite TE,5
-3,WR,Calvin Austin,PIT,20,239,239,0,6/23/2022,-22.2,Anchor QB,Elite TE,5
-4,QB,Patrick Mahomes,KC,1,7,3.6,3.4,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,QB,Trey Lance,SF,2,17,15.9,1.1,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Deebo Samuel,SF,3,31,37.9,-6.9,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,RB,Nick Chubb,CLE,4,42,45.1,-3.1,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,TE,George Kittle,SF,5,55,63,-8,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,RB,JK Dobbins,BAL,6,66,78.6,-12.6,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,RB,Josh Jacobs,LV,7,79,84.7,-5.7,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Amon-Ra St. Brown,DET,8,90,87,3,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Skyy Moore,KC,9,103,126.8,-23.8,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,QB,Baker Mayfield,CAR,10,114,87.1,26.9,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Tim Patrick,DEN,11,127,141.4,-14.4,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,RB,Melvin Gordon,DEN,12,138,121.3,16.7,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,RB,Rachaad White,TB,13,151,134.3,16.7,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Joshua Palmer,LAC,14,162,164.5,-2.5,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Jalen Tolbert,DAL,15,175,163.5,11.5,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Robby Anderson,CAR,16,186,178.9,7.1,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Julio Jones,TB,17,199,177.2,21.8,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,TE,Austin Hooper,TEN,18,210,185.3,24.7,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Justyn Ross,KC,19,223,223,0,6/23/2022,89.2,Superhero QB,Elite TE,5
-4,WR,Isaiah Mckenzie,BUF,20,234,200.7,33.3,6/23/2022,89.2,Superhero QB,Elite TE,5
-5,QB,Lamar Jackson,BAL,1,3,4.3,-1.3,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,TE,Mark Andrews,BAL,2,22,29.2,-7.2,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,RB,Derrick Henry,TEN,3,27,22.8,4.2,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,RB,Javonte Williams,DEN,4,46,44.1,1.9,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,WR,Michael Pittman,IND,5,51,50.7,0.3,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,WR,Diontae Johnson,PIT,6,70,70.2,-0.2,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,RB,Ryan Tannehill,TEN,7,75,60.2,14.8,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,WR,Treylon Burks,TEN,8,94,111.7,-17.7,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,RB,Clyde Edwards-Helaire,KC,9,99,99,0,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,WR,Tyler Lockett,SEA,10,118,123.6,-5.6,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,WR,Garrett Wilson,NYJ,11,123,130.1,-7.1,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,RB,Alexander Mattison,MIN,12,142,138.1,3.9,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,RB,Michael Carter,NYJ,13,147,157.2,-10.2,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,QB,Drew Lock,SEA,14,166,166,0,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,QB,Malik Willis,TEN,15,171,171,0,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,WR,KJ Hamler,DEN,16,190,190,0,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,WR,Alec Pierce,IND,17,195,184.3,10.7,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,TE,Austin Hooper,TEN,18,214,185.3,28.7,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,WR,Nico Collins,HOU,19,219,179.7,39.3,6/23/2022,54.5,Anchor QB,Elite TE,5
-5,WR,Tylan Wallace,BAL,20,238,238,0,6/23/2022,54.5,Anchor QB,Elite TE,5
-6,QB,Josh Allen,BUF,1,1,1.2,-0.2,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,QB,Trey Lance,SF,2,24,15.9,8.1,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,RB,Dandre Swift,DET,3,25,33.1,-8.1,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,RB,Javonte Williams,DEN,4,48,44.1,3.9,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,TE,Kyle Pitts,ATL,5,49,45.8,3.2,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,Gabriel Davis,BUF,6,72,71.5,0.5,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,Chris Godwin,TB,7,73,88.7,-15.7,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,Brandon Aiyuk,SF,8,96,110.8,-14.8,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,QB,Marcus Mariota,ATL,9,97,98.5,-1.5,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,Tyler Boyd,CIN,10,120,134.3,-14.3,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,Marquez Valdes-Scantling,KC,11,121,119,2,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,RB,Ronald Jones,KC,12,144,141,3,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,Rondale Moore,AZ,13,145,145,0,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,RB,Tyrion Davis-Price,SF,14,168,160,8,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,RB,Kenneth Gainwell,PHI,15,169,162,7,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,TE,Hayden Hurst,CIN,16,192,187.5,4.5,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,Jalen Tolbert,DAL,17,193,163.5,29.5,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,Julio Jones,TB,18,216,177.2,38.8,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,James Washington,DAL,19,217,217,0,6/23/2022,93.2,Superhero QB,Elite TE,5
-6,WR,Isaiah Mckenzie,BUF,20,240,200.7,39.3,6/23/2022,93.2,Superhero QB,Elite TE,5
-7,RB,Christian Mccaffrey,CAR,1,8,9,-1,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,QB,Trey Lance,SF,2,17,15.7,1.3,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,RB,Dalvin Cook,MIN,3,32,26.8,5.2,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,RB,Aaron Jones,GB,4,41,35.8,5.2,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,TE,George Kittle,SF,5,56,65.5,-9.5,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,QB,Mac Jones,NE,6,65,54,11,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,QB,Carson Wentz,WAS,7,80,74.7,5.3,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Amon-Ra St. Brown,DET,8,89,87.2,1.8,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Deandre Hopkins,AZ,9,104,99.6,4.4,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Kadarius Toney,NYG,10,113,109.2,3.8,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,RB,Melvin Gordon,DEN,11,128,124,4,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Jakobi Meyers,NE,12,137,151.6,-14.6,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,TE,Hunter Henry,NE,13,152,151,1,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Joshua Palmer,LAC,14,161,166.2,-5.2,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Curtis Samuel,WAS,15,176,211.5,-35.5,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Julio Jones,TB,16,185,173.7,11.3,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Kendrick Bourne,NE,17,200,200,0,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Danny Gray,SF,18,209,209,0,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Zay Jones,JAX,19,224,224,0,6/23/2022,-11.5,Anchor QB,Elite TE,5
-7,WR,Nelson Agholor,NE,20,233,233,0,6/23/2022,-11.5,Anchor QB,Elite TE,5
-8,RB,Christian Mccaffrey,CAR,1,11,9,2,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,QB,Trey Lance,SF,2,14,15.7,-1.7,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,QB,Justin Fields,CHI,3,35,27.6,7.4,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,RB,Saquon Barkley,NYG,4,38,38.2,-0.2,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,TE,George Kittle,SF,5,59,65.5,-6.5,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,TE,Darren Waller,LV,6,62,60.8,1.2,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,QB,Zach Wilson,NYJ,7,83,56.7,26.3,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,Elijah Moore,NYJ,8,86,91.9,-5.9,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,Tyler Lockett,SEA,9,107,124.3,-17.3,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,Garrett Wilson,NYJ,10,110,129.3,-19.3,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,RB,Rhamondre Stevenson,NE,11,131,121,10,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,Mecole Hardman,KC,12,134,159.5,-25.5,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,DJ Chark,DET,13,155,175.5,-20.5,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,RB,Rachaad White,TB,14,158,133.8,24.2,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,Robby Anderson,CAR,15,179,179,0,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,Julio Jones,TB,16,182,173.7,8.3,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,Wandale Robinson,NYG,17,203,193,10,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,Byron Pringle,CHI,18,206,206,0,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,RB,Dernest Johnson,CLE,19,227,227,0,6/23/2022,-7.5,Superhero QB,Bully TE,5
-8,WR,Velus Jones,CHI,20,230,230,0,6/23/2022,-7.5,Superhero QB,Bully TE,5
-9,QB,Justin Herbert,LAC,1,4,2.6,1.4,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,RB,Dalvin Cook,MIN,2,21,26.8,-5.8,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,QB,Aaron Rodgers,GB,3,28,19.4,8.6,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,WR,Keenan Allen,LAC,4,45,48,-3,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,TE,Darren Waller,LV,5,52,60.5,-8.5,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,WR,Gabriel Davis,BUF,6,69,73.6,-4.6,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,WR,DK Metcalf,SEA,7,77,79.5,-2.5,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,WR,Drake London,ATL,8,93,98.7,-5.7,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,RB,Tony Pollard,DAL,9,100,100,0,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,WR,Tyler Lockett,SEA,10,117,124,-7,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,QB,Baker Mayfield,CAR,11,124,87,37,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,RB,Dameon Pierce,HOU,12,141,141,0,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,RB,Darrell Henderson,LAR,13,148,152,-4,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,RB,Isaiah Spiller,LAC,14,165,143.6,21.4,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,TE,Gerald Everett,LAC,15,172,162,10,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,WR,Sammy Watkins,GB,16,189,189,0,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,RB,Gus Edwards,BAL,17,196,175,21,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,RB,Raheem Mostert,MIA,18,213,201,12,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,WR,Romeo Doubs,GB,19,220,220,0,6/23/2022,70.3,Superhero QB,Elite TE,5
-9,WR,Jalen Guyton,LAC,20,237,237,0,6/23/2022,70.3,Superhero QB,Elite TE,5
-10,QB,Kyler Murray,AZ,1,6,5.8,0.2,6/23/2022,103.1,Anchor QB,Neither,5
-10,RB,Derrick Henry,TEN,2,19,22.7,-3.7,6/23/2022,103.1,Anchor QB,Neither,5
-10,RB,Joe Mixon,CIN,3,30,32,-2,6/23/2022,103.1,Anchor QB,Neither,5
-10,QB,Trevor Lawrence,JAX,4,43,34,9,6/23/2022,103.1,Anchor QB,Neither,5
-10,RB,Travis Etienne,JAX,5,54,53.5,0.5,6/23/2022,103.1,Anchor QB,Neither,5
-10,WR,Diontae Johnson,PIT,6,67,69.8,-2.8,6/23/2022,103.1,Anchor QB,Neither,5
-10,WR,JuJu Smith-Schuster,KC,7,78,81.3,-3.3,6/23/2022,103.1,Anchor QB,Neither,5
-10,WR,Deandre Hopkins,AZ,8,91,99.6,-8.6,6/23/2022,103.1,Anchor QB,Neither,5
-10,WR,Christian Kirk,JAX,9,102,106.3,-4.3,6/23/2022,103.1,Anchor QB,Neither,5
-10,RB,Cordarrelle Patterson,ATL,10,115,125.6,-10.6,6/23/2022,103.1,Anchor QB,Neither,5
-10,RB,Kareem Hunt,CLE,11,126,109.8,16.2,6/23/2022,103.1,Anchor QB,Neither,5
-10,WR,Rondale Moore,AZ,12,139,143.6,-4.6,6/23/2022,103.1,Anchor QB,Neither,5
-10,RB,Rachaad White,TB,13,150,133.8,16.2,6/23/2022,103.1,Anchor QB,Neither,5
-10,WR,Joshua Palmer,LAC,14,163,166.2,-3.2,6/23/2022,103.1,Anchor QB,Neither,5
-10,QB,Desmond Ridder,ATL,15,174,174,0,6/23/2022,103.1,Anchor QB,Neither,5
-10,TE,Evan Engram,JAX,16,187,177.2,9.8,6/23/2022,103.1,Anchor QB,Neither,5
-10,TE,Gerald Everett,LAC,17,198,162,36,6/23/2022,103.1,Anchor QB,Neither,5
-10,TE,Brevin Jordan,HOU,18,211,201,10,6/23/2022,103.1,Anchor QB,Neither,5
-10,WR,Julio Jones,TB,19,222,173.7,48.3,6/23/2022,103.1,Anchor QB,Neither,5
-10,WR,Zay Jones,JAX,20,235,235,0,6/23/2022,103.1,Anchor QB,Neither,5
+﻿Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elite Onesie,Capital,Contest
+1,QB,Trey Lance,SF,1,10,15.9,-5.9,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,WR,Cooper Kupp,LAR,2,15,11.9,3.1,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,RB,Aaron Jones,GB,3,34,37,-3,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,WR,Deebo Samuel,SF,4,39,37.9,1.1,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,TE,George Kittle,SF,5,58,63,-5,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,QB,Jared Goff,DET,6,63,67.1,-4.1,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,QB,Deshaun Watson,CLE,7,82,104.9,-22.9,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,WR,Amari Cooper,CLE,8,87,96.4,-9.4,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,RB,Miles Sanders,PHI,9,106,95.8,10.2,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,RB,Kenneth Walker,SEA,10,111,111.4,-0.4,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,RB,Kareem Hunt,CLE,11,130,108.9,21.1,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,RB,Rhamondre Stevenson,NE,12,135,121.5,13.5,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,TE,Irv Smith,MIN,13,154,134.9,19.1,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,WR,Jahan Dotson,WAS,14,159,160.8,-1.8,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,TE,Robert Tonyan,GB,15,178,162.9,15.1,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,WR,Curtis Samuel,WAS,16,183,183,0,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,RB,Zamir White,LV,17,202,202,0,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,WR,Donovan Peoples-Jones,,18,207,207,0,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,WR,Byron Pringle,CHI,19,226,226,0,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+1,WR,James Washington,DAL,20,231,231,0,6/23/2022,30.7,Anchor QB,Elite TE,5,Puppy-SF
+2,QB,Justin Herbert,LAC,1,4,2.3,1.7,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,RB,Austin Ekeler,LAC,2,21,20.8,0.2,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,TE,Travis Kelce,KC,3,28,21,7,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,WR,Mike Williams,LAC,4,45,51.6,-6.6,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,QB,Trevor Lawrence,JAX,5,52,33.4,18.6,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,RB,Breece Hall,NYJ,6,69,63.9,5.1,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,WR,JuJu Smith-Schuster,KC,7,77,79.4,-2.4,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,QB,Mitch Trubisky,PIT,8,93,93,0,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,WR,Amon-Ra St. Brown,DET,9,100,87,13,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,WR,Kadarius Toney,NYG,10,117,107.5,9.5,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,RB,Devin Singletary,BUF,11,124,116.9,7.1,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,RB,Rhamondre Stevenson,NE,12,141,121.5,19.5,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,WR,Tim Patrick,DEN,13,148,141.4,6.6,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,WR,DJ Chark,DET,14,165,176.1,-11.1,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,TE,David Njkoku,CLE,15,172,169.8,2.2,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,RB,Khalil Herbert,CHI,16,189,167.8,21.2,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,WR,David Bell,CLE,17,196,196,0,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,WR,Parris Campbell,IND,18,213,213,0,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,WR,Zay Jones,JAX,19,220,220,0,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+2,QB,Tyler Huntley,BAL,20,237,237,0,6/23/2022,91.6,Anchor QB,Elite TE,5,Puppy-SF
+3,QB,Patrick Mahomes,KC,1,2,3.6,-1.6,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,TE,Travis Kelce,KC,2,23,21,2,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,RB,Dandre Swift,DET,3,26,33.1,-7.1,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,QB,Justin Fields,CHI,4,47,27.7,19.3,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,Courtland Sutton,DEN,5,50,58.4,-8.4,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,Darnell Mooney,CHI,6,71,82.5,-11.5,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,JuJu Smith-Schuster,KC,7,74,79.4,-5.4,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,RB,Miles Sanders,PHI,8,95,95.8,-0.8,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,RB,Kenneth Walker,SEA,9,98,111.4,-13.4,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,QB,Kenny Pickett,PIT,10,119,125.1,-6.1,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,RB,Melvin Gordon,DEN,11,122,121,1,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,RB,Ronald Jones,KC,12,143,141,2,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,Jameson Williams,DET,13,146,155,-9,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,Joshua Palmer,LAC,14,167,164,3,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,KJ Hamler,DEN,15,170,170,0,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,Julio Jones,TB,16,191,177.2,13.8,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,TE,Logan Thomas,WAS,17,194,194,0,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,Byron Pringle,CHI,18,215,215,0,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,Romeo Doubs,GB,19,218,218,0,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+3,WR,Calvin Austin,PIT,20,239,239,0,6/23/2022,-22.2,Anchor QB,Elite TE,5,Puppy-SF
+4,QB,Patrick Mahomes,KC,1,7,3.6,3.4,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,QB,Trey Lance,SF,2,17,15.9,1.1,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Deebo Samuel,SF,3,31,37.9,-6.9,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,RB,Nick Chubb,CLE,4,42,45.1,-3.1,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,TE,George Kittle,SF,5,55,63,-8,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,RB,JK Dobbins,BAL,6,66,78.6,-12.6,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,RB,Josh Jacobs,LV,7,79,84.7,-5.7,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Amon-Ra St. Brown,DET,8,90,87,3,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Skyy Moore,KC,9,103,126.8,-23.8,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,QB,Baker Mayfield,CAR,10,114,87.1,26.9,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Tim Patrick,DEN,11,127,141.4,-14.4,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,RB,Melvin Gordon,DEN,12,138,121.3,16.7,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,RB,Rachaad White,TB,13,151,134.3,16.7,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Joshua Palmer,LAC,14,162,164.5,-2.5,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Jalen Tolbert,DAL,15,175,163.5,11.5,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Robby Anderson,CAR,16,186,178.9,7.1,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Julio Jones,TB,17,199,177.2,21.8,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,TE,Austin Hooper,TEN,18,210,185.3,24.7,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Justyn Ross,KC,19,223,223,0,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+4,WR,Isaiah Mckenzie,BUF,20,234,200.7,33.3,6/23/2022,89.2,Superhero QB,Elite TE,5,Puppy-SF
+5,QB,Lamar Jackson,BAL,1,3,4.3,-1.3,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,TE,Mark Andrews,BAL,2,22,29.2,-7.2,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,RB,Derrick Henry,TEN,3,27,22.8,4.2,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,RB,Javonte Williams,DEN,4,46,44.1,1.9,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,WR,Michael Pittman,IND,5,51,50.7,0.3,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,WR,Diontae Johnson,PIT,6,70,70.2,-0.2,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,RB,Ryan Tannehill,TEN,7,75,60.2,14.8,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,WR,Treylon Burks,TEN,8,94,111.7,-17.7,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,RB,Clyde Edwards-Helaire,KC,9,99,99,0,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,WR,Tyler Lockett,SEA,10,118,123.6,-5.6,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,WR,Garrett Wilson,NYJ,11,123,130.1,-7.1,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,RB,Alexander Mattison,MIN,12,142,138.1,3.9,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,RB,Michael Carter,NYJ,13,147,157.2,-10.2,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,QB,Drew Lock,SEA,14,166,166,0,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,QB,Malik Willis,TEN,15,171,171,0,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,WR,KJ Hamler,DEN,16,190,190,0,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,WR,Alec Pierce,IND,17,195,184.3,10.7,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,TE,Austin Hooper,TEN,18,214,185.3,28.7,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,WR,Nico Collins,HOU,19,219,179.7,39.3,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+5,WR,Tylan Wallace,BAL,20,238,238,0,6/23/2022,54.5,Anchor QB,Elite TE,5,Puppy-SF
+6,QB,Josh Allen,BUF,1,1,1.2,-0.2,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,QB,Trey Lance,SF,2,24,15.9,8.1,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,RB,Dandre Swift,DET,3,25,33.1,-8.1,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,RB,Javonte Williams,DEN,4,48,44.1,3.9,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,TE,Kyle Pitts,ATL,5,49,45.8,3.2,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,Gabriel Davis,BUF,6,72,71.5,0.5,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,Chris Godwin,TB,7,73,88.7,-15.7,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,Brandon Aiyuk,SF,8,96,110.8,-14.8,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,QB,Marcus Mariota,ATL,9,97,98.5,-1.5,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,Tyler Boyd,CIN,10,120,134.3,-14.3,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,Marquez Valdes-Scantling,KC,11,121,119,2,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,RB,Ronald Jones,KC,12,144,141,3,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,Rondale Moore,AZ,13,145,145,0,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,RB,Tyrion Davis-Price,SF,14,168,160,8,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,RB,Kenneth Gainwell,PHI,15,169,162,7,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,TE,Hayden Hurst,CIN,16,192,187.5,4.5,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,Jalen Tolbert,DAL,17,193,163.5,29.5,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,Julio Jones,TB,18,216,177.2,38.8,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,James Washington,DAL,19,217,217,0,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+6,WR,Isaiah Mckenzie,BUF,20,240,200.7,39.3,6/23/2022,93.2,Superhero QB,Elite TE,5,Puppy-SF
+7,RB,Christian Mccaffrey,CAR,1,8,9,-1,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,QB,Trey Lance,SF,2,17,15.7,1.3,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,RB,Dalvin Cook,MIN,3,32,26.8,5.2,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,RB,Aaron Jones,GB,4,41,35.8,5.2,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,TE,George Kittle,SF,5,56,65.5,-9.5,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,QB,Mac Jones,NE,6,65,54,11,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,QB,Carson Wentz,WAS,7,80,74.7,5.3,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Amon-Ra St. Brown,DET,8,89,87.2,1.8,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Deandre Hopkins,AZ,9,104,99.6,4.4,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Kadarius Toney,NYG,10,113,109.2,3.8,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,RB,Melvin Gordon,DEN,11,128,124,4,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Jakobi Meyers,NE,12,137,151.6,-14.6,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,TE,Hunter Henry,NE,13,152,151,1,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Joshua Palmer,LAC,14,161,166.2,-5.2,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Curtis Samuel,WAS,15,176,211.5,-35.5,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Julio Jones,TB,16,185,173.7,11.3,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Kendrick Bourne,NE,17,200,200,0,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Danny Gray,SF,18,209,209,0,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Zay Jones,JAX,19,224,224,0,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+7,WR,Nelson Agholor,NE,20,233,233,0,6/23/2022,-11.5,Anchor QB,Elite TE,5,Puppy-SF
+8,RB,Christian Mccaffrey,CAR,1,11,9,2,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,QB,Trey Lance,SF,2,14,15.7,-1.7,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,QB,Justin Fields,CHI,3,35,27.6,7.4,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,RB,Saquon Barkley,NYG,4,38,38.2,-0.2,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,TE,George Kittle,SF,5,59,65.5,-6.5,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,TE,Darren Waller,LV,6,62,60.8,1.2,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,QB,Zach Wilson,NYJ,7,83,56.7,26.3,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,Elijah Moore,NYJ,8,86,91.9,-5.9,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,Tyler Lockett,SEA,9,107,124.3,-17.3,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,Garrett Wilson,NYJ,10,110,129.3,-19.3,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,RB,Rhamondre Stevenson,NE,11,131,121,10,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,Mecole Hardman,KC,12,134,159.5,-25.5,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,DJ Chark,DET,13,155,175.5,-20.5,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,RB,Rachaad White,TB,14,158,133.8,24.2,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,Robby Anderson,CAR,15,179,179,0,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,Julio Jones,TB,16,182,173.7,8.3,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,Wandale Robinson,NYG,17,203,193,10,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,Byron Pringle,CHI,18,206,206,0,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,RB,Dernest Johnson,CLE,19,227,227,0,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+8,WR,Velus Jones,CHI,20,230,230,0,6/23/2022,-7.5,Superhero QB,Bully TE,5,Puppy-SF
+9,QB,Justin Herbert,LAC,1,4,2.6,1.4,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,RB,Dalvin Cook,MIN,2,21,26.8,-5.8,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,QB,Aaron Rodgers,GB,3,28,19.4,8.6,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,WR,Keenan Allen,LAC,4,45,48,-3,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,TE,Darren Waller,LV,5,52,60.5,-8.5,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,WR,Gabriel Davis,BUF,6,69,73.6,-4.6,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,WR,DK Metcalf,SEA,7,77,79.5,-2.5,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,WR,Drake London,ATL,8,93,98.7,-5.7,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,RB,Tony Pollard,DAL,9,100,100,0,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,WR,Tyler Lockett,SEA,10,117,124,-7,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,QB,Baker Mayfield,CAR,11,124,87,37,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,RB,Dameon Pierce,HOU,12,141,141,0,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,RB,Darrell Henderson,LAR,13,148,152,-4,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,RB,Isaiah Spiller,LAC,14,165,143.6,21.4,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,TE,Gerald Everett,LAC,15,172,162,10,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,WR,Sammy Watkins,GB,16,189,189,0,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,RB,Gus Edwards,BAL,17,196,175,21,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,RB,Raheem Mostert,MIA,18,213,201,12,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,WR,Romeo Doubs,GB,19,220,220,0,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+9,WR,Jalen Guyton,LAC,20,237,237,0,6/23/2022,70.3,Superhero QB,Elite TE,5,Puppy-SF
+10,QB,Kyler Murray,AZ,1,6,5.8,0.2,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,RB,Derrick Henry,TEN,2,19,22.7,-3.7,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,RB,Joe Mixon,CIN,3,30,32,-2,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,QB,Trevor Lawrence,JAX,4,43,34,9,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,RB,Travis Etienne,JAX,5,54,53.5,0.5,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,WR,Diontae Johnson,PIT,6,67,69.8,-2.8,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,WR,JuJu Smith-Schuster,KC,7,78,81.3,-3.3,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,WR,Deandre Hopkins,AZ,8,91,99.6,-8.6,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,WR,Christian Kirk,JAX,9,102,106.3,-4.3,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,RB,Cordarrelle Patterson,ATL,10,115,125.6,-10.6,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,RB,Kareem Hunt,CLE,11,126,109.8,16.2,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,WR,Rondale Moore,AZ,12,139,143.6,-4.6,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,RB,Rachaad White,TB,13,150,133.8,16.2,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,WR,Joshua Palmer,LAC,14,163,166.2,-3.2,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,QB,Desmond Ridder,ATL,15,174,174,0,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,TE,Evan Engram,JAX,16,187,177.2,9.8,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,TE,Gerald Everett,LAC,17,198,162,36,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,TE,Brevin Jordan,HOU,18,211,201,10,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,WR,Julio Jones,TB,19,222,173.7,48.3,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
+10,WR,Zay Jones,JAX,20,235,235,0,6/23/2022,103.1,Anchor QB,Neither,5,Puppy-SF
