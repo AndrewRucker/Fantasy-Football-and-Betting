@@ -116,7 +116,7 @@
 6,WR,Nico Collins,HOU,15,180,174.4,5.6,7/14/2022,-2.5,Superhero RB,Elite TE,25
 6,QB,Baker Mayfield,CAR,16,181,187.1,-6.1,7/14/2022,-2.5,Superhero RB,Elite TE,25
 6,WR,Will Fuller,,17,204,204,0,7/14/2022,-2.5,Superhero RB,Elite TE,25
-6,RB,Dernest Johnson,,18,205,205,0,7/14/2022,-2.5,Superhero RB,Elite TE,25
+6,RB,Dernest Johnson,CLE,18,205,205,0,7/14/2022,-2.5,Superhero RB,Elite TE,25
 6,RB,Tristan Ebner,CHI,19,228,228,0,7/14/2022,-2.5,Superhero RB,Elite TE,25
 6,WR,Nkeal Harry,CHI,20,229,229,0,7/14/2022,-2.5,Superhero RB,Elite TE,25
 7,RB,Austin Ekeler,LAC,1,6,6,0,7/14/2022,46.1,Hyperfragile RB,Neither,25
@@ -217,7 +217,7 @@
 11,RB,Jamaal Williams,DET,16,184,181,3,7/15/2022,29.1,Superhero RB,Elite TE,25
 11,RB,Brian Robinson,WAS,17,201,193.5,7.5,7/15/2022,29.1,Superhero RB,Elite TE,25
 11,WR,Will Fuller,,18,208,208,0,7/15/2022,29.1,Superhero RB,Elite TE,25
-11,RB,Dernest Johnson,,19,225,225,0,7/15/2022,29.1,Superhero RB,Elite TE,25
+11,RB,Dernest Johnson,CLE,19,225,225,0,7/15/2022,29.1,Superhero RB,Elite TE,25
 11,WR,Romeo Doubs,GB,20,232,232,0,7/15/2022,29.1,Superhero RB,Elite TE,25
 12,WR,Stefon Diggs,BUF,1,9,11.4,-2.4,7/16/2022,15.1,Zero RB,Elite TE,25
 12,WR,Deebo Samuel,SF,2,16,18.7,-2.7,7/16/2022,15.1,Zero RB,Elite TE,25
@@ -297,7 +297,7 @@
 15,WR,Kendrick Bourne,NE,16,187,184,3,7/18/2022,71.7,Anchor RB,Neither,25
 15,WR,Julio Jones,TB,17,198,198,0,7/18/2022,71.7,Anchor RB,Neither,25
 15,RB,Donta Foreman,CAR,18,211,202,9,7/18/2022,71.7,Anchor RB,Neither,25
-15,RB,Dernest Johnson,,19,222,222,0,7/18/2022,71.7,Anchor RB,Neither,25
+15,RB,Dernest Johnson,CLE,19,222,222,0,7/18/2022,71.7,Anchor RB,Neither,25
 15,WR,Will Fuller,,20,235,235,0,7/18/2022,71.7,Anchor RB,Neither,25
 16,TE,Travis Kelce,KC,1,11,9.1,1.9,7/18/2022,69,Anchor RB,Elite QB/TE,25
 16,RB,Najee Harris,PIT,2,14,10.4,3.6,7/18/2022,69,Anchor RB,Elite QB/TE,25
@@ -317,7 +317,7 @@
 16,RB,Gus Edwards,BAL,16,182,170.7,11.3,7/18/2022,69,Anchor RB,Elite QB/TE,25
 16,QB,Baker Mayfield,CAR,17,203,189.6,13.4,7/18/2022,69,Anchor RB,Elite QB/TE,25
 16,WR,Julio Jones,TB,18,206,198.6,7.4,7/18/2022,69,Anchor RB,Elite QB/TE,25
-16,RB,Dernest Johnson,,19,227,227,0,7/18/2022,69,Anchor RB,Elite QB/TE,25
+16,RB,Dernest Johnson,CLE,19,227,227,0,7/18/2022,69,Anchor RB,Elite QB/TE,25
 16,WR,Quez Watkins,PHI,20,230,230,0,7/18/2022,69,Anchor RB,Elite QB/TE,25
 17,WR,Davante Adams,LV,1,8,10.8,-2.8,7/18/2022,108,Anchor RB,Elite TE,25
 17,RB,Dandre Swift,DET,2,17,16,1,7/18/2022,108,Anchor RB,Elite TE,25
@@ -397,7 +397,7 @@
 20,RB,Zamir White,LV,16,192,198,-6,7/18/2022,-11.2,Zero RB,Elite TE,25
 20,RB,Chris Evans,CIN,17,193,203.9,-10.9,7/18/2022,-11.2,Zero RB,Elite TE,25
 20,RB,Tristan Ebner,CHI,18,216,216,0,7/18/2022,-11.2,Zero RB,Elite TE,25
-20,RB,Dernest Johnson,,19,217,217,0,7/18/2022,-11.2,Zero RB,Elite TE,25
+20,RB,Dernest Johnson,CLE,19,217,217,0,7/18/2022,-11.2,Zero RB,Elite TE,25
 20,WR,Demarcus Robinson,LV,20,240,240,0,7/18/2022,-11.2,Zero RB,Elite TE,25
 21,WR,Justin Jefferson,MIN,1,5,4,1,7/18/2022,61.2,Anchor RB,Elite TE,25
 21,WR,Tee Higgins,CIN,2,20,26.6,-6.6,7/18/2022,61.2,Anchor RB,Elite TE,25
@@ -417,7 +417,7 @@
 21,WR,Sammy Watkins,GB,16,188,168,20,7/18/2022,61.2,Anchor RB,Elite TE,25
 21,WR,Isaiah Mckenzie,BUF,17,197,203.6,-6.6,7/18/2022,61.2,Anchor RB,Elite TE,25
 21,WR,Will Fuller,,18,212,212,0,7/18/2022,61.2,Anchor RB,Elite TE,25
-21,RB,Dernest Johnson,,19,221,221,0,7/18/2022,61.2,Anchor RB,Elite TE,25
+21,RB,Dernest Johnson,CLE,19,221,221,0,7/18/2022,61.2,Anchor RB,Elite TE,25
 21,QB,Mitch Trubisky,PIT,20,236,236,0,7/18/2022,61.2,Anchor RB,Elite TE,25
 22,WR,Cooper Kupp,LAR,1,2,2.7,-0.7,7/19/2022,36,Zero RB,Elite QB/TE,25
 22,WR,Mike Williams,LAC,2,23,30.2,-7.2,7/19/2022,36,Zero RB,Elite QB/TE,25
