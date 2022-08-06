@@ -305,3 +305,39 @@
 17,QB,Zach Wilson,NYJ,16,186,186,0,8/5/2022,3.2,Modified Hyperfragile RB,Neither,5,Puppy-3
 17,TE,Taysom Hill,NO,17,199,199,0,8/5/2022,3.2,Modified Hyperfragile RB,Neither,5,Puppy-3
 17,WR,Deandre Carter,LAC,18,210,210,0,8/5/2022,3.2,Modified Hyperfragile RB,Neither,5,Puppy-3
+18,WR,Jamar Chase,CIN,1,5,5.2,-0.2,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,TE,Mark Andrews,BAL,2,20,21.1,-1.1,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,WR,DJ Moore,CAR,3,29,32.3,-3.3,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,WR,Gabriel Davis,BUF,4,44,43.7,0.3,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,WR,Chris Godwin,TB,5,53,56.3,-3.3,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,RB,JK Dobbins,BAL,6,68,61.7,6.3,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,QB,Joe Burrow,CIN,7,77,74.5,2.5,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,RB,Clyde Edwards-Helaire,KC,8,92,87.2,4.8,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,WR,Tyler Boyd,CIN,9,101,109.7,-8.7,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,RB,Rachaad White,TB,10,116,120.6,-4.6,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,RB,Isaiah Spiller,LAC,11,125,119.3,5.7,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,QB,Trevor Lawrence,JAX,12,140,145,-5,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,WR,Robby Anderson,CAR,13,149,147,2,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,QB,Daniel Jones,NYG,14,164,161,3,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,WR,Wandale Robinson,NYG,15,173,170,3,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,RB,Trey Sermon,SF,16,188,188,0,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,RB,Chris Evans,CIN,17,197,197,0,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+18,TE,Dan Arnold,JAX,18,212,212,0,8/6/2022,1.4,Zero RB,Elite TE,5,Puppy-3
+19,WR,Davante Adams,LV,1,11,10.5,0.5,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,TE,Travis Kelce,KC,2,14,11.9,2.1,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,QB,Josh Allen,BUF,3,35,31.4,3.6,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,WR,Gabriel Davis,BUF,4,38,43.7,-5.7,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,RB,JK Dobbins,BAL,5,59,61.7,-2.7,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,RB,Elijah Mitchell,SF,6,62,64.6,-2.6,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,RB,Antonio Gibson,WAS,7,83,78.6,4.4,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,WR,Marquez Valdes-Scantling,KC,8,86,92.8,-6.8,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,RB,Kareem Hunt,CLE,9,107,94.7,12.3,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,WR,Garrett Wilson,NYJ,10,110,111,-1,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,WR,Jahan Dotson,WAS,11,131,137,-6,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,RB,Darrell Henderson,LAR,12,134,130.2,3.8,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,WR,Robby Anderson,CAR,13,155,147.8,7.2,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,WR,George Pickens,PIT,14,158,154.5,3.5,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,WR,Corey Davis,NYJ,15,179,174.4,4.6,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,WR,Donovan Peoples-Jones,CLE,16,182,182,0,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,QB,Marcus Mariota,ATL,17,203,203,0,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
+19,TE,Brevin Jordan,HOU,18,206,206,0,8/6/2022,17.2,Modified Hyperfragile RB,Elite QB/TE,5,Puppy-3
