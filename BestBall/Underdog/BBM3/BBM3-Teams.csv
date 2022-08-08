@@ -553,7 +553,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 31,TE,Robert Tonyan,GB,12,135,137.9,-2.9,5/12/2022,49,Zero RB,Neither,25,BBM
 31,QB,Matt Ryan,IND,13,154,157.4,-3.4,5/12/2022,49,Zero RB,Neither,25,BBM
 31,RB,Nyheim Hines,IND,14,159,159,0,5/12/2022,49,Zero RB,Neither,25,BBM
-31,WR,Julio Jones,,15,178,178,0,5/12/2022,49,Zero RB,Neither,25,BBM
+31,WR,Julio Jones,TB,15,178,178,0,5/12/2022,49,Zero RB,Neither,25,BBM
 31,RB,Raheem Mostert,MIA,16,183,155.2,27.8,5/12/2022,49,Zero RB,Neither,25,BBM
 31,WR,Isaiah Mckenzie,BUF,17,202,202,0,5/12/2022,49,Zero RB,Neither,25,BBM
 31,RB,Keaontay Ingram,AZ,18,207,207,0,5/12/2022,49,Zero RB,Neither,25,BBM
@@ -698,7 +698,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 39,WR,Jamison Crowder,BUF,13,148,148.5,-0.5,5/13/2022,4.4,Superhero RB,Elite TE,25,BBM
 39,WR,David Bell,CLE,14,165,153.4,11.6,5/13/2022,4.4,Superhero RB,Elite TE,25,BBM
 39,WR,Curtis Samuel,WAS,15,172,172.3,-0.3,5/13/2022,4.4,Superhero RB,Elite TE,25,BBM
-39,WR,Julio Jones,,16,189,188.3,0.7,5/13/2022,4.4,Superhero RB,Elite TE,25,BBM
+39,WR,Julio Jones,TB,16,189,188.3,0.7,5/13/2022,4.4,Superhero RB,Elite TE,25,BBM
 39,WR,Wandale Robinson,NYG,17,196,196,0,5/13/2022,4.4,Superhero RB,Elite TE,25,BBM
 39,WR,Romeo Doubs,GB,18,213,213,0,5/13/2022,4.4,Superhero RB,Elite TE,25,BBM
 40,WR,Stefon Diggs,BUF,1,11,11,0,5/13/2022,-10.5,Zero RB,Neither,25,BBM
@@ -753,7 +753,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 42,QB,Matt Ryan,IND,14,167,159,8,5/16/2022,24.5,Superhero RB,Elite QB/TE,25,BBM
 42,WR,Alec Pierce,IND,15,170,164,6,5/16/2022,24.5,Superhero RB,Elite QB/TE,25,BBM
 42,WR,Devin Duvernay,BAL,16,191,191,0,5/16/2022,24.5,Superhero RB,Elite QB/TE,25,BBM
-42,WR,Julio Jones,,17,194,187.3,6.7,5/16/2022,24.5,Superhero RB,Elite QB/TE,25,BBM
+42,WR,Julio Jones,TB,17,194,187.3,6.7,5/16/2022,24.5,Superhero RB,Elite QB/TE,25,BBM
 42,RB,Kenyan Drake,LV,18,215,210.3,4.7,5/16/2022,24.5,Superhero RB,Elite QB/TE,25,BBM
 43,RB,Jonathan Taylor,IND,1,2,1.1,0.9,5/16/2022,23.6,Superhero RB,Elite QB,25,BBM
 43,WR,AJ Brown,TEN,2,23,23.8,-0.8,5/16/2022,23.6,Superhero RB,Elite QB,25,BBM
@@ -1022,7 +1022,7 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 58,RB,Isaiah Spiller,LAC,13,153,137.9,15.1,6/17/2022,69.9,Anchor RB,Elite QB,25,BBM
 58,RB,Michael Carter,NYJ,14,160,143.3,16.7,6/17/2022,69.9,Anchor RB,Elite QB,25,BBM
 58,QB,Ryan Tannehill,TEN,15,177,177,0,6/17/2022,69.9,Anchor RB,Elite QB,25,BBM
-58,WR,Julio Jones,,16,184,184,0,6/17/2022,69.9,Anchor RB,Elite QB,25,BBM
+58,WR,Julio Jones,TB,16,184,184,0,6/17/2022,69.9,Anchor RB,Elite QB,25,BBM
 58,WR,Jaylen Guyton,LAC,17,201,201,0,6/17/2022,69.9,Anchor RB,Elite QB,25,BBM
 58,WR,Tutu Atwell,LAR,18,208,208,0,6/17/2022,69.9,Anchor RB,Elite QB,25,BBM
 59,RB,Austin Ekeler,LAC,1,6,6.4,-0.4,6/17/2022,19.6,Hyperfragile RB,Neither,25,BBM
@@ -1059,5 +1059,5 @@ Team,POS,Name,TEAM,Round,Pick,ADP,Value,Draft Start,Cumulative Val,Strategy,Elit
 60,TE,Noah Fant,SEA,14,168,172,-4,6/22/2022,29.1,Superhero RB,Elite TE,25,BBM
 60,RB,Darrel Williams,AZ,15,169,157.5,11.5,6/22/2022,29.1,Superhero RB,Elite TE,25,BBM
 60,QB,Ryan Tannehill,TEN,16,192,182.8,9.2,6/22/2022,29.1,Superhero RB,Elite TE,25,BBM
-60,WR,Julio Jones,,17,193,191.2,1.8,6/22/2022,29.1,Superhero RB,Elite TE,25,BBM
+60,WR,Julio Jones,TB,17,193,191.2,1.8,6/22/2022,29.1,Superhero RB,Elite TE,25,BBM
 60,QB,Malik Willis,TEN,18,216,215.9,0.1,6/22/2022,29.1,Superhero RB,Elite TE,25,BBM
