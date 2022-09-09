@@ -3239,3 +3239,403 @@
 162,WR,David Bell,CLE,18,211,211,0,9/8/2022,19.1,Anchor RB,Neither,5
 162,RB,Jaylen Warren,PIT,19,222,222,0,9/8/2022,19.1,Anchor RB,Neither,5
 162,RB,Ty Chandler,MIN,20,235,235,0,9/8/2022,19.1,Anchor RB,Neither,5
+163,WR,Jamar Chase,CIN,1,6,6.6,-0.6,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,WR,Ceedee Lamb,DAL,2,19,17.7,1.3,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,WR,Michael Pittman,IND,3,30,28.8,1.2,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,RB,Travis Etienne,JAX,4,43,36.6,6.4,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,RB,Breece Hall,NYJ,5,54,54.7,-0.7,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,RB,AJ Dillon,GB,6,67,55.6,11.4,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,QB,Joe Burrow,CIN,7,78,74.1,3.9,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,WR,Chris Olave,NO,8,91,92.3,-1.3,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,QB,Aaron Rodgers,GB,9,102,99.1,2.9,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,WR,Tyler Boyd,CIN,10,115,112.1,2.9,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,WR,Jahan Dotson,WAS,11,126,129.3,-3.3,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,RB,Rachaad White,TB,12,139,140.3,-1.3,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,WR,Christian Watson,GB,13,150,150,0,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,TE,Robert Tonyan,GB,14,163,163,0,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,TE,Hayden Hurst,CIN,15,174,174,0,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,TE,Brevin Jordan,HOU,16,187,187,0,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,RB,Jeff Wilson,SF,17,198,198,0,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,WR,Randall Cobb,GB,18,211,211,0,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,RB,Ty Chandler,MIN,19,222,222,0,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+163,WR,Khalil Shakir,BUF,20,235,235,0,9/8/2022,22.8,Modified Hyperfragile RB,Neither,5
+164,WR,Davante Adams,LV,1,10,11.1,-1.1,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,WR,Ceedee Lamb,DAL,2,15,17.7,-2.7,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,WR,Gabriel Davis,BUF,3,34,38.8,-4.8,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,RB,Travis Etienne,JAX,4,39,36.6,2.4,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,TE,Darren Waller,LV,5,58,56.4,1.6,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,WR,DK Metcalf,SEA,6,63,60.1,2.9,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,RB,JK Dobbins,BAL,7,82,74.5,7.5,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,QB,Dak Prescott,DAL,8,87,92.1,-5.1,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,QB,Trey Lance,SF,9,106,87.7,18.3,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,WR,Tyler Boyd,CIN,10,111,112.1,-1.1,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,RB,Michael Carter,NYJ,11,130,127.1,2.9,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,WR,Garrett Wilson,NYJ,12,135,139.8,-4.8,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,TE,Tyler Higbee,LAR,13,154,145.4,8.6,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,RB,Alexander Mattison,MIN,14,159,133.7,25.3,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,WR,Christian Watson,GB,15,178,170.7,7.3,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,WR,Zay Jones,JAX,16,183,180.1,2.9,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,WR,Curtis Samuel,WAS,17,202,202,0,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,RB,Jaylen Warren,PIT,18,207,207,0,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,RB,Ameer Abdullah,LV,19,226,226,0,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+164,RB,Samaje Perine,CIN,20,231,231,0,9/8/2022,60.1,Modified Anchor RB,Elite TE,5
+165,RB,Dandre Swift,DET,1,12,15.4,-3.4,9/8/2022,-10.9,Anchor RB,Neither,5
+165,WR,Ceedee Lamb,DAL,2,13,17.7,-4.7,9/8/2022,-10.9,Anchor RB,Neither,5
+165,WR,Gabriel Davis,BUF,3,36,38.8,-2.8,9/8/2022,-10.9,Anchor RB,Neither,5
+165,WR,Tee Higgins,CIN,4,37,32.1,4.9,9/8/2022,-10.9,Anchor RB,Neither,5
+165,RB,Breece Hall,NYJ,5,60,54.7,5.3,9/8/2022,-10.9,Anchor RB,Neither,5
+165,WR,Darnell Mooney,CHI,6,61,63.4,-2.4,9/8/2022,-10.9,Anchor RB,Neither,5
+165,RB,Tony Pollard,DAL,7,84,78.7,5.3,9/8/2022,-10.9,Anchor RB,Neither,5
+165,QB,Dak Prescott,DAL,8,85,92.1,-7.1,9/8/2022,-10.9,Anchor RB,Neither,5
+165,WR,Tyler Boyd,CIN,9,108,111.1,-3.1,9/8/2022,-10.9,Anchor RB,Neither,5
+165,RB,James Cook,BUF,10,109,107.8,1.2,9/8/2022,-10.9,Anchor RB,Neither,5
+165,WR,Garrett Wilson,NYJ,11,132,137.9,-5.9,9/8/2022,-10.9,Anchor RB,Neither,5
+165,QB,Justin Fields,CHI,12,133,127.6,5.4,9/8/2022,-10.9,Anchor RB,Neither,5
+165,TE,Gerald Everett,LAC,13,156,159.6,-3.6,9/8/2022,-10.9,Anchor RB,Neither,5
+165,WR,Christian Watson,GB,14,157,157,0,9/8/2022,-10.9,Anchor RB,Neither,5
+165,WR,Jameson Williams,DET,15,180,180,0,9/8/2022,-10.9,Anchor RB,Neither,5
+165,TE,Evan Engram,JAX,16,181,181,0,9/8/2022,-10.9,Anchor RB,Neither,5
+165,TE,Mo Allie-Cox,IND,17,204,204,0,9/8/2022,-10.9,Anchor RB,Neither,5
+165,WR,Curtis Samuel,WAS,18,205,205,0,9/8/2022,-10.9,Anchor RB,Neither,5
+165,RB,Tristan Ebner,CHI,19,228,228,0,9/8/2022,-10.9,Anchor RB,Neither,5
+165,RB,Sony Michel,LAC,20,229,229,0,9/8/2022,-10.9,Anchor RB,Neither,5
+166,WR,Jamar Chase,CIN,1,9,6.6,2.4,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,RB,Saquon Barkley,NYG,2,16,15.4,0.6,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,WR,Tee Higgins,CIN,3,33,32.1,0.9,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,WR,Gabriel Davis,BUF,4,40,38.8,1.2,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,TE,Darren Waller,LV,5,57,54.6,2.4,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,QB,Joe Burrow,CIN,6,64,73.1,-9.1,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,WR,Elijah Moore,NYJ,7,81,79.1,1.9,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,WR,Drake London,ATL,8,88,90.1,-2.1,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,QB,Derek Carr,LV,9,105,104.1,0.9,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,WR,Tyler Boyd,CIN,10,112,112.1,-0.1,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,RB,Kenneth Walker,SEA,11,129,124.5,4.5,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,RB,Michael Carter,NYJ,12,136,127.7,8.3,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,WR,Christian Watson,GB,13,153,153,0,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,QB,Daniel Jones,NYG,14,160,160,0,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,WR,Jameson Williams,DET,15,177,177,0,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,RB,Brian Robinson,WAS,16,184,184,0,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,RB,Sony Michel,LAC,17,201,201,0,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,TE,Mo Allie-Cox,IND,18,208,208,0,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,RB,Ameer Abdullah,LV,19,225,225,0,9/8/2022,11.8,Anchor RB,Elite TE,5
+166,RB,Samaje Perine,CIN,20,232,232,0,9/8/2022,11.8,Anchor RB,Elite TE,5
+167,RB,Christian Mccaffrey,CAR,1,1,1.9,-0.9,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,WR,Tyreek Hill,MIA,2,24,19.1,4.9,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,WR,AJ Brown,PHI,3,25,26.7,-1.7,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,WR,Jerry Jeudy,DEN,4,48,50.1,-2.1,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,TE,Darren Waller,LV,5,49,53.8,-4.8,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,QB,Russell Wilson,DEN,6,72,77.7,-5.7,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,RB,Chase Edmonds,MIA,7,73,69.7,3.3,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,WR,Marquez Valdes-Scantling,KC,8,96,94.7,1.3,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,WR,George Pickens,PIT,9,97,104.3,-7.3,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,WR,Chase Claypool,PIT,10,120,116.8,3.2,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,RB,Kenneth Walker,SEA,11,121,124.5,-3.5,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,RB,Rachaad White,TB,12,144,140.3,3.7,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,WR,KJ Hamler,DEN,13,145,145.3,-0.3,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,WR,Christian Watson,GB,14,168,168,0,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,QB,Daniel Jones,NYG,15,169,169,0,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,RB,Eno Benjamin,AZ,16,192,192,0,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,RB,Samaje Perine,CIN,17,193,193,0,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,TE,Greg Dulcich,DEN,18,216,216,0,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,QB,Kenny Pickett,PIT,19,217,217,0,9/8/2022,-9.9,Anchor RB,Elite TE,5
+167,TE,Trey Mcbride,AZ,20,240,240,0,9/8/2022,-9.9,Anchor RB,Elite TE,5
+168,WR,Jamar Chase,CIN,1,6,6.6,-0.6,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,TE,Kyle Pitts,ATL,2,19,26.7,-7.7,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,QB,Josh Allen,BUF,3,30,22.3,7.7,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,WR,Marquise Brown,AZ,4,43,46.9,-3.9,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,WR,Jerry Jeudy,DEN,5,54,50.1,3.9,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,RB,Chase Edmonds,MIA,6,67,67.9,-0.9,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,WR,Brandon Aiyuk,SF,7,78,72.2,5.8,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,QB,Trey Lance,SF,8,91,87.7,3.3,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,RB,James Cook,BUF,9,102,108.6,-6.6,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,WR,Skyy Moore,KC,10,115,109.6,5.4,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,RB,Kenneth Walker,SEA,11,126,124.5,1.5,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,WR,Joshua Palmer,LAC,12,139,133.2,5.8,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,WR,Garrett Wilson,NYJ,13,150,139.7,10.3,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,TE,Gerald Everett,LAC,14,163,160.3,2.7,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,WR,Christian Watson,GB,15,174,170.1,3.9,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,RB,Isaiah Spiller,LAC,16,187,187,0,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,RB,Eno Benjamin,AZ,17,198,198,0,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,RB,Samaje Perine,CIN,18,211,211,0,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,RB,Kyren Williams,LAR,19,222,222,0,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+168,RB,Zack Moss,BUF,20,235,235,0,9/8/2022,30.6,Zero RB,Elite QB/TE,5
+169,RB,Jonathan Taylor,IND,1,4,1.9,2.1,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,WR,Tyreek Hill,MIA,2,21,20.1,0.9,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,WR,Michael Pittman,IND,3,28,28.8,-0.8,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,WR,Jerry Jeudy,DEN,4,45,50.1,-5.1,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,TE,Darren Waller,LV,5,52,52.3,-0.3,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,QB,Russell Wilson,DEN,6,69,74.3,-5.3,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,WR,Devonta Smith,PHI,7,77,80.1,-3.1,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,WR,Kadarius Toney,NYG,8,93,100.1,-7.1,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,QB,Derek Carr,LV,9,100,104.5,-4.5,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,RB,Kenneth Walker,SEA,10,117,124.4,-7.4,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,QB,Tua Tagovailoa,MIA,11,124,123.4,0.6,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,WR,Garrett Wilson,NYJ,12,141,139.7,1.3,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,TE,Mike Gesicki,MIA,13,148,144.8,3.2,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,WR,Christian Watson,GB,14,165,165,0,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,RB,Jerick Mckinnon,KC,15,172,172,0,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,WR,Corey Davis,NYJ,16,189,189,0,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,WR,Curtis Samuel,WAS,17,196,196,0,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,RB,Samaje Perine,CIN,18,213,213,0,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,RB,Kyren Williams,LAR,19,220,220,0,9/8/2022,-25.5,Anchor RB,Elite TE,5
+169,RB,Sony Michel,LAC,20,237,237,0,9/8/2022,-25.5,Anchor RB,Elite TE,5
+170,WR,Jamar Chase,CIN,1,6,6.6,-0.6,9/8/2022,35.6,Zero RB,Neither,5
+170,WR,Tyreek Hill,MIA,2,19,19.7,-0.7,9/8/2022,35.6,Zero RB,Neither,5
+170,WR,Tee Higgins,CIN,3,30,31.2,-1.2,9/8/2022,35.6,Zero RB,Neither,5
+170,WR,JuJu Smith-Schuster,KC,4,43,43,0,9/8/2022,35.6,Zero RB,Neither,5
+170,WR,Jerry Jeudy,DEN,5,54,50.1,3.9,9/8/2022,35.6,Zero RB,Neither,5
+170,QB,Russell Wilson,DEN,6,67,74.1,-7.1,9/8/2022,35.6,Zero RB,Neither,5
+170,RB,JK Dobbins,BAL,7,78,74.4,3.6,9/8/2022,35.6,Zero RB,Neither,5
+170,RB,Cordarrelle Patterson,ATL,8,91,95.4,-4.4,9/8/2022,35.6,Zero RB,Neither,5
+170,RB,Damien Harris,NE,9,102,100,2,9/8/2022,35.6,Zero RB,Neither,5
+170,WR,Treylon Burks,TEN,10,115,112.3,2.7,9/8/2022,35.6,Zero RB,Neither,5
+170,QB,Tua Tagovailoa,MIA,11,126,123,3,9/8/2022,35.6,Zero RB,Neither,5
+170,WR,Garrett Wilson,NYJ,12,139,137.9,1.1,9/8/2022,35.6,Zero RB,Neither,5
+170,WR,Joshua Palmer,LAC,13,150,133.3,16.7,9/8/2022,35.6,Zero RB,Neither,5
+170,TE,Gerald Everett,LAC,14,163,160.3,2.7,9/8/2022,35.6,Zero RB,Neither,5
+170,TE,Evan Engram,JAX,15,174,170.4,3.6,9/8/2022,35.6,Zero RB,Neither,5
+170,RB,Jerick Mckinnon,KC,16,187,176.7,10.3,9/8/2022,35.6,Zero RB,Neither,5
+170,RB,Isaiah Spiller,LAC,17,198,198,0,9/8/2022,35.6,Zero RB,Neither,5
+170,RB,Sony Michel,LAC,18,211,211,0,9/8/2022,35.6,Zero RB,Neither,5
+170,TE,Trey Mcbride,AZ,19,222,222,0,9/8/2022,35.6,Zero RB,Neither,5
+170,RB,Kyren Williams,LAR,20,235,235,0,9/8/2022,35.6,Zero RB,Neither,5
+171,WR,Cooper Kupp,LAR,1,4,4,0,9/8/2022,84.5,Zero RB,Neither,5
+171,WR,Ceedee Lamb,DAL,2,21,17.7,3.3,9/8/2022,84.5,Zero RB,Neither,5
+171,WR,AJ Brown,PHI,3,28,25.7,2.3,9/8/2022,84.5,Zero RB,Neither,5
+171,WR,Mike Williams,LAC,4,45,33.3,11.7,9/8/2022,84.5,Zero RB,Neither,5
+171,WR,JuJu Smith-Schuster,KC,5,52,43.3,8.7,9/8/2022,84.5,Zero RB,Neither,5
+171,RB,Tony Pollard,DAL,6,69,77.7,-8.7,9/8/2022,84.5,Zero RB,Neither,5
+171,WR,Devonta Smith,PHI,7,77,80.1,-3.1,9/8/2022,84.5,Zero RB,Neither,5
+171,QB,Dak Prescott,DAL,8,93,92.3,0.7,9/8/2022,84.5,Zero RB,Neither,5
+171,WR,Kadarius Toney,NYG,9,100,100.1,-0.1,9/8/2022,84.5,Zero RB,Neither,5
+171,RB,Kareem Hunt,CLE,10,117,95.7,21.3,9/8/2022,84.5,Zero RB,Neither,5
+171,RB,Kenneth Walker,SEA,11,124,124.5,-0.5,9/8/2022,84.5,Zero RB,Neither,5
+171,RB,Michael Carter,NYJ,12,141,127,14,9/8/2022,84.5,Zero RB,Neither,5
+171,TE,Mike Gesicki,MIA,13,148,144.4,3.6,9/8/2022,84.5,Zero RB,Neither,5
+171,RB,Alexander Mattison,MIN,14,165,133.7,31.3,9/8/2022,84.5,Zero RB,Neither,5
+171,WR,Jameson Williams,DET,15,172,172,0,9/8/2022,84.5,Zero RB,Neither,5
+171,QB,Davis Mills,HOU,16,189,189,0,9/8/2022,84.5,Zero RB,Neither,5
+171,QB,Malik Willis,TEN,17,196,196,0,9/8/2022,84.5,Zero RB,Neither,5
+171,TE,Robert Tonyan,GB,18,213,213,0,9/8/2022,84.5,Zero RB,Neither,5
+171,TE,Jonnu Smith,NE,19,220,220,0,9/8/2022,84.5,Zero RB,Neither,5
+171,RB,Sony Michel,LAC,20,237,237,0,9/8/2022,84.5,Zero RB,Neither,5
+172,WR,Jamar Chase,CIN,1,6,6.6,-0.6,9/8/2022,33.8,Anchor RB,Neither,5
+172,RB,Saquon Barkley,NYG,2,19,15.4,3.6,9/8/2022,33.8,Anchor RB,Neither,5
+172,WR,DJ Moore,CAR,3,30,36.7,-6.7,9/8/2022,33.8,Anchor RB,Neither,5
+172,WR,Jaylen Waddle,MIA,4,43,44.4,-1.4,9/8/2022,33.8,Anchor RB,Neither,5
+172,WR,Terry Mclaurin,WAS,5,54,43.4,10.6,9/8/2022,33.8,Anchor RB,Neither,5
+172,RB,Chase Edmonds,MIA,6,67,70.4,-3.4,9/8/2022,33.8,Anchor RB,Neither,5
+172,WR,Devonta Smith,PHI,7,78,80.1,-2.1,9/8/2022,33.8,Anchor RB,Neither,5
+172,QB,Dak Prescott,DAL,8,91,92.3,-1.3,9/8/2022,33.8,Anchor RB,Neither,5
+172,RB,Rhamondre Stevenson,NE,9,102,82.1,19.9,9/8/2022,33.8,Anchor RB,Neither,5
+172,QB,Tua Tagovailoa,MIA,10,115,122.3,-7.3,9/8/2022,33.8,Anchor RB,Neither,5
+172,WR,Isaiah Mckenzie,BUF,11,126,123.1,2.9,9/8/2022,33.8,Anchor RB,Neither,5
+172,RB,Nyheim Hines,IND,12,139,119.1,19.9,9/8/2022,33.8,Anchor RB,Neither,5
+172,TE,Hunter Henry,NE,13,150,150.3,-0.3,9/8/2022,33.8,Anchor RB,Neither,5
+172,WR,Robby Anderson,CAR,14,163,163,0,9/8/2022,33.8,Anchor RB,Neither,5
+172,TE,Robert Tonyan,GB,15,174,174,0,9/8/2022,33.8,Anchor RB,Neither,5
+172,TE,Brevin Jordan,HOU,16,187,187,0,9/8/2022,33.8,Anchor RB,Neither,5
+172,WR,Zay Jones,JAX,17,198,198,0,9/8/2022,33.8,Anchor RB,Neither,5
+172,RB,Dernest Johnson,CLE,18,211,211,0,9/8/2022,33.8,Anchor RB,Neither,5
+172,RB,Samaje Perine,CIN,19,222,222,0,9/8/2022,33.8,Anchor RB,Neither,5
+172,WR,Curtis Samuel,WAS,20,235,235,0,9/8/2022,33.8,Anchor RB,Neither,5
+173,WR,Davante Adams,LV,1,9,10.1,-1.1,9/8/2022,3.9,Zero RB,Neither,5
+173,WR,Ceedee Lamb,DAL,2,16,17.7,-1.7,9/8/2022,3.9,Zero RB,Neither,5
+173,WR,Courtland Sutton,DEN,3,33,33.4,-0.4,9/8/2022,3.9,Zero RB,Neither,5
+173,WR,JuJu Smith-Schuster,KC,4,40,43.3,-3.3,9/8/2022,3.9,Zero RB,Neither,5
+173,RB,Breece Hall,NYJ,5,57,54.7,2.3,9/8/2022,3.9,Zero RB,Neither,5
+173,WR,DK Metcalf,SEA,6,64,60.3,3.7,9/8/2022,3.9,Zero RB,Neither,5
+173,QB,Russell Wilson,DEN,7,81,74.7,6.3,9/8/2022,3.9,Zero RB,Neither,5
+173,QB,Dak Prescott,DAL,8,88,92.3,-4.3,9/8/2022,3.9,Zero RB,Neither,5
+173,WR,Skyy Moore,KC,9,105,108.1,-3.1,9/8/2022,3.9,Zero RB,Neither,5
+173,RB,Melvin Gordon,DEN,10,112,112,0,9/8/2022,3.9,Zero RB,Neither,5
+173,RB,Kenneth Gainwell,PHI,11,129,129.1,-0.1,9/8/2022,3.9,Zero RB,Neither,5
+173,WR,Michael Gallup,DAL,12,136,133.1,2.9,9/8/2022,3.9,Zero RB,Neither,5
+173,TE,Hunter Henry,NE,13,153,150.3,2.7,9/8/2022,3.9,Zero RB,Neither,5
+173,WR,Christian Watson,GB,14,160,160,0,9/8/2022,3.9,Zero RB,Neither,5
+173,TE,Hayden Hurst,CIN,15,177,177,0,9/8/2022,3.9,Zero RB,Neither,5
+173,RB,Eno Benjamin,AZ,16,184,184,0,9/8/2022,3.9,Zero RB,Neither,5
+173,RB,Samaje Perine,CIN,17,201,201,0,9/8/2022,3.9,Zero RB,Neither,5
+173,RB,Ronald Jones,KC,18,208,208,0,9/8/2022,3.9,Zero RB,Neither,5
+173,RB,Sony Michel,LAC,19,225,225,0,9/8/2022,3.9,Zero RB,Neither,5
+173,TE,Jonnu Smith,NE,20,232,232,0,9/8/2022,3.9,Zero RB,Neither,5
+174,RB,Dandre Swift,DET,1,12,14.6,-2.6,9/8/2022,29.2,Anchor RB,Neither,5
+174,WR,Ceedee Lamb,DAL,2,13,17.7,-4.7,9/8/2022,29.2,Anchor RB,Neither,5
+174,WR,Amon-Ra St. Brown,DET,3,36,40.1,-4.1,9/8/2022,29.2,Anchor RB,Neither,5
+174,WR,Courtland Sutton,DEN,4,37,34.5,2.5,9/8/2022,29.2,Anchor RB,Neither,5
+174,WR,DK Metcalf,SEA,5,60,60.3,-0.3,9/8/2022,29.2,Anchor RB,Neither,5
+174,RB,Breece Hall,NYJ,6,61,54.7,6.3,9/8/2022,29.2,Anchor RB,Neither,5
+174,QB,Dak Prescott,DAL,7,84,92.3,-8.3,9/8/2022,29.2,Anchor RB,Neither,5
+174,RB,Tony Pollard,DAL,8,85,79.7,5.3,9/8/2022,29.2,Anchor RB,Neither,5
+174,WR,Kadarius Toney,NYG,9,108,100.1,7.9,9/8/2022,29.2,Anchor RB,Neither,5
+174,WR,Treylon Burks,TEN,10,109,113.3,-4.3,9/8/2022,29.2,Anchor RB,Neither,5
+174,RB,Kenneth Walker,SEA,11,132,124.4,7.6,9/8/2022,29.2,Anchor RB,Neither,5
+174,WR,Joshua Palmer,LAC,12,133,133,0,9/8/2022,29.2,Anchor RB,Neither,5
+174,QB,Daniel Jones,NYG,13,156,161.1,-5.1,9/8/2022,29.2,Anchor RB,Neither,5
+174,TE,Gerald Everett,LAC,14,157,130.2,26.8,9/8/2022,29.2,Anchor RB,Neither,5
+174,TE,Hayden Hurst,CIN,15,180,177.8,2.2,9/8/2022,29.2,Anchor RB,Neither,5
+174,WR,Jameson Williams,DET,16,181,181,0,9/8/2022,29.2,Anchor RB,Neither,5
+174,RB,Sony Michel,LAC,17,204,204,0,9/8/2022,29.2,Anchor RB,Neither,5
+174,RB,Samaje Perine,CIN,18,205,205,0,9/8/2022,29.2,Anchor RB,Neither,5
+174,RB,Ty Chandler,MIN,19,228,228,0,9/8/2022,29.2,Anchor RB,Neither,5
+174,TE,Daniel Bellinger,NYG,20,229,229,0,9/8/2022,29.2,Anchor RB,Neither,5
+175,RB,Saquon Barkley,NYG,1,12,14.4,-2.4,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,WR,Ceedee Lamb,DAL,2,13,17.7,-4.7,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,WR,Gabriel Davis,BUF,3,36,37.8,-1.8,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,WR,Mike Williams,LAC,4,37,33.3,3.7,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,RB,Breece Hall,NYJ,5,60,54.7,5.3,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,RB,Cam Akers,LAR,6,61,57.6,3.4,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,RB,Rhamondre Stevenson,NE,7,84,82.1,1.9,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,QB,Tom Brady,TB,8,85,81.1,3.9,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,RB,James Cook,BUF,9,108,108,0,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,WR,Julio Jones,TB,10,109,111.1,-2.1,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,WR,Russell Gage,TB,11,132,132,0,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,RB,Rachaad White,TB,12,133,140.1,-7.1,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,TE,Hunter Henry,NE,13,156,150.4,5.6,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,QB,Mac Jones,NE,14,157,160.1,-3.1,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,WR,Wandale Robinson,NYG,15,180,169.9,10.1,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,WR,Zay Jones,JAX,16,181,181,0,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,TE,Brevin Jordan,HOU,17,204,193.4,10.6,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,TE,Mo Allie-Cox,IND,18,205,205,0,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,QB,Malik Willis,TEN,19,228,228,0,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+175,WR,David Bell,CLE,20,229,229,0,9/8/2022,23.3,Modified Hyperfragile RB,Neither,5
+176,WR,Cooper Kupp,LAR,1,4,4,0,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,TE,Mark Andrews,BAL,2,21,21,0,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,WR,Mike Williams,LAC,3,28,33.3,-5.3,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,WR,Allen Robinson,LAR,4,45,44.4,0.6,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,QB,Lamar Jackson,BAL,5,52,44.8,7.2,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,RB,Cam Akers,LAR,6,69,57.7,11.3,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,RB,JK Dobbins,BAL,7,77,74.4,2.6,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,WR,Marquez Valdes-Scantling,KC,8,93,96.4,-3.4,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,WR,George Pickens,PIT,9,100,103.3,-3.3,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,RB,Melvin Gordon,DEN,10,117,112.3,4.7,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,QB,Justin Fields,CHI,11,124,126.4,-2.4,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,WR,DJ Chark,DET,12,141,133.8,7.2,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,RB,Rachaad White,TB,13,148,143.6,4.4,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,WR,Christian Watson,GB,14,165,165,0,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,WR,KJ Hamler,DEN,15,172,164.7,7.3,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,TE,Brevin Jordan,HOU,16,189,189,0,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,RB,Jeff Wilson,SF,17,196,196,0,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,RB,Jaylen Warren,PIT,18,213,213,0,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,RB,Tristan Ebner,CHI,19,220,220,0,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+176,RB,Sony Michel,LAC,20,237,237,0,9/8/2022,30.9,Zero RB,Elite QB/TE,5
+177,WR,Cooper Kupp,LAR,1,4,4,0,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,RB,Javonte Williams,DEN,2,21,20.1,0.9,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,TE,Kyle Pitts,ATL,3,28,27.7,0.3,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,WR,Marquise Brown,AZ,4,45,48.3,-3.3,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,WR,Jerry Jeudy,DEN,5,52,50.1,1.9,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,WR,Rashod Bateman,BAL,6,69,60.1,8.9,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,QB,Russell Wilson,DEN,7,77,74.7,2.3,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,WR,Marquez Valdes-Scantling,KC,8,93,94.5,-1.5,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,RB,Cordarrelle Patterson,ATL,9,100,95.6,4.4,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,RB,Nyheim Hines,IND,10,117,119.1,-2.1,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,WR,Jahan Dotson,WAS,11,124,128.3,-4.3,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,RB,Rachaad White,TB,12,141,140.3,0.7,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,WR,KJ Hamler,DEN,13,148,158.9,-10.9,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,WR,Christian Watson,GB,14,165,165,0,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,RB,Khalil Herbert,CHI,15,172,154.7,17.3,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,QB,Carson Wentz,WAS,16,189,189,0,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,QB,Marcus Mariota,ATL,17,196,196,0,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,TE,Mo Allie-Cox,IND,18,213,213,0,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,TE,Trey Mcbride,AZ,19,220,220,0,9/8/2022,14.6,Anchor RB,Elite TE,5
+177,RB,Zack Moss,BUF,20,237,237,0,9/8/2022,14.6,Anchor RB,Elite TE,5
+178,RB,Dandre Swift,DET,1,12,14.5,-2.5,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,WR,Ceedee Lamb,DAL,2,13,17.7,-4.7,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,WR,DJ Moore,CAR,3,36,36.7,-0.7,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,WR,Amon-Ra St. Brown,DET,4,37,40.1,-3.1,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,WR,DK Metcalf,SEA,5,60,60.1,-0.1,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,TE,Darren Waller,LV,6,61,54.8,6.2,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,QB,Dak Prescott,DAL,7,84,92.1,-8.1,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,RB,Tony Pollard,DAL,8,85,79.1,5.9,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,WR,George Pickens,PIT,9,108,103.5,4.5,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,WR,Chase Claypool,PIT,10,109,118.1,-9.1,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,RB,Kenneth Walker,SEA,11,132,124.5,7.5,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,WR,DJ Chark,DET,12,133,133,0,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,QB,Jared Goff,DET,13,156,160.1,-4.1,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,WR,Christian Watson,GB,14,157,157,0,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,TE,Robert Tonyan,GB,15,180,173.4,6.6,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,WR,Parris Campbell,IND,16,181,181,0,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,RB,Sony Michel,LAC,17,204,204,0,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,RB,Jaylen Warren,PIT,18,205,205,0,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,RB,Kyren Williams,LAR,19,228,228,0,9/8/2022,-1.7,Anchor RB,Elite TE,5
+178,RB,Ty Chandler,MIN,20,229,229,0,9/8/2022,-1.7,Anchor RB,Elite TE,5
+179,RB,Christian Mccaffrey,CAR,1,1,1.9,-0.9,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,WR,Tyreek Hill,MIA,2,24,19.9,4.1,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,WR,AJ Brown,PHI,3,25,27.4,-2.4,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,WR,Marquise Brown,AZ,4,48,48.7,-0.7,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,QB,Jalen Hurts,PHI,5,49,52.3,-3.3,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,WR,Devonta Smith,PHI,6,72,80.1,-8.1,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,WR,Christian Kirk,JAX,7,73,72.4,0.6,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,WR,Kadarius Toney,NYG,8,96,100.1,-4.1,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,RB,Cordarrelle Patterson,ATL,9,97,94.5,2.5,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,WR,Chase Claypool,PIT,10,120,118,2,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,QB,Trevor Lawrence,JAX,11,121,123.3,-2.3,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,TE,Mike Gesicki,MIA,12,144,143.4,0.6,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,WR,Nico Collins,HOU,13,145,150.1,-5.1,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,WR,Corey Davis,NYJ,14,168,168,0,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,RB,Jerick Mckinnon,KC,15,169,169,0,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,RB,Eno Benjamin,AZ,16,192,192,0,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,TE,Evan Engram,JAX,17,193,193,0,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,RB,Samaje Perine,CIN,18,216,216,0,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,TE,Trey Mcbride,AZ,19,217,217,0,9/8/2022,-17.1,Anchor RB,Elite QB,5
+179,RB,Sony Michel,LAC,20,240,240,0,9/8/2022,-17.1,Anchor RB,Elite QB,5
+180,RB,Christian Mccaffrey,CAR,1,1,1.9,-0.9,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,WR,AJ Brown,PHI,2,24,27.4,-3.4,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,TE,Kyle Pitts,ATL,3,25,27.7,-2.7,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,WR,Chris Godwin,TB,4,48,50.1,-2.1,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,QB,Jalen Hurts,PHI,5,49,52.3,-3.3,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,WR,Devonta Smith,PHI,6,72,79.1,-7.1,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,WR,Elijah Moore,NYJ,7,73,80.1,-7.1,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,WR,Chris Olave,NO,8,96,92.3,3.7,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,RB,Rashaad Penny,SEA,9,97,84.9,12.1,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,RB,Nyheim Hines,IND,10,120,119.1,0.9,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,QB,Justin Fields,CHI,11,121,123.1,-2.1,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,RB,Tyler Allgeier,ATL,12,144,150.4,-6.4,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,WR,Russell Gage,TB,13,145,133.4,11.6,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,WR,Christian Watson,GB,14,168,168,0,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,TE,Robert Tonyan,GB,15,169,169,0,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,RB,Eno Benjamin,AZ,16,192,192,0,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,WR,Jameson Williams,DET,17,193,193,0,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,RB,Tristan Ebner,CHI,18,216,216,0,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,WR,Byron Pringle,CHI,19,217,217,0,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+180,RB,Kyren Williams,LAR,20,240,240,0,9/8/2022,-6.8,Anchor RB,Elite QB/TE,5
+181,RB,Christian Mccaffrey,CAR,1,4,1.9,2.1,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,WR,Ceedee Lamb,DAL,2,21,17.7,3.3,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,WR,Deebo Samuel,SF,3,28,23.3,4.7,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,WR,Jaylen Waddle,MIA,4,45,43.4,1.6,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,TE,Darren Waller,LV,5,52,54.3,-2.3,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,WR,Brandon Aiyuk,SF,6,69,72.1,-3.1,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,RB,Chase Edmonds,MIA,7,77,70.1,6.9,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,QB,Dak Prescott,DAL,8,93,92.1,0.9,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,QB,Trey Lance,SF,9,100,87.7,12.3,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,RB,Damien Harris,NE,10,117,100.1,16.9,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,WR,Treylon Burks,TEN,11,124,113.1,10.9,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,WR,Michael Gallup,DAL,12,141,133.6,7.4,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,RB,Rachaad White,TB,13,148,143.1,4.9,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,TE,Mike Gesicki,MIA,14,165,144.5,20.5,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,WR,Christian Watson,GB,15,172,170.1,1.9,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,WR,Corey Davis,NYJ,16,189,182.3,6.7,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,WR,Jameson Williams,DET,17,196,188.1,7.9,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,RB,Ameer Abdullah,LV,18,213,213,0,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,RB,Sony Michel,LAC,19,220,220,0,9/8/2022,103.5,Anchor RB,Elite TE,5
+181,RB,Kyren Williams,LAR,20,237,237,0,9/8/2022,103.5,Anchor RB,Elite TE,5
+182,WR,Jamar Chase,CIN,1,6,6.6,-0.6,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,TE,Mark Andrews,BAL,2,19,21.1,-2.1,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,WR,DJ Moore,CAR,3,30,36.7,-6.7,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,QB,Lamar Jackson,BAL,4,43,43.8,-0.8,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,WR,Diontae Johnson,PIT,5,54,54.8,-0.8,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,WR,Christian Kirk,JAX,6,67,73.4,-6.4,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,RB,JK Dobbins,BAL,7,78,74.1,3.9,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,RB,Devin Singletary,BUF,8,91,91,0,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,WR,George Pickens,PIT,9,102,102.3,-0.3,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,RB,Melvin Gordon,DEN,10,115,112.1,2.9,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,QB,Trevor Lawrence,JAX,11,126,128.4,-2.4,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,WR,Russell Gage,TB,12,139,137.3,1.7,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,WR,Nico Collins,HOU,13,150,150.1,-0.1,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,WR,Christian Watson,GB,14,163,163,0,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,TE,Evan Engram,JAX,15,174,170.4,3.6,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,RB,Brian Robinson,WAS,16,187,168.6,18.4,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,WR,David Bell,CLE,17,198,198,0,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,RB,Sony Michel,LAC,18,211,211,0,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,RB,Ameer Abdullah,LV,19,222,222,0,9/8/2022,10.3,Zero RB,Elite QB/TE,5
+182,RB,Kyren Williams,LAR,20,235,235,0,9/8/2022,10.3,Zero RB,Elite QB/TE,5
