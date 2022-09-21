@@ -52,6 +52,6 @@ So, an example row of data for this dataset will be as follows:
  
 
 
-** Disclaimer: this will be a continous work in progress**
+**Disclaimer: this will be a continous work in progress**
 
 
