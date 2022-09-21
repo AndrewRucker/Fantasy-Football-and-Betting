@@ -52,6 +52,6 @@ So, an example row of data for this dataset will be as follows:
  
 
 
-esketit
+** Disclaimer: this will be a continous work in progress**
 
 
