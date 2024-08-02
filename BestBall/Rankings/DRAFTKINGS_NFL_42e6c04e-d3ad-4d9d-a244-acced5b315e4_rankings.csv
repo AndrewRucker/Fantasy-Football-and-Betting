@@ -71,6 +71,7 @@ id,name,Position,ADP,Team
 1286064,Brian Thomas Jr.,WR,,JAX
 976220,Marquise Brown,WR,,KC
 591816,Dak Prescott,QB,,DAL
+742390,James Conner,RB,,ARI
 1229343,Rachaad White,RB,,TB
 1174682,Rhamondre Stevenson,RB,,NE
 1065361,Jake Ferguson,TE,,DAL
@@ -84,12 +85,11 @@ id,name,Position,ADP,Team
 832098,David Njoku,TE,,CLE
 973964,Najee Harris,RB,,PIT
 1176443,Jaylen Warren,RB,,PIT
+1123379,Chase Brown,RB,,CIN
 913170,Zack Moss,RB,,CIN
 1326601,Jonathon Brooks,RB,,CAR
 1110697,Zamir White,RB,,LV
 946739,David Montgomery,RB,,DET
-1123379,Chase Brown,RB,,CIN
-742390,James Conner,RB,,ARI
 750846,Alvin Kamara,RB,,NO
 606501,Raheem Mostert,RB,,MIA
 916466,Devin Singletary,RB,,NYG
@@ -190,6 +190,7 @@ id,name,Position,ADP,Team
 1173266,Evan Hull,RB,,IND
 1271738,Jaleel McLaughlin,RB,,DEN
 1049263,Cade Otton,TE,,TB
+1108998,Dameon Pierce,RB,,HOU
 1173255,Malik Washington,WR,,MIA
 496083,Derek Carr,QB,,NO
 1110681,Justin Fields,QB,,PIT
@@ -248,4 +249,3 @@ id,name,Position,ADP,Team
 877784,Ty Johnson,RB,,BUF
 912027,Darnell Mooney,WR,,ATL
 1108990,Blake Watson,RB,,DEN
-1222789,Keaton Mitchell,RB,,BAL
