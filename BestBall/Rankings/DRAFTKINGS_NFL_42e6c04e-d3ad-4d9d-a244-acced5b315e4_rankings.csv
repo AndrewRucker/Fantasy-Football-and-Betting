@@ -116,6 +116,7 @@ id,name,Position,ADP,Team
 1322431,Keon Coleman,WR,,BUF
 1172428,Dontayvion Wicks,WR,,GB
 1107881,Javonte Williams,RB,,DEN
+933480,Rico Dowdle,RB,,DAL
 1122653,Romeo Doubs,WR,,GB
 976761,Gabriel Davis,WR,,JAX
 1285908,Adonai Mitchell,WR,,IND
@@ -125,12 +126,10 @@ id,name,Position,ADP,Team
 733754,Mike Williams,WR,,NYJ
 1164530,Zach Charbonnet,RB,,SEA
 1229540,Blake Corum,RB,,LAR
-1215077,Josh Downs,WR,,IND
-728338,Ezekiel Elliott,RB,,DAL
 1059576,Ty Chandler,RB,,MIN
-1213414,MarShawn Lloyd,RB,,GB
-933480,Rico Dowdle,RB,,DAL
 1131198,Tyler Allgeier,RB,,ATL
+1213414,MarShawn Lloyd,RB,,GB
+728338,Ezekiel Elliott,RB,,DAL
 1116662,Pat Freiermuth,TE,,PIT
 923915,T.J. Hockenson,TE,,MIN
 1286513,Jaylen Wright,RB,,MIA
@@ -153,6 +152,7 @@ id,name,Position,ADP,Team
 744425,Hunter Henry,TE,,NE
 1066765,Cole Kmet,TE,,CHI
 1164875,Wan'Dale Robinson,WR,,NYG
+1215077,Josh Downs,WR,,IND
 1164846,Luke McCaffrey,WR,,WAS
 1229669,Roman Wilson,WR,,PIT
 1286176,Troy Franklin,WR,,DEN
@@ -187,12 +187,15 @@ id,name,Position,ADP,Team
 1128998,Deneric Prince,RB,,KC
 1287923,Bucky Irving,RB,,TB
 1214824,Kimani Vidal,RB,,LAC
+1215035,Tank Bigsby,RB,,JAX
 1173266,Evan Hull,RB,,IND
 1271738,Jaleel McLaughlin,RB,,DEN
 1049263,Cade Otton,TE,,TB
 1108998,Dameon Pierce,RB,,HOU
 1173255,Malik Washington,WR,,MIA
 496083,Derek Carr,QB,,NO
+1287636,Will Shipley,RB,,PHI
+1122182,Dylan Laube,RB,,LV
 1110681,Justin Fields,QB,,PIT
 1161899,Bo Nix,QB,,DEN
 1286803,Drake Maye,QB,,NE
@@ -228,11 +231,8 @@ id,name,Position,ADP,Team
 1223301,Jalen Brooks,WR,,DAL
 1214414,Theo Johnson,TE,,NYG
 1393832,Ryan Flournoy,WR,,DAL
-1215035,Tank Bigsby,RB,,JAX
 1326628,Ja'Tavion Sanders,TE,,CAR
 1067132,Charlie Jones,WR,,CIN
-1122182,Dylan Laube,RB,,LV
-1287636,Will Shipley,RB,,PHI
 1109708,Tyrone Tracy Jr.,RB,,NYG
 1130705,Kenneth Gainwell,RB,,PHI
 1168245,Sam Howell,QB,,SEA
