@@ -127,22 +127,23 @@ ff2e5025-2e5a-42f1-b618-d49879ee4137,Mike Williams,WR,,NYJ
 e89f7b98-d087-46a4-b20a-53dd65177736,Blake Corum,RB,,LAR
 05ae34fa-4c89-4171-aec5-3a9cf44970be,Ty Chandler,RB,,MIN
 fd40f098-b8ea-462f-9500-a356b073a8c2,Tyler Allgeier,RB,,ATL
-ba62ae9e-6556-4eec-abd8-24061cbc3b64,MarShawn Lloyd,RB,,GB
 3a7f32f4-cdb6-4be0-a1b5-6c216802dc4c,Ezekiel Elliott,RB,,DAL
 9461990e-fcb5-461a-aef0-cd430b33a1c8,Pat Freiermuth,TE,,PIT
 83050f3b-3f33-4e5b-ad16-b0a82eefdcbb,T.J. Hockenson,TE,,MIN
 ffffe221-e468-4aa4-a89c-814ff9d84e24,Jaylen Wright,RB,,MIA
 2642260c-f775-4263-977c-4584914f0418,Gus Edwards,RB,,LAC
 dd65067d-22f1-4262-9511-1722ec842441,Brandin Cooks,WR,,DAL
-7add997e-ddf5-4dd6-b818-4747a6c23448,Ray Davis,RB,,BUF
 3818318a-eae9-4e5e-97b7-fc9c17aff78d,Chuba Hubbard,RB,,CAR
 0eae9eff-1161-4e23-8038-c359ca6c1410,Ja'Lynn Polk,WR,,NE
 28d325d3-3f66-4334-8c97-7e886cbb0218,Kirk Cousins,QB,,ATL
 542c1523-b23e-42fd-add6-29db4ec3dc1d,Trey Benson,RB,,ARI
 639efdda-8c57-4da3-83d2-30f2471bfc02,Justin Herbert,QB,,LAC
 3d994e25-98b0-4fe4-8e43-45caa3b05889,Baker Mayfield,QB,,TB
+f55e4b60-80f9-4a44-bc29-a1e8af4d1396,Braelon Allen,RB,,NYJ
 8455944d-c59f-4f25-a201-2a0785a34543,Antonio Gibson,RB,,NE
+7add997e-ddf5-4dd6-b818-4747a6c23448,Ray Davis,RB,,BUF
 c4ee1373-10f2-47bb-a333-0bbc1047fee3,Nick Chubb,RB,,CLE
+ba62ae9e-6556-4eec-abd8-24061cbc3b64,MarShawn Lloyd,RB,,GB
 6cf1940d-9a54-4eb3-ba14-49e9b822d88d,Jerry Jeudy,WR,,CLE
 49edc4f4-dc78-467d-8ddb-a5585fcb54e9,Jerome Ford,RB,,CLE
 d79e99d3-9a96-438e-a237-b5a1f6309909,Dalton Schultz,TE,,HOU
@@ -163,6 +164,7 @@ edb873b8-24e4-46c7-a82e-01efdedd9ff3,Geno Smith,QB,,SEA
 63eec11c-1dd4-4fc1-9d4c-518113126176,Andrei Iosivas,WR,,CIN
 d03ce45d-ed3f-40cf-8ae2-a7fb49ef2eab,Jalen McMillan,WR,,TB
 6835cc77-2259-460a-96d2-4593cac34fe4,Luke Musgrave,TE,,GB
+79b314eb-c128-42af-81d1-74d02e202c73,Greg Dortch,WR,,ARI
 1fe1828f-95e2-4ee6-a853-b15a778297b1,Luke McCaffrey,WR,,WAS
 7c3b8c65-cee7-441a-b656-dc0f9e592075,Ben Sinnott,TE,,WAS
 ee4764a1-5eaa-450f-bfb6-fda7fd37485f,Roman Wilson,WR,,PIT
@@ -178,7 +180,6 @@ c1bf2279-8822-483c-a471-eca605165780,Tyler Conklin,TE,,NYJ
 8b1ee1f2-c7a2-4e99-a044-780eb97933c7,Justin Fields,QB,,PIT
 781c6385-c420-4a04-a546-e7244b0f421d,Xavier Legette,WR,,CAR
 fc3f376b-6891-4be4-be49-125ac078306d,Audric Estime,RB,,DEN
-f55e4b60-80f9-4a44-bc29-a1e8af4d1396,Braelon Allen,RB,,NYJ
 0d8c52b1-1d65-476b-8b70-928503c96cfd,Deneric Prince,RB,,KC
 2cbcf238-c3f6-456f-966a-8c89943c11f2,Bucky Irving,RB,,TB
 5f0c0506-0633-48ed-82c8-84e8ccca391b,Jaleel McLaughlin,RB,,DEN
@@ -190,7 +191,6 @@ ff629d5a-a1a0-41aa-be94-384346c39dd0,Kendre Miller,RB,,NO
 71207b30-eb62-41d8-94af-120bf98f5097,Malik Washington,WR,,MIA
 a12d7960-6735-4cd5-a17b-a6fd9011f9ca,Colby Parkinson,TE,,LAR
 1507292b-ae32-4d4c-b453-630ba7b1de42,Sam Darnold,QB,,MIN
-79b314eb-c128-42af-81d1-74d02e202c73,Greg Dortch,WR,,ARI
 78a87fe4-0865-48fc-b9a2-cde47573850a,Dameon Pierce,RB,,HOU
 219e05a7-6e17-4f64-a2ae-2023dd01ecb3,Adam Thielen,WR,,CAR
 d1320ecb-9461-4fba-97c1-d40ae8c36cb5,Quentin Johnston,WR,,LAC
@@ -201,6 +201,7 @@ b934b6d1-f3f7-4e85-9093-61752570be82,Rashod Bateman,WR,,BAL
 7f61052c-f7f1-46a1-9486-afbbdebf9e9e,Jermaine Burton,WR,,CIN
 32b80205-735b-4646-962e-4485d512a029,Ricky Pearsall,WR,,SF
 fe172b50-3a9a-4b92-bfd7-7c4806855cd3,Troy Franklin,WR,,DEN
+6cec5387-b9aa-4091-824f-80656a0d72e0,Ty Johnson,RB,,BUF
 8f16025a-ffe0-4efa-836e-b71ae20db9e9,Bo Nix,QB,,DEN
 559fb2bc-fb75-45f8-8872-32bdc051ef1b,Drake Maye,QB,,NE
 b9d7fb42-b2c8-499d-989a-f6c8dd3cf6b1,Jacoby Brissett,QB,,NE
@@ -242,7 +243,6 @@ aa442ff3-158d-4084-bc7d-31672fba2a61,Jalin Hyatt,WR,,NYG
 04c2c192-c44a-4fd1-a962-e99a00f9a071,Jamari Thrash,WR,,CLE
 0500233c-15fa-4054-a18c-558c519b6ef3,Dawson Knox,TE,,BUF
 746a77dd-2238-418d-b736-f21ac804caed,Zach Ertz,TE,,WAS
-6cec5387-b9aa-4091-824f-80656a0d72e0,Ty Johnson,RB,,BUF
 4d0feb32-2c3d-4ba3-97a5-3255e2d8afd2,Darnell Mooney,WR,,ATL
 88da9cc2-e7b8-4dce-ab33-0d584f0c38a1,Blake Watson,RB,,DEN
 36eacb60-5365-4223-9254-718ee383c69d,Keaton Mitchell,RB,,BAL
