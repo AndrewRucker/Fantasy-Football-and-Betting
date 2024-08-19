@@ -127,21 +127,22 @@ id,name,Position,ADP,Team
 1229540,Blake Corum,RB,,LAR
 1059576,Ty Chandler,RB,,MIN
 1131198,Tyler Allgeier,RB,,ATL
-1213414,MarShawn Lloyd,RB,,GB
 728338,Ezekiel Elliott,RB,,DAL
 1116662,Pat Freiermuth,TE,,PIT
 923915,T.J. Hockenson,TE,,MIN
 1286513,Jaylen Wright,RB,,MIA
 739799,Gus Edwards,RB,,LAC
 607864,Brandin Cooks,WR,,DAL
-1165229,Ray Davis,RB,,BUF
 1213881,Ja'Lynn Polk,WR,,NE
 1062047,Chuba Hubbard,RB,,CAR
 403308,Kirk Cousins,QB,,ATL
 1248031,Trey Benson,RB,,ARI
 910562,Justin Herbert,QB,,LAC
 822857,Nick Chubb,RB,,CLE
+1325231,Braelon Allen,RB,,NYJ
+1165229,Ray Davis,RB,,BUF
 748070,Baker Mayfield,QB,,TB
+1213414,MarShawn Lloyd,RB,,GB
 1107826,Antonio Gibson,RB,,NE
 973935,Jerry Jeudy,WR,,CLE
 1125737,Jerome Ford,RB,,CLE
@@ -163,6 +164,7 @@ id,name,Position,ADP,Team
 1123529,Michael Wilson,WR,,ARI
 1124851,Andrei Iosivas,WR,,CIN
 1213726,Jalen McMillan,WR,,TB
+910852,Greg Dortch,WR,,ARI
 1164846,Luke McCaffrey,WR,,WAS
 1179790,Luke Musgrave,TE,,GB
 1229669,Roman Wilson,WR,,PIT
@@ -180,7 +182,6 @@ id,name,Position,ADP,Team
 1180321,Xavier Legette,WR,,CAR
 733643,Adam Thielen,WR,,CAR
 1321291,Audric Estime,RB,,DEN
-1325231,Braelon Allen,RB,,NYJ
 1128998,Deneric Prince,RB,,KC
 1287923,Bucky Irving,RB,,TB
 1213799,Marvin Mims Jr.,WR,,DEN
@@ -200,9 +201,11 @@ id,name,Position,ADP,Team
 1286803,Drake Maye,QB,,NE
 1218631,Jermaine Burton,WR,,CIN
 607047,Jacoby Brissett,QB,,NE
+1232892,Jalin Hyatt,WR,,NYG
 1286176,Troy Franklin,WR,,DEN
+877784,Ty Johnson,RB,,BUF
 1213257,Bryce Young,QB,,CAR
-910852,Greg Dortch,WR,,ARI
+867303,Gardner Minshew,QB,,LV
 727279,Demarcus Robinson,WR,,LAR
 1108208,Rashod Bateman,WR,,BAL
 1161416,Ricky Pearsall,WR,,SF
@@ -220,7 +223,6 @@ id,name,Position,ADP,Team
 1181861,Jacob Cowing,WR,,SF
 830751,Daurice Fountain,WR,,FA
 1050833,Elijah Mitchell,RB,,SF
-1066811,Aidan O'Connell,QB,,LV
 835443,D'Onta Foreman,RB,,CLE
 1109758,A.T. Perry,WR,,NO
 1128085,Greg Dulcich,TE,,DEN
@@ -238,12 +240,10 @@ id,name,Position,ADP,Team
 1164137,Jawhar Jordan,RB,,HOU
 944343,Alexander Mattison,RB,,LV
 1161739,Trey Palmer,WR,,TB
-1232892,Jalin Hyatt,WR,,NYG
 1178628,Jamari Thrash,WR,,CLE
 884083,Dawson Knox,TE,,BUF
 1213865,Quentin Johnston,WR,,LAC
 503177,Zach Ertz,TE,,WAS
-877784,Ty Johnson,RB,,BUF
 912027,Darnell Mooney,WR,,ATL
 1108990,Blake Watson,RB,,DEN
 1222789,Keaton Mitchell,RB,,BAL
