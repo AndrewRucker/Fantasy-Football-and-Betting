@@ -1,4 +1,4 @@
-id,position,team,name,rank
+id,position,team,name,adp
 9e801ec6-ed8e-49b1-8b66-90553d7dd7e2,RB,San Francisco 49ers,Christian McCaffrey,1
 098d87b9-1fc9-4466-a7dd-7f35f697f506,WR,Dallas Cowboys,CeeDee Lamb,2
 a36d312f-0f65-4e3a-98ef-823608309b21,WR,Miami Dolphins,Tyreek Hill,3
@@ -11,8 +11,8 @@ c76953d5-dc07-49f6-85e2-731b919c09a0,WR,NY Jets,Garrett Wilson,9
 2bad3d34-9960-4d9a-8fa7-6abc8d2ba1f7,WR,Philadelphia Eagles,A.J. Brown,10
 fb1781a7-ebfc-47c4-a925-18ad114c9834,WR,Los Angeles Rams,Puka Nacua,11
 56c751bc-45b5-4984-b916-8a9b1cbc056e,WR,Atlanta Falcons,Drake London,12
-bc1959be-6b30-4eca-be97-0f2e5b97eb9a,WR,San Francisco 49ers,Deebo Samuel,13
-f098bc7a-7b26-4b95-8a2a-5603e0c79eab,RB,Detroit Lions,Jahmyr Gibbs,14
+f098bc7a-7b26-4b95-8a2a-5603e0c79eab,RB,Detroit Lions,Jahmyr Gibbs,13
+bc1959be-6b30-4eca-be97-0f2e5b97eb9a,WR,San Francisco 49ers,Deebo Samuel,14
 0ca934b7-a6df-4df8-9f7b-f34f1f51d396,WR,Houston Texans,Nico Collins,15
 ffadf9c7-84c5-4cbd-882c-08ac77e4ceff,WR,Arizona Cardinals,Marvin Harrison,16
 333093b5-7ef3-49ae-a736-93217e79f666,WR,New Orleans Saints,Chris Olave,17
@@ -26,43 +26,43 @@ c0c23fc3-862e-481f-824b-04ee87c01392,WR,Philadelphia Eagles,DeVonta Smith,24
 2ea6b394-3237-4644-8b49-69cf67b6e8a9,RB,Los Angeles Rams,Kyren Williams,25
 2704e8d7-a534-4bef-9e3d-6d12ff738205,WR,Seattle Seahawks,DK Metcalf,26
 aeec05d9-8fa4-4b9a-a85d-4611dbb12d5f,WR,Houston Texans,Stefon Diggs,27
-c3032705-9198-4d1b-ba45-3d5eb7983645,WR,San Francisco 49ers,Brandon Aiyuk,28
-8da0dbe1-4d06-45f3-830a-2112443c2466,WR,Tampa Bay Buccaneers,Mike Evans,29
-f68af97f-836c-472d-8ad2-8b87a19ec178,WR,Chicago Bears,DJ Moore,30
+8da0dbe1-4d06-45f3-830a-2112443c2466,WR,Tampa Bay Buccaneers,Mike Evans,28
+f68af97f-836c-472d-8ad2-8b87a19ec178,WR,Chicago Bears,DJ Moore,29
+c3032705-9198-4d1b-ba45-3d5eb7983645,WR,San Francisco 49ers,Brandon Aiyuk,30
 2df22d1e-e053-42dd-9c5e-480d1196ff25,WR,Houston Texans,Tank Dell,31
 0f1d4122-0410-4a08-8ec5-564ad56b8d8c,WR,Baltimore Ravens,Zay Flowers,32
 d27b174c-ed7e-4138-a2c7-ab3fcd3575b3,WR,Cincinnati Bengals,Tee Higgins,33
-686108bb-239b-4273-a28a-69b9571cc03d,TE,Detroit Lions,Sam LaPorta,34
-18a2678b-805b-4ec2-8489-0e677735311b,TE,Kansas City Chiefs,Travis Kelce,35
-eb7bc4df-1285-4d03-94d4-bf9ab58eea87,TE,Arizona Cardinals,Trey McBride,36
-d763e0dc-b773-483d-be2a-a49c5ee0046d,WR,Kansas City Chiefs,Rashee Rice,37
-66b13037-5e4c-4b36-a7e7-398cbace2e58,QB,Buffalo Bills,Josh Allen,38
-5b733acd-4a48-40f0-9662-51e4540b0351,RB,Philadelphia Eagles,Saquon Barkley,39
-2e8f2806-a076-496d-b610-30c5a9db0098,RB,Baltimore Ravens,Derrick Henry,40
-5fd1a37f-4c31-4cc1-82b5-ce980d353aaa,TE,Buffalo Bills,Dalton Kincaid,41
-b73379fb-c0bf-4624-bb87-5b9daf7ae1ed,TE,Baltimore Ravens,Mark Andrews,42
-a9ad9af2-611c-4c9b-9e07-687f619a55ce,RB,Jacksonville Jaguars,Travis Etienne Jr.,43
-951c3ab5-1b70-43de-a537-16376027a240,RB,Kansas City Chiefs,Isiah Pacheco,44
-4ffdccda-f8a4-4ec4-90a6-0ddf19626a93,TE,Atlanta Falcons,Kyle Pitts,45
-0c4fb388-7ebc-4e40-947f-90ba2e7f60a3,WR,Indianapolis Colts,Michael Pittman Jr.,46
+d763e0dc-b773-483d-be2a-a49c5ee0046d,WR,Kansas City Chiefs,Rashee Rice,34
+686108bb-239b-4273-a28a-69b9571cc03d,TE,Detroit Lions,Sam LaPorta,35
+18a2678b-805b-4ec2-8489-0e677735311b,TE,Kansas City Chiefs,Travis Kelce,36
+66b13037-5e4c-4b36-a7e7-398cbace2e58,QB,Buffalo Bills,Josh Allen,37
+eb7bc4df-1285-4d03-94d4-bf9ab58eea87,TE,Arizona Cardinals,Trey McBride,38
+2e8f2806-a076-496d-b610-30c5a9db0098,RB,Baltimore Ravens,Derrick Henry,39
+5b733acd-4a48-40f0-9662-51e4540b0351,RB,Philadelphia Eagles,Saquon Barkley,40
+951c3ab5-1b70-43de-a537-16376027a240,RB,Kansas City Chiefs,Isiah Pacheco,41
+5fd1a37f-4c31-4cc1-82b5-ce980d353aaa,TE,Buffalo Bills,Dalton Kincaid,42
+b73379fb-c0bf-4624-bb87-5b9daf7ae1ed,TE,Baltimore Ravens,Mark Andrews,43
+a9ad9af2-611c-4c9b-9e07-687f619a55ce,RB,Jacksonville Jaguars,Travis Etienne Jr.,44
+0c4fb388-7ebc-4e40-947f-90ba2e7f60a3,WR,Indianapolis Colts,Michael Pittman Jr.,45
+f1af93fd-af0e-4380-8ae4-519f04a8673c,WR,Kansas City Chiefs,Xavier Worthy,46
 2426f790-2c33-4a1d-9074-0a2975affc5d,WR,Cleveland Browns,Amari Cooper,47
 3641f3d1-3ff6-4d44-91db-47834e41227b,WR,Jacksonville Jaguars,Christian Kirk,48
-079b90e6-3ce0-4952-88a6-8e2a3003d6fe,WR,Chicago Bears,Keenan Allen,49
-5e0c0398-4cff-4185-9805-3d5b56cb929b,QB,Philadelphia Eagles,Jalen Hurts,50
-f258ff18-d5fd-4dce-af9a-958900eecf52,QB,Baltimore Ravens,Lamar Jackson,51
-1028d0c1-94d4-463f-9a3d-3c0bebb060db,QB,Kansas City Chiefs,Patrick Mahomes,52
-f1af93fd-af0e-4380-8ae4-519f04a8673c,WR,Kansas City Chiefs,Xavier Worthy,53
-501824d3-4a54-4af2-b44a-d3ecd1963f1d,WR,Green Bay Packers,Jayden Reed,54
-84b4c137-2193-4e4b-b3de-a74f2eed2ad3,WR,Washington Commanders,Terry McLaurin,55
+5e0c0398-4cff-4185-9805-3d5b56cb929b,QB,Philadelphia Eagles,Jalen Hurts,49
+f258ff18-d5fd-4dce-af9a-958900eecf52,QB,Baltimore Ravens,Lamar Jackson,50
+1028d0c1-94d4-463f-9a3d-3c0bebb060db,QB,Kansas City Chiefs,Patrick Mahomes,51
+4ffdccda-f8a4-4ec4-90a6-0ddf19626a93,TE,Atlanta Falcons,Kyle Pitts,52
+84b4c137-2193-4e4b-b3de-a74f2eed2ad3,WR,Washington Commanders,Terry McLaurin,53
+079b90e6-3ce0-4952-88a6-8e2a3003d6fe,WR,Chicago Bears,Keenan Allen,54
+501824d3-4a54-4af2-b44a-d3ecd1963f1d,WR,Green Bay Packers,Jayden Reed,55
 0c410b1a-19f9-415f-ae96-11dc81d258dc,WR,Pittsburgh Steelers,George Pickens,56
-b7b1f316-40a7-4784-a8d1-f972b0dd394f,WR,Carolina Panthers,Diontae Johnson,57
-71aa400e-7eab-465e-bf0a-1c1f7f407306,WR,Seattle Seahawks,Jaxon Smith-Njigba,58
-0d22526b-00d4-4f61-9c71-7540cd373543,TE,San Francisco 49ers,George Kittle,59
-03fcdf1b-3181-4dc9-9891-5f8db430037f,RB,Seattle Seahawks,Kenneth Walker III,60
-d7025fba-a9fc-4295-8a27-b194556a90f9,RB,Buffalo Bills,James Cook,61
-993baded-bd48-4787-b0ad-ac2996be73a4,RB,Green Bay Packers,Josh Jacobs,62
-19f1f476-acd6-4dbd-ac1c-7c4a920bf479,WR,Tampa Bay Buccaneers,Chris Godwin,63
-144f1a02-d422-4d10-ba5e-349a5daae34b,WR,Chicago Bears,Rome Odunze,64
+03fcdf1b-3181-4dc9-9891-5f8db430037f,RB,Seattle Seahawks,Kenneth Walker III,57
+d7025fba-a9fc-4295-8a27-b194556a90f9,RB,Buffalo Bills,James Cook,58
+b7b1f316-40a7-4784-a8d1-f972b0dd394f,WR,Carolina Panthers,Diontae Johnson,59
+71aa400e-7eab-465e-bf0a-1c1f7f407306,WR,Seattle Seahawks,Jaxon Smith-Njigba,60
+144f1a02-d422-4d10-ba5e-349a5daae34b,WR,Chicago Bears,Rome Odunze,61
+0d22526b-00d4-4f61-9c71-7540cd373543,TE,San Francisco 49ers,George Kittle,62
+993baded-bd48-4787-b0ad-ac2996be73a4,RB,Green Bay Packers,Josh Jacobs,63
+19f1f476-acd6-4dbd-ac1c-7c4a920bf479,WR,Tampa Bay Buccaneers,Chris Godwin,64
 e5c2cbd7-65b7-41a9-b81d-a6e1313571fd,QB,Indianapolis Colts,Anthony Richardson,65
 cc6cf04a-9ebb-4f4d-9d39-cc637b2da612,WR,Tennessee Titans,Calvin Ridley,66
 905c091a-69b0-4c46-9f4a-0887d6485aaf,WR,Kansas City Chiefs,Hollywood Brown,67
@@ -75,20 +75,20 @@ bf247202-99b8-442a-9164-7e7b88e3c39c,QB,Arizona Cardinals,Kyler Murray,73
 5482dd3a-89c6-44de-9819-2b27e7af1097,TE,Jacksonville Jaguars,Evan Engram,74
 f5867da2-a5d7-46e0-8c3d-87d8f5679ac3,TE,Las Vegas Raiders,Brock Bowers,75
 6d7c0fe8-34ac-4c6c-a7ab-3aba41078fc0,WR,Buffalo Bills,Keon Coleman,76
-010a891d-2b17-4cbc-b8fe-7b3aa74f9e6f,WR,Minnesota Vikings,Jordan Addison,77
-140a874a-e16b-4b51-9640-01797a14e4a1,RB,Tampa Bay Buccaneers,Rachaad White,78
-1bbd25be-df0b-43c5-a027-2ff0bc886805,RB,Detroit Lions,David Montgomery,79
-94b09be0-23a5-46fd-9484-7aa994983d13,RB,Arizona Cardinals,James Conner,80
-313f9102-552e-42bb-9de8-8cdd09f9f400,RB,Miami Dolphins,Raheem Mostert,81
-f92ed8de-d86d-4837-9230-7ed84bdaf0f3,RB,Pittsburgh Steelers,Jaylen Warren,82
+140a874a-e16b-4b51-9640-01797a14e4a1,RB,Tampa Bay Buccaneers,Rachaad White,77
+1bbd25be-df0b-43c5-a027-2ff0bc886805,RB,Detroit Lions,David Montgomery,78
+94b09be0-23a5-46fd-9484-7aa994983d13,RB,Arizona Cardinals,James Conner,79
+313f9102-552e-42bb-9de8-8cdd09f9f400,RB,Miami Dolphins,Raheem Mostert,80
+010a891d-2b17-4cbc-b8fe-7b3aa74f9e6f,WR,Minnesota Vikings,Jordan Addison,81
+05770873-38ff-4f2c-9fe6-93b30344c8ff,WR,Detroit Lions,Jameson Williams,82
 c7a3f5f1-7736-4c0d-9fed-b00b9e39c46b,RB,Minnesota Vikings,Aaron Jones,83
 7596f380-5b00-47a8-9598-a26c2f107188,QB,Washington Commanders,Jayden Daniels,84
 8efa33b9-1203-4a58-82f7-2b1104491e97,RB,New Orleans Saints,Alvin Kamara,85
 59e3addb-e2f7-4d24-8852-eaa61c397dd7,RB,Chicago Bears,D'Andre Swift,86
 1775916e-71ef-4b95-beb7-cc387b7d0a26,RB,New England Patriots,Rhamondre Stevenson,87
 d4aff586-ebb1-48b4-9046-92ced891b82e,RB,Carolina Panthers,Jonathon Brooks,88
-d0ab599c-2441-43c7-8e44-355ddcd40fb4,WR,Tennessee Titans,DeAndre Hopkins,89
-05770873-38ff-4f2c-9fe6-93b30344c8ff,WR,Detroit Lions,Jameson Williams,90
+f92ed8de-d86d-4837-9230-7ed84bdaf0f3,RB,Pittsburgh Steelers,Jaylen Warren,89
+d0ab599c-2441-43c7-8e44-355ddcd40fb4,WR,Tennessee Titans,DeAndre Hopkins,90
 4cdb965b-ad70-4a6d-9ab5-2d106a11b98f,RB,Denver Broncos,Javonte Williams,91
 1eaa53eb-1685-436a-92f1-5108e9060916,RB,Las Vegas Raiders,Zamir White,92
 fa6d275b-9843-4a2a-a13f-17b2a6421118,RB,Pittsburgh Steelers,Najee Harris,93
@@ -289,3 +289,6 @@ cd52e459-87a8-465f-b612-a51359fa9c19,RB,Denver Broncos,Samaje Perine,285
 bb6c9c06-5502-469d-a4ff-7b5d78e29358,TE,Kansas City Chiefs,Noah Gray,288
 3f4abcaf-d841-4655-bb63-9ae5d2282c8b,WR,Dallas Cowboys,Jalen Brooks,289
 f96db244-41fb-4bc5-9996-360f3d67169e,TE,Los Angeles Rams,Tyler Higbee,290
+c9699180-ed82-4045-9915-9019c75407e0,WR,Seattle Seahawks,Jake Bobo,291
+ab272fe1-51fb-4f00-8fb1-b6e8316db400,RB,Arizona Cardinals,Emari Demercado,292
+8751a396-97c5-4d23-bb5e-f69039bbdd85,WR,Baltimore Ravens,Nelson Agholor,293
